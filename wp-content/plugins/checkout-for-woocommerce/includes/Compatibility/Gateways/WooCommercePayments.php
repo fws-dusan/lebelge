@@ -1,0 +1,102 @@
+<?php
+
+namespace Objectiv\Plugins\Checkout\Compatibility\Gateways;
+
+use Objectiv\Plugins\Checkout\Compatibility\CompatibilityAbstract;
+use Objectiv\Plugins\Checkout\Main;
+
+class WooCommercePayments extends CompatibilityAbstract {
+	public function is_available(): bool {
+		return defined( 'WCPAY_PLUGIN_FILE' );
+	}
+
+	function pre_init() {
+		/**
+		 * Filters whether to override Stripe payment request button heights
+		 *
+		 * @since 5.3.3
+		 *
+		 * @param bool $allow Whether to ignore shipping phone requirement during payment requests
+		 */
+		if ( apply_filters( 'cfw_wcpay_payment_requests_ignore_shipping_phone', true ) ) {
+			add_action( 'wc_ajax_wcpay_create_order', array( $this, 'process_payment_request_ajax_checkout' ), 1 );
+		}
+
+		add_action( 'wp_enqueue_scripts', array( $this, 'modify_localized_data' ), 100000 );
+	}
+
+	function run() {
+		$this->add_payment_request_buttons();
+	}
+
+	function add_payment_request_buttons() {
+		// Setup Apple Pay
+		if ( class_exists( '\\WC_Payments' ) && cfw_is_checkout() ) {
+			/** @var \WC_Payments_Payment_Request_Button_Handler $wc_payments_payment_request_button_handler */
+			$wc_payments_payment_request_button_handler = $this->get_hook_instance_object( 'woocommerce_checkout_before_customer_details', 'display_payment_request_button_html', 1 );
+
+			if ( ! $wc_payments_payment_request_button_handler ) {
+				return;
+			}
+
+			// Remove default stripe request placement
+			remove_action( 'woocommerce_checkout_before_customer_details', array( $wc_payments_payment_request_button_handler, 'display_payment_request_button_html' ), 1 );
+			remove_action( 'woocommerce_checkout_before_customer_details', array( $wc_payments_payment_request_button_handler, 'display_payment_request_button_separator_html' ), 2 );
+
+			// Add our own stripe requests
+			add_action( 'cfw_payment_request_buttons', array( $wc_payments_payment_request_button_handler, 'display_payment_request_button_html' ), 1 );
+			add_action( 'cfw_checkout_customer_info_tab', array( $this, 'add_payment_request_separator' ), 12 ); // This should be 12, which is after 11, which is the hook other gateways use
+		}
+	}
+
+	function add_payment_request_separator() {
+		$this->add_separator( '', 'wcpay-payment-request-button-separator', 'text-align: center;' );
+	}
+
+	function process_payment_request_ajax_checkout() {
+		$payment_request_type = isset( $_POST['payment_request_type'] ) ? wc_clean( $_POST['payment_request_type'] ) : '';
+
+		// Disable shipping phone validation when using payment request
+		if ( ! empty( $payment_request_type ) ) {
+			add_filter(
+				'woocommerce_checkout_fields',
+				function( $fields ) {
+					$shipping_phone = $fields['shipping']['shipping_phone'];
+
+					if ( $shipping_phone ) {
+						$fields['shipping']['shipping_phone']['required'] = false;
+						$fields['shipping']['shipping_phone']['validate'] = array();
+					}
+
+					return $fields;
+				},
+				1
+			);
+		}
+	}
+
+	function modify_localized_data() {
+		global $wp_scripts;
+
+		if ( ! isset( $wp_scripts->registered['WCPAY_PAYMENT_REQUEST'] ) ) {
+			return;
+		}
+
+		$data = $wp_scripts->registered['WCPAY_PAYMENT_REQUEST']->extra['data'];
+
+		$data = str_replace( '"height":"40"', '"height":"35"', $data );
+		$data = str_replace( '"height":"48"', '"height":"35"', $data );
+		$data = str_replace( '"height":"56"', '"height":"35"', $data );
+
+		$wp_scripts->registered['WCPAY_PAYMENT_REQUEST']->extra['data'] = $data;
+	}
+
+	function typescript_class_and_params( array $compatibility ): array {
+		$compatibility[] = array(
+			'class'  => 'Stripe',
+			'params' => array(),
+		);
+
+		return $compatibility;
+	}
+}

@@ -1,0 +1,21 @@
+{
+  "modal_library_insert": "Insert",
+  "modal_library_delete": "Delete",
+  "modal_library_preview": "Preview",
+  "modal_library_no_data": "No data",
+  "modal_library_column_name": "Name",
+  "modal_library_column_date": "Creation Date",
+  "modal_library_column_actions": "Actions",
+  "modal_library_category": "Category",
+
+  "structure_label": "Row",
+
+  "column_label": "Column",
+  "column_empty_label":"No content here. Drag new from 'Elements' panel.",
+  "placeholder_drag_here":"Drag here",
+
+  "modal_remove_title":"Are you sure?",
+  "modal_remove_text":"You won't be able to revert this!",
+  "modal_remove_confirm_text":"Yes",
+  "modal_remove_cancel_text":"Cancel"
+}

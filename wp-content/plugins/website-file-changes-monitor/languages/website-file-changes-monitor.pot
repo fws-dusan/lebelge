@@ -1,0 +1,1743 @@
+# Copyright (C) 2021 WP White Security
+# This file is distributed under the GPL3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Website File Changes Monitor 1.8.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/website-file-changes-monitor\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-06-16T09:00:27+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0-alpha\n"
+"X-Domain: website-file-changes-monitor\n"
+
+#. Plugin Name of the plugin
+#: includes/admin/class-wfcm-admin-file-changes.php:126
+#: includes/admin/class-wfcm-admin-menus.php:43
+#: includes/admin/class-wfcm-admin-menus.php:52
+#: includes/admin/views/html-admin-file-changes.php:18
+msgid "Website File Changes Monitor"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.wpwhitesecurity.com/website-file-changes-monitor/"
+msgstr ""
+
+#. Description of the plugin
+#. Translators: Plugin version string.
+#: includes/admin/views/html-admin-about-wrapper.php:19
+msgid "A hassle-free way to get alerted of file changes on your WordPress site & boost security."
+msgstr ""
+
+#. Author of the plugin
+#: includes/admin/views/html-admin-about.php:41
+msgid "WP White Security"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.wpwhitesecurity.com/"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-about.php:32
+msgid "Help"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-about.php:37
+msgid "About"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-about.php:42
+msgid "System Info"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-ajax.php:74
+msgid "WFCM Test Mail"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-ajax.php:75
+msgid "This is a test email from Website File Changes Monitor running on your site."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:128
+msgid "file changes"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:129
+msgid "First page"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:130
+msgid "Previous page"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:131
+msgid "Current page"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:132
+msgid "Next page"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:133
+msgid "Last page"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:136
+msgid "Added files"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:137
+msgid "Deleted files"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:138
+msgid "Modified files"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:141
+msgid "Select bulk action"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:142
+msgid "Bulk Actions"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:143
+#: includes/admin/class-wfcm-admin-file-changes.php:162
+msgid "Mark as read"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:144
+msgid "Exclude"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:145
+msgid "Apply"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:153
+msgid "Actions"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:154
+msgid "Add as allowed directory"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:155
+msgid "Add all the files in this directory to the list of allowed non-core WordPress files in the website root and core sub directories."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:156
+msgid "The plugin identified this file in your WordPress core directories. This does not mean it is malicious or something is wrong. However, by default such files are not part of WordPress core. Please check this file. If you are aware about it 'mark it as read' so the plugin won't alert you again about it, unless there are changes in it or it is deleted."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:157
+msgid "Date"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:158
+msgid "Exclude file from scans"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:159
+msgid "Exclude this file from the file integrity scan."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:160
+msgid "Exclude directory from scans"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:161
+msgid "Exclude all the files in this directory from the file integrity scan."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:163
+msgid "Mark this change as read. If you mark an unexpected WordPress core file change as read, that file will be added to the list of allowed files."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:164
+msgid "Name"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:165
+msgid "No file changes detected!"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:166
+#: includes/class-wfcm-scan-results-email.php:98
+msgid "Path"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:167
+msgid "Show list of files"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:168
+msgid "See the complete list of file changes grouped under this notice."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:169
+msgid "Type"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:170
+msgid "You can always change this from the plugin's settings."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:174
+#: includes/admin/views/html-admin-settings.php:401
+msgid "Adding an allowed directory"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:175
+msgid "When directories are added to the allowed list, the plugin will consider all the files in them as part of your website’s WordPress core. However, it will still scan them during the normal file integrity scans. So if files are added to this directory, or they are modified or deleted, the plugin will notify you about such change. If you do not want to be alerted of such changes about this directory, exclude it from the scan."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:186
+msgid "Generating the files' fingerprints"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:187
+msgid "Generate the files' fingerprints"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:188
+msgid "Generate fingerprints now"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:189
+msgid "Wait for the first scan"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:190
+#: includes/admin/class-wfcm-admin-settings.php:92
+msgid "Scanning..."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:191
+msgid "Scan complete!"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:192
+msgid "Scan failed!"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:193
+msgid "OK"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:194
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:195
+msgid "The plugin detects file changes by comparing the fingerprints of the files taken at different times. Therefore it first needs to generate the fingerprints of all the files. You can run this process now or wait for it to run when the first file scan is scheduled."
+msgstr ""
+
+#. Translators: 1 - <strong> tag, 2 - a closing </strong> tag.
+#: includes/admin/class-wfcm-admin-file-changes.php:198
+msgid "%1$sTip:%2$s You can change the scan schedule and frequency from the plugin settings."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:202
+msgid "The first file scan is complete. Now the plugin has the file fingerprints and it will alert you via email when it detect changes."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:203
+msgid "This process will run in the background. You can continue with the setup of this plugin."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:204
+#: includes/admin/views/html-admin-settings.php:119
+msgid "Send a test email"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:205
+msgid "Test email sent!"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:216
+msgid "Success"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:217
+msgid "Exit"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:218
+msgid "If you received the test email everything is setup correctly. You will be notified when the plugin detects file changes."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:219
+msgid "If you have not received an email, please <a href=\"https://www.wpwhitesecurity.com/support/submit-ticket/\" target=\"_blank\">contact us</a> so we can help you troubleshoot the issue."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:220
+msgid "Skip"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:221
+msgid "Save"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:222
+msgid "Saving"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:223
+msgid "Frequency"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:224
+msgid "Time"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:225
+msgid "Schedule the file changes scans"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:226
+msgid "By default, the plugin scans for file changes at 2:00AM every day. You can change both the scan frequency and schedule here or later on from the plugin settings:"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:227
+msgid "Scan scheduling failed"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:228
+msgid "We failed to set the scan frequency and schedule. Don't worry, this can be changed in the plugin settings. So please try again later. For now the scan will run at 2:00AM every day."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:235
+#: includes/admin/views/html-admin-settings.php:212
+msgid "Hour"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:236
+#: includes/admin/views/html-admin-settings.php:222
+#: includes/admin/views/html-admin-settings.php:232
+msgid "Day"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:239
+msgid "Hour to run the scan time"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:240
+msgid "Day of the week"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:242
+msgid "What to do with the plugin's findings?"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:243
+msgid "Once a scan is finished, you can see the file changes the plugin identified. Next to each reported change there are four (sometimes five) icons. The below legend explains what each icon is for."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:245
+msgid "This is the \"Mark as read\" icon. Click this icon after you confirm that you know about this file change."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:246
+msgid "This is the \"Add as allowed directory\" icon. Click this icon to add all the non-WordPress core files in a directory to the list of allowed files in the website's root and core sub directories."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:247
+msgid "This is the \"Exclude file\" icon. Click this icon to exclude a file from the file integrity scans."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:248
+msgid "This is the \"Exclude directory\" icon. Click this icon to exclude all the files in a directory from the file integrity scans."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:249
+msgid "This is the \"More information / details\" icon. When the WordPress core is updated, or a plugin or theme is installed, updated or deleted, for ease of use the plugin groups all the file changes under one change. Click this icon next to the change to see the complete list of file changes."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:250
+#: includes/admin/class-wfcm-admin-file-changes.php:251
+msgid "Read more"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:253
+msgid "Next"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:257
+msgid "Migrating..."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:258
+msgid "In this update we have changed the hashing algorithm from MD5 to sha256. We have changed it because SHA256 is not prone to hash collisions, making it more secure."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:260
+msgid "The upgrade of file signatures was successful."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:261
+msgid "Launch Now"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:264
+msgid "Launch scan now"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:265
+msgid "Scan started."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:266
+msgid "Scan failed"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:267
+msgid "Currently remaining areas to scan"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:267
+msgid "Last scan"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:269
+msgid "File scanning underway..."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:273
+msgid "Mark all as read"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:274
+msgid "Marking as read..."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:275
+msgid "Marking failed"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:276
+msgid "Marking complete"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:277
+msgid "Only the {{$type}} file changes notifications"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:278
+msgid "All file changes"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:279
+msgid "Mark all {{$type}} file changes notifications as read"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:280
+msgid "Do you want to mark the {{$type}} file changes notifications as read, or all of the file changes notifications reported at this moment?"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:284
+msgid "Instant scan failed"
+msgstr ""
+
+#. Translators: Contact us hyperlink
+#: includes/admin/class-wfcm-admin-file-changes.php:286
+#: includes/admin/views/html-admin-settings.php:469
+msgid "Oops! Something went wrong with the scan. Please %s for assistance."
+msgstr ""
+
+#. Translators: Contact us hyperlink
+#: includes/admin/class-wfcm-admin-file-changes.php:286
+#: includes/admin/views/html-admin-settings.php:122
+#: includes/admin/views/html-admin-settings.php:469
+msgid "contact us"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:287
+msgid "Ok"
+msgstr ""
+
+#. Translators: 1 - WP White Security support hyperlink. 2 - support link closer
+#: includes/admin/class-wfcm-admin-file-changes.php:320
+msgid "We detected that a previous file integrity scan failed due to an unknown reason. Contact us at %1$ssupport@wpwhitesecurity.com%2$s to help you with this issue."
+msgstr ""
+
+#. Translators: 1 - WP White Security support hyperlink. 2 - support link closer
+#: includes/admin/class-wfcm-admin-file-changes.php:336
+msgid "The last file integrity scan was halted %3$sbecause it took more than maximum scan time (3 minutes) to complete. Contact us at %1$ssupport@wpwhitesecurity.com%2$s to help you with this issue."
+msgstr ""
+
+#. Translators: link fragments.
+#: includes/admin/class-wfcm-admin-file-changes.php:352
+msgid "The plugin changed to use SHA-256 for hashing. You need to delete the old file fingerprints and run a scan to generate new ones with the new hashing algorithm. You can %1$scontact us%2$s for assistance."
+msgstr ""
+
+#. Translators: link fragments.
+#: includes/admin/class-wfcm-admin-file-changes.php:366
+msgid "The plugin uses SHA-256 for hashing. It seems that this hashing method is not enabled on your website. Please %1$scontact us%2$s for assistance."
+msgstr ""
+
+#. Translators: %s: WP White Security support hyperlink.
+#: includes/admin/class-wfcm-admin-file-changes.php:388
+msgid "The plugin stopped scanning the below directories because they have more than 200,000 files. Please contact %s for assistance."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:389
+msgid "our support"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:403
+msgid "Exclude file"
+msgstr ""
+
+#. Translators: %s: Plugin settings hyperlink.
+#: includes/admin/class-wfcm-admin-file-changes.php:414
+msgid "These files are bigger than %sMB and have not been scanned. To scan them increase the file size scan limit from the %s."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:416
+msgid "plugin settings"
+msgstr ""
+
+#. Translators: Date and time
+#: includes/admin/class-wfcm-admin-file-changes.php:434
+msgid "There were no file changes detected during the last file scan, which ran on %s."
+msgstr ""
+
+#. Translators: %s: WP White Security support hyperlink.
+#: includes/admin/class-wfcm-admin-file-changes.php:442
+msgid "During the last scan the plugin failed to connect to the WordPress repository to cross-check the WordPress core files on your website. The plugin will automatically try to connect again during the upcoming scans. If this message keeps on appearing after every scan %s."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:443
+msgid "get in touch with us for assistance"
+msgstr ""
+
+#. Translators: %s: Website permalink settings hyperlink.
+#: includes/admin/class-wfcm-admin-file-changes.php:456
+msgid "It seems that your permalinks are not configured. Please %s for the plugin to display the file changes."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:457
+msgid "configure them"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:466
+msgid "A scan is currently processing in the background."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:495
+msgid "Added Files"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:499
+msgid "Modified Files"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-file-changes.php:503
+msgid "Deleted Files"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-menus.php:44
+#: includes/admin/class-wfcm-admin-menus.php:52
+msgid "Files Monitor"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-menus.php:59
+#: includes/admin/class-wfcm-admin-menus.php:138
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-menus.php:67
+msgid "Help & About"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-menus.php:137
+msgid "See File Changes"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-menus.php:139
+msgid "Support"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-settings.php:90
+msgid "Scan Now"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-settings.php:91
+msgid "Stop Scan"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-settings.php:93
+msgid "Stopping scan..."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-settings.php:94
+msgid "Scan Failed!"
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-settings.php:96
+msgid "Filename cannot be added because it contains invalid characters."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-settings.php:97
+msgid "File extension cannot be added because it contains invalid characters."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-settings.php:98
+msgid "Directory cannot be added because it contains invalid characters."
+msgstr ""
+
+#: includes/admin/class-wfcm-admin-settings.php:193
+msgid "Your settings have been saved."
+msgstr ""
+
+#. Translators: Plugin version string.
+#: includes/admin/views/html-admin-about-wrapper.php:18
+msgid "Website File Changes Monitor %s"
+msgstr ""
+
+#. Translators: Plugin version string.
+#: includes/admin/views/html-admin-about-wrapper.php:20
+msgid "Version %s"
+msgstr ""
+
+#: includes/admin/views/html-admin-about.php:15
+msgid "Keep a log of users & under the hood activity on WordPress"
+msgstr ""
+
+#: includes/admin/views/html-admin-about.php:21
+msgid "Add an extra layer of security to your login pages with 2FA & require your users to use it."
+msgstr ""
+
+#: includes/admin/views/html-admin-about.php:27
+msgid "Enforce strong password policies on your WordPress websites"
+msgstr ""
+
+#: includes/admin/views/html-admin-about.php:33
+msgid "See the child sites activity logs from the central MainWP dashboard"
+msgstr ""
+
+#. Translators: 1. WP plugins hyperlink 2. Contact form hyperlink
+#: includes/admin/views/html-admin-about.php:42
+msgid "The WP File Changes Monitor plugin is developed by WP White Security, developers of %1$s. If you would like to get in touch with us, please use our %2$s."
+msgstr ""
+
+#. Translators: 1. WP plugins hyperlink 2. Contact form hyperlink
+#: includes/admin/views/html-admin-about.php:42
+msgid "high-quality niche WordPress security and admin plugins"
+msgstr ""
+
+#. Translators: 1. WP plugins hyperlink 2. Contact form hyperlink
+#: includes/admin/views/html-admin-about.php:42
+msgid "contact form"
+msgstr ""
+
+#: includes/admin/views/html-admin-about.php:44
+msgid "Our WordPress Plugins"
+msgstr ""
+
+#: includes/admin/views/html-admin-about.php:55
+msgid "LEARN MORE"
+msgstr ""
+
+#: includes/admin/views/html-admin-help.php:13
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/views/html-admin-help.php:14
+msgid "Once you install the plugin it will automatically scan for file changes. When the plugin detects a new, modified or deleted file it will notify you with an orange icon as shown below:"
+msgstr ""
+
+#: includes/admin/views/html-admin-help.php:15
+msgid "Website File Changes Monitor View"
+msgstr ""
+
+#: includes/admin/views/html-admin-help.php:16
+msgid "How often does the plugin scan for file changes?"
+msgstr ""
+
+#: includes/admin/views/html-admin-help.php:17
+msgid "By default, the plugin scans the website once a week. You can change the file integrity scan frequency and other properties of the scan from the plugin’s settings."
+msgstr ""
+
+#: includes/admin/views/html-admin-help.php:18
+msgid "Plugin Support"
+msgstr ""
+
+#: includes/admin/views/html-admin-help.php:19
+msgid "Have you encountered or noticed any issues while using WP File Changes Monitor? Or do you want to report something to us? Use any of the options below to get in touch with us."
+msgstr ""
+
+#: includes/admin/views/html-admin-help.php:21
+msgid "POST ON FREE SUPPORT FORUM"
+msgstr ""
+
+#: includes/admin/views/html-admin-help.php:22
+msgid "FREE EMAIL SUPPORT"
+msgstr ""
+
+#: includes/admin/views/html-admin-help.php:24
+msgid "Rate WP File Changes Monitor"
+msgstr ""
+
+#: includes/admin/views/html-admin-help.php:25
+msgid "We work really hard to develop a good plugin with which you can be alerted of file changes. It involves thousands of man-hours and an endless amount of dedication to research, develop, and maintain this plugin. Therefore if you like what you see, and find WP File Changes Monitor useful we ask you nothing more than to please rate our plugin. We appreciate every star!"
+msgstr ""
+
+#: includes/admin/views/html-admin-help.php:34
+msgid "Rate Plugin"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:25
+msgctxt "a day number in a given month"
+msgid "01"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:26
+msgctxt "a day number in a given month"
+msgid "02"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:27
+msgctxt "a day number in a given month"
+msgid "03"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:28
+msgctxt "a day number in a given month"
+msgid "04"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:29
+msgctxt "a day number in a given month"
+msgid "05"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:30
+msgctxt "a day number in a given month"
+msgid "06"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:31
+msgctxt "a day number in a given month"
+msgid "07"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:32
+msgctxt "a day number in a given month"
+msgid "08"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:33
+msgctxt "a day number in a given month"
+msgid "09"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:34
+msgctxt "a day number in a given month"
+msgid "10"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:35
+msgctxt "a day number in a given month"
+msgid "11"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:36
+msgctxt "a day number in a given month"
+msgid "12"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:37
+msgctxt "a day number in a given month"
+msgid "13"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:38
+msgctxt "a day number in a given month"
+msgid "14"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:39
+msgctxt "a day number in a given month"
+msgid "15"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:40
+msgctxt "a day number in a given month"
+msgid "16"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:41
+msgctxt "a day number in a given month"
+msgid "17"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:42
+msgctxt "a day number in a given month"
+msgid "18"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:43
+msgctxt "a day number in a given month"
+msgid "19"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:44
+msgctxt "a day number in a given month"
+msgid "20"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:45
+msgctxt "a day number in a given month"
+msgid "21"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:46
+msgctxt "a day number in a given month"
+msgid "22"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:47
+msgctxt "a day number in a given month"
+msgid "23"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:48
+msgctxt "a day number in a given month"
+msgid "24"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:49
+msgctxt "a day number in a given month"
+msgid "25"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:50
+msgctxt "a day number in a given month"
+msgid "26"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:51
+msgctxt "a day number in a given month"
+msgid "27"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:52
+msgctxt "a day number in a given month"
+msgid "28"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:53
+msgctxt "a day number in a given month"
+msgid "29"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:54
+msgctxt "a day number in a given month"
+msgid "30"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:72
+msgid "Website File Changes Settings"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:75
+msgid "Which file changes do you want to be notified of?"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:79
+msgid "Notify me when files are"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:84
+msgid "Added"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:89
+msgid "Deleted"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:94
+msgid "Modified"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:102
+msgid "Where should we send the file changes notification?"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:103
+msgid "By default the plugin sends the email notifications to the administrator email address configured in the WordPress settings. Use the below setting to send the email notification to a different email address. You can specify multiple email addresses by separating them with a comma."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:106
+msgid "Notify this address"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:111
+msgid "Use admin email address in website settings."
+msgstr ""
+
+#. Translators: Contact us hyperlink
+#: includes/admin/views/html-admin-settings.php:122
+msgid "Oops! Email sending failed. Please %s for assistance."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:130
+msgid "How many file changes should the plugin report in the email?"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:131
+msgid "To avoid long emails, by default the plugin only reports up to 10 changes per file type change. You can increase or decrease the number of reported file changes in the email from the below setting:"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:134
+msgid "Number of file changes"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:144
+msgid "When should the plugin send you an email?"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:145
+msgid "Use the settings below to specify when the plugin should send you an email."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:148
+msgid "Email settings"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:153
+msgid "Send me an email when file changes are detected"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:159
+msgid "Send me an email even when a scan finishes and no file changes are detected"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:167
+msgid "When should the plugin scan your website for file changes?"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:171
+msgid "Scan frequency"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:183
+msgid "Scan time"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:240
+msgid "Which directories should be scanned for file changes?"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:241
+msgid "The plugin will scan all the directories in your WordPress website by default because that is the most secure option. Though if for some reason you do not want the plugin to scan any of these directories you can uncheck them from the below list."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:245
+msgid "Directories to scan"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:259
+msgid "Enable checksum comparison of WordPress core files with the official WordPress repository"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:271
+msgid "What is the biggest file size the plugin should scan?"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:272
+msgid "By default the plugin does not scan files that are bigger than 5MB. Such files are not common, hence typically not a target."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:275
+msgid "File size limit"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:278
+msgid "MB"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:285
+msgid "Scan common development folders?"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:286
+msgid "Some sites may contain special development folders like \".git\", \".github\", \".svg\" and \"node_modules\". We do not scan these folders by default however if you would like to scan them check this box. Scanning these directories could take a long time if there are lots of files in these directories additionally these files can change frequently - it may result in many added/modified files notifications."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:289
+msgid "Scan common development directories"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:298
+msgid "Do you want to exclude specific files or files with a particular extension from the scan?"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:299
+msgid "The plugin will scan everything that is in the WordPress root directory or below, even if the files and directories are not part of WordPress. It is recommended to scan all source code files and only exclude files that cannot be tampered, such as text files, media files etc, most of which are already excluded by default."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:301
+msgid "Exclude all files in these directories"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:313
+#: includes/admin/views/html-admin-settings.php:341
+#: includes/admin/views/html-admin-settings.php:365
+#: includes/admin/views/html-admin-settings.php:395
+#: includes/admin/views/html-admin-settings.php:428
+msgid "Remove"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:317
+#: includes/admin/views/html-admin-settings.php:345
+#: includes/admin/views/html-admin-settings.php:369
+#: includes/admin/views/html-admin-settings.php:399
+#: includes/admin/views/html-admin-settings.php:432
+msgid "Add"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:320
+msgid "Specify the name of the directory and the path to it in relation to the website's root. For example, if you want to exclude all files in the sub directory dir1/dir2 specify the following:"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:329
+msgid "Exclude these files"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:347
+msgid "Specify the name and extension of the file(s) you want to exclude. Wildcard not supported. There is no need to specify the path of the file."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:353
+msgid "Exclude these file types"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:371
+msgid "Specify the extension of the file types you want to exclude. You should exclude any type of logs and backup files that tend to be very big."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:379
+msgid "Which files are allowed as part of WordPress core (website root directory, wp-admin and wp-includes)?"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:380
+msgid "All non-WordPress core files on a website are saved in the uploads directory. However, you might have non-WordPress core files in the website root or in the core directories (wp-admin and wp-includes). If you do, add them to the below list so they are marked as legit files. Otherwise, the plugin will notify you about them with each scan. Note that by adding them to this list, it does not mean that the plugin won't alert you of any subsequent changes that happen to these files and / or in these directories. If you do not want to be alerted of any changes in these files or directory, exclude them from the scan."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:380
+msgid "More information"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:383
+msgid "Allow all the files in these directories"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:400
+msgid "When directories are added to this list, the plugin will consider them as part of your website's WordPress core. Therefore it will scan the files in them during the normal file integrity scans and will alert you if any are modified or deleted. If you do not want to be alerted of such changes about files in this directory, exclude it from the scan."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:405
+msgid "Specify the name of the directory and the path to it in relation to the website's root. For example, if you want to allow all files in the sub directory dir1/dir2 specify the following:"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:415
+msgid "Allow these files"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:433
+msgid "When files are added to this list, the plugin will consider them as part of your website's WordPress core. Therefore it will scan them during the normal file integrity scans and will alert you if they are modified or deleted. If you do not want to be alerted of such changes about this file, exclude it from the scan."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:434
+msgid "Adding an allowed file"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:437
+msgid "Specify the name and extension of the file(s) you want to allow in the website root and core directories. Wildcard not supported. There is no need to specify the path of the file."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:445
+msgid "Launch an instant file changes scan"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:446
+msgid "Click the \"Scan now\" button to launch an instant file changes scan using the configured settings. You can navigate away from this page during the scan. Note that the instant scan can be more resource intensive than scheduled scans."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:451
+msgid "Launch instant scan"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:456
+#: includes/admin/views/html-admin-settings.php:463
+msgid "Scan now"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:457
+#: includes/admin/views/html-admin-settings.php:460
+#: includes/admin/views/html-admin-settings.php:464
+msgid "Stop scan"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:459
+msgid "Scan in progress"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:477
+msgid "Temporarily disable file scanning"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:478
+msgid "Use the below switch to disable file scanning. When you disable and re-enable scanning, the plugin will compare the file scan to those of the last scan before it was disabled."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:481
+msgid "File scanning"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:484
+msgid "Off"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:492
+msgid "On"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:499
+msgid "Debug & uninstall settings"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:501
+msgid "Enable the debug logging when requested by support. This is used for support."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:501
+msgid "The debug log file is saved in the /wp-content/uploads/wfcm-logs/ folder on your website."
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:505
+msgid "Debug logs"
+msgstr ""
+
+#: includes/admin/views/html-admin-settings.php:516
+msgid "Delete plugin data upon uninstall"
+msgstr ""
+
+#: includes/admin/views/html-admin-system-info.php:13
+msgid "System Information"
+msgstr ""
+
+#: includes/admin/views/html-admin-system-info.php:16
+msgid "Download System Info File"
+msgstr ""
+
+#: includes/bg/class-wfcm-background-scanner.php:46
+msgid "WFCM started scanning:"
+msgstr ""
+
+#: includes/class-website-file-changes-monitor.php:188
+msgid "The Website File Changes Monitor plugin requires WP Activity Log version 4.1.2. Please upgrade that plugin."
+msgstr ""
+
+#: includes/class-wfcm-data-store.php:53
+msgid "Data store does not exist."
+msgstr ""
+
+#: includes/class-wfcm-data-store.php:58
+msgid "Invalid data store."
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:295
+msgid "WFCM sent an email"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:471
+msgid "Every 10 minutes"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:475
+msgid "Once a week"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:758
+msgid "Added file:"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:760
+msgid "Deleted file:"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:762
+msgid "Modified file:"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:796
+msgid "Unable to increase max execution time, PHP safe_mode may be enabled."
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1026
+msgid "Encountered unusual filename at: "
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1266
+msgid "Plugin Install"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1275
+msgid "Installed plugin:"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1276
+#: includes/class-wfcm-monitor.php:1293
+#: includes/class-wfcm-monitor.php:1522
+msgid "Added files:"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1283
+msgid "Theme Install"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1292
+msgid "Installed theme:"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1305
+msgid "Plugin Uninstall"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1314
+msgid "Uninstalled plugin:"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1315
+#: includes/class-wfcm-monitor.php:1332
+#: includes/class-wfcm-monitor.php:1536
+msgid "Deleted files:"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1322
+msgid "Theme Uninstall"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1331
+msgid "Uninstalled theme:"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1497
+msgid "Plugin Update"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1504
+msgid "Theme Update"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1511
+msgid "Core Update"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1521
+#: includes/class-wfcm-monitor.php:1535
+#: includes/class-wfcm-monitor.php:1549
+msgid "Updated"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1550
+msgid "Modified files:"
+msgstr ""
+
+#: includes/class-wfcm-monitor.php:1810
+msgid "No changes found in this path: "
+msgstr ""
+
+#: includes/class-wfcm-post-types.php:46
+msgid "File Change Events"
+msgstr ""
+
+#: includes/class-wfcm-rest-api.php:152
+msgid "Whether to exclude the content in future scans or not"
+msgstr ""
+
+#: includes/class-wfcm-rest-api.php:157
+msgid "The type of exclusion, i.e., file or directory."
+msgstr ""
+
+#: includes/class-wfcm-rest-api.php:203
+msgid "The type of target, i.e., file or directory."
+msgstr ""
+
+#: includes/class-wfcm-rest-api.php:323
+#: includes/class-wfcm-rest-api.php:514
+msgid "No event type specified for the request."
+msgstr ""
+
+#: includes/class-wfcm-rest-api.php:377
+#: includes/class-wfcm-rest-api.php:607
+msgid "No event id specified for the request."
+msgstr ""
+
+#: includes/class-wfcm-rest-api.php:402
+msgid "Directory excluded"
+msgstr ""
+
+#: includes/class-wfcm-rest-api.php:404
+msgid "You have excluded directory %s from the file scans."
+msgstr ""
+
+#: includes/class-wfcm-rest-api.php:406
+#: includes/class-wfcm-rest-api.php:636
+msgid "Do you want to delete the existing file changes notifications about files in this directory? If you do, the process will run in the background. Please revisit the file changes results later for an updated log."
+msgstr ""
+
+#: includes/class-wfcm-rest-api.php:573
+msgid "No admin notice key specified for the request."
+msgstr ""
+
+#: includes/class-wfcm-rest-api.php:632
+msgid "Directory added to allowed list"
+msgstr ""
+
+#: includes/class-wfcm-rest-api.php:634
+msgid "You have added directory %s to the list of allowed directories in the WordPress core."
+msgstr ""
+
+#: includes/class-wfcm-rest-api.php:655
+msgid "No directory path for the request."
+msgstr ""
+
+#: includes/class-wfcm-scan-results-email.php:61
+msgid "File additions detected on your website:"
+msgstr ""
+
+#. Translators: %d: Number of file additions
+#: includes/class-wfcm-scan-results-email.php:63
+msgid "Total number of additions: %d"
+msgstr ""
+
+#. Translators: 1: Number of displayed file changes, 2: Total number of file changes
+#: includes/class-wfcm-scan-results-email.php:65
+msgid "Showing %1$d out of %2$d additions."
+msgstr ""
+
+#. Translators: %d: Hyperlink to the plugin page in WordPress administration
+#: includes/class-wfcm-scan-results-email.php:67
+msgid "Click %s to see all the file additions."
+msgstr ""
+
+#: includes/class-wfcm-scan-results-email.php:72
+msgid "Files modifications detected on your website:"
+msgstr ""
+
+#. Translators: %d: Number of file modifications
+#: includes/class-wfcm-scan-results-email.php:74
+msgid "Total number of modifications: %d"
+msgstr ""
+
+#. Translators: 1: Number of displayed file changes, 2: Total number of file changes
+#: includes/class-wfcm-scan-results-email.php:76
+msgid "Showing %1$d out of %2$d modifications."
+msgstr ""
+
+#. Translators: %d: Hyperlink to the plugin page in WordPress administration
+#: includes/class-wfcm-scan-results-email.php:78
+msgid "Click %s to see all the file modifications."
+msgstr ""
+
+#: includes/class-wfcm-scan-results-email.php:83
+msgid "File deletions detected on your website:"
+msgstr ""
+
+#. Translators: %d: Number of file deletions
+#: includes/class-wfcm-scan-results-email.php:85
+msgid "Total number of deletions: %d"
+msgstr ""
+
+#. Translators: 1: Number of displayed file changes, 2: Total number of file changes
+#: includes/class-wfcm-scan-results-email.php:87
+msgid "Showing %1$d out of %2$d deletions."
+msgstr ""
+
+#. Translators: %d: Hyperlink to the plugin page in WordPress administration
+#: includes/class-wfcm-scan-results-email.php:89
+msgid "Click %s to see all the file deletions."
+msgstr ""
+
+#: includes/class-wfcm-scan-results-email.php:94
+msgid "File changes due to a plugin / theme install / update / uninstall:"
+msgstr ""
+
+#: includes/class-wfcm-scan-results-email.php:99
+msgid "Change type"
+msgstr ""
+
+#: includes/class-wfcm-scan-results-email.php:100
+msgid "File changes summary"
+msgstr ""
+
+#: includes/class-wfcm-scan-results-email.php:108
+msgctxt "Number of file changes of certain type"
+msgid "%d file %s"
+msgid_plural "%d files %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-wfcm-scan-results-email.php:137
+msgid "Visit the File Monitor in the WordPress dashboard to check the file changes."
+msgstr ""
+
+#. Translators: %s: Plugin WP Hyperlink
+#: includes/class-wfcm-scan-results-email.php:140
+msgid "This file integrity scan was done with the %s."
+msgstr ""
+
+#. Translators: %s: Plugin WP Hyperlink
+#: includes/class-wfcm-scan-results-email.php:140
+msgid "Website File Changes Monitor plugin"
+msgstr ""
+
+#. Translators: Date and time
+#: includes/class-wfcm-scan-results-email.php:161
+msgid "The below is a list of current file changes detected by the Website File Changes Monitor plugin. These include changes found in your most recent scan on %s."
+msgstr ""
+
+#. Translators: Date and time
+#: includes/class-wfcm-scan-results-email.php:166
+msgid "There were no file changes detected during the last file integrity scan that ran on %s."
+msgstr ""
+
+#. Translators: %s: Home URL
+#: includes/class-wfcm-scan-results-email.php:172
+msgid "File changes from file integrity scan on %s"
+msgstr ""
+
+#: includes/class-wfcm-scan-results-email.php:247
+msgid "here"
+msgstr ""
+
+#: includes/class-wfcm-scan-results-email.php:373
+msgid "added"
+msgstr ""
+
+#: includes/class-wfcm-scan-results-email.php:375
+msgid "modified"
+msgstr ""
+
+#: includes/class-wfcm-scan-results-email.php:377
+msgid "deleted"
+msgstr ""
+
+#: includes/event/class-wfcm-event.php:155
+msgid "Invalid event data."
+msgstr ""
+
+#: includes/wfcm-functions.php:201
+msgid "Core file"
+msgstr ""
+
+#: includes/wfcm-functions.php:203
+msgid "Unexpected file in core directory"
+msgstr ""
+
+#: includes/wfcm-functions.php:205
+msgid "Core file modification"
+msgstr ""
+
+#: includes/wfcm-functions.php:353
+#: includes/wfcm-functions.php:357
+msgid "The Website File Changes Monitor plugin is a multisite network tool, so it has to be activated at network level."
+msgstr ""
+
+#: includes/wfcm-functions.php:355
+msgid "Redirect me to the network dashboard."
+msgstr ""
+
+#: includes/wfcm-functions.php:359
+msgid "Please contact your multisite administrator."
+msgstr ""
+
+#: includes/wfcm-functions.php:422
+msgid "WordPress core files (files in the root, WP Admin directory - /wp-admin/ and WP Includes directory - /wp-includes/)"
+msgstr ""
+
+#: includes/wfcm-functions.php:423
+msgid "Themes directory (/wp-content/themes/)"
+msgstr ""
+
+#: includes/wfcm-functions.php:424
+msgid "Plugins directory (/wp-content/plugins/)"
+msgstr ""
+
+#: includes/wfcm-functions.php:425
+msgid "Uploads directory (/wp-content/uploads/)"
+msgstr ""
+
+#: includes/wfcm-functions.php:426
+msgid "/wp-content/ directory (other than the plugins, themes & upload directories)"
+msgstr ""
+
+#: includes/wfcm-functions.php:431
+msgid "Uploads directory of all sub sites on this network (/wp-content/sites/*)"
+msgstr ""
+
+#. Translators: %s: Home URL
+#: includes/wfcm-functions.php:591
+msgid "The file integrity scan on %1$s was halted."
+msgstr ""
+
+#: includes/wfcm-functions.php:594
+msgid "Hello,"
+msgstr ""
+
+#. Translators: %s: Home URL
+#: includes/wfcm-functions.php:600
+msgid "The file integrity scan on the website %1$s was halted because it took more than the maximum scan time (3 minutes) to complete."
+msgstr ""
+
+#. Translators: %s: Home URL
+#: includes/wfcm-functions.php:606
+msgid "The file integrity scan on the website %1$s was halted due to an unexpected issue."
+msgstr ""
+
+#. Translators: Opening and closing link fragments for mailto
+#: includes/wfcm-functions.php:613
+msgid "Please contact our support at %1$ssupport@wpwhitesecurity.com%2$s to help you with this issue."
+msgstr ""
+
+#. Translators: Opening and closing link fragments
+#: includes/wfcm-functions.php:619
+msgid "Email sent by the %1$sWebsite File Changes Monitor plugin%2$s."
+msgstr ""
+
+#: includes/wfcm-functions.php:711
+msgid "Hourly"
+msgstr ""
+
+#: includes/wfcm-functions.php:712
+msgid "Daily"
+msgstr ""
+
+#: includes/wfcm-functions.php:713
+msgid "Weekly"
+msgstr ""
+
+#: includes/wfcm-functions.php:726
+msgctxt "a time string representing midnight"
+msgid "00:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:727
+msgctxt "a time string of hour followed by minutes"
+msgid "01:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:728
+msgctxt "a time string of hour followed by minutes"
+msgid "02:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:729
+msgctxt "a time string of hour followed by minutes"
+msgid "03:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:730
+msgctxt "a time string of hour followed by minutes"
+msgid "04:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:731
+msgctxt "a time string of hour followed by minutes"
+msgid "05:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:732
+msgctxt "a time string of hour followed by minutes"
+msgid "06:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:733
+msgctxt "a time string of hour followed by minutes"
+msgid "07:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:734
+msgctxt "a time string of hour followed by minutes"
+msgid "08:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:735
+msgctxt "a time string of hour followed by minutes"
+msgid "09:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:736
+msgctxt "a time string of hour followed by minutes"
+msgid "10:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:737
+msgctxt "a time string of hour followed by minutes"
+msgid "11:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:738
+msgctxt "a time string representing midday"
+msgid "12:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:739
+msgctxt "a time string of hour followed by minutes"
+msgid "13:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:740
+msgctxt "a time string of hour followed by minutes"
+msgid "14:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:741
+msgctxt "a time string of hour followed by minutes"
+msgid "15:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:742
+msgctxt "a time string of hour followed by minutes"
+msgid "16:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:743
+msgctxt "a time string of hour followed by minutes"
+msgid "17:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:744
+msgctxt "a time string of hour followed by minutes"
+msgid "18:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:745
+msgctxt "a time string of hour followed by minutes"
+msgid "19:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:746
+msgctxt "a time string of hour followed by minutes"
+msgid "20:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:747
+msgctxt "a time string of hour followed by minutes"
+msgid "21:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:748
+msgctxt "a time string of hour followed by minutes"
+msgid "22:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:749
+msgctxt "a time string of hour followed by minutes"
+msgid "23:00"
+msgstr ""
+
+#: includes/wfcm-functions.php:761
+msgctxt "the last day of the week and last day of the weekend"
+msgid "Sunday"
+msgstr ""
+
+#: includes/wfcm-functions.php:762
+msgctxt "the first day of the week and first day of the work week"
+msgid "Monday"
+msgstr ""
+
+#: includes/wfcm-functions.php:763
+msgctxt "the second day of the week"
+msgid "Tuesday"
+msgstr ""
+
+#: includes/wfcm-functions.php:764
+msgctxt "the third day of the week"
+msgid "Wednesday"
+msgstr ""
+
+#: includes/wfcm-functions.php:765
+msgctxt "the fourth day of the week"
+msgid "Thursday"
+msgstr ""
+
+#: includes/wfcm-functions.php:766
+msgctxt "the fith day of the week, last day of the work week"
+msgid "Friday"
+msgstr ""
+
+#: includes/wfcm-functions.php:767
+msgctxt "the first day of the weekend"
+msgid "Saturday"
+msgstr ""
+
+#: includes/wsal-events/alerts/custom-alerts.php:4
+msgid "File Changes"
+msgstr ""
+
+#: includes/wsal-events/alerts/custom-alerts.php:5
+msgid "Monitor File Changes"
+msgstr ""
+
+#: includes/wsal-events/alerts/custom-alerts.php:9
+msgid "File content has been modified"
+msgstr ""
+
+#: includes/wsal-events/alerts/custom-alerts.php:10
+msgid "Content of file(s) on this website modified. %ReviewChangesLink%"
+msgstr ""
+
+#: includes/wsal-events/alerts/custom-alerts.php:18
+msgid "File added to the site"
+msgstr ""
+
+#: includes/wsal-events/alerts/custom-alerts.php:19
+msgid "New file(s) added on this website. %ReviewAdditionsLink%"
+msgstr ""
+
+#: includes/wsal-events/alerts/custom-alerts.php:27
+msgid "File deleted from the site"
+msgstr ""
+
+#: includes/wsal-events/alerts/custom-alerts.php:28
+msgid "File(s) deleted from this website. %ReviewDeletionsLink%"
+msgstr ""
+
+#: includes/wsal-events/alerts/custom-alerts.php:36
+msgid "File not scanned because it is bigger than the maximum file size limit"
+msgstr ""
+
+#: includes/wsal-events/alerts/custom-alerts.php:37
+msgid "File not scanned because it is bigger than the maximum file size limit %LineBreak% File: %File% %LineBreak% Location: %FileLocation% %LineBreak% %ReviewChangesLink%"
+msgstr ""
+
+#: includes/wsal-events/alerts/custom-alerts.php:45
+msgid "Your website has more than 200,000 files so the file integrity scanner cannot scan them all. Contact support for more information. %LineBreak% %ContactSupport%"
+msgstr ""
+
+#: includes/wsal-events/alerts/custom-alerts.php:53
+msgid "File integrity scan started/stopped"
+msgstr ""
+
+#: includes/wsal-events/alerts/custom-alerts.php:54
+msgid "The file integrity scan has %ScanStatus%."
+msgstr ""
+
+#: includes/wsal-events/sensor-functions.php:59
+msgid "Review changes"
+msgstr ""
+
+#: includes/wsal-events/sensor-functions.php:65
+#: includes/wsal-events/sensor-functions.php:70
+msgid "Review Changes"
+msgstr ""

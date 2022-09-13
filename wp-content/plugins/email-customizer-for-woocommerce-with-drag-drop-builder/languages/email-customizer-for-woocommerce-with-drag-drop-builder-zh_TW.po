@@ -1,0 +1,284 @@
+# Copyright (C) 2018 CidCode
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Customizer for WooCommerce with Drag Drop "
+"Builder - Woo Email Editor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: CidCode\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+#: email-customizer-for-woocommerce-with-drag-drop-builder.php:62
+#, php-format
+msgid ""
+"%sEmail Customizer with Drag Drop Builder needs WooCommerce%s %sWooCommerce"
+"%s must be active. Please install & activate WooCommerce."
+msgstr ""
+"%s 啟用Email Customizer with Drag Drop Builder，WooCommerce%s %sWooCommerce"
+"%s 為必要插件. 請安裝並啟用 WooCommerce."
+
+#: email-customizer-for-woocommerce-with-drag-drop-builder.php:77
+#, php-format
+msgid ""
+"%sEmail Customizer with Drag Drop Builder needs WooCommerce%s This version "
+"of Email Customizer requires WooCommerce %s or newer. For more information "
+"about our WooCommerce version support %sclick here%s."
+msgstr ""
+"%s 使用Email Customizer with Drag Drop Builder 需要 WooCommerce%s 此Email "
+"Customizer版本需要WooCommerce %s 以上. 關於我們的WooCommerce版本資訊，可 %s"
+"點此%s 瀏覽更多訊息."
+
+#: email-customizer-for-woocommerce-with-drag-drop-builder.php:107
+msgctxt "post type general name"
+msgid "Email Template"
+msgstr "電子郵件範本"
+
+#: email-customizer-for-woocommerce-with-drag-drop-builder.php:108
+msgctxt "post type singular name"
+msgid "Email Template"
+msgstr "電子郵件範本"
+
+#: email-customizer-for-woocommerce-with-drag-drop-builder.php:109
+msgctxt "Team item"
+msgid "Add New Email Template"
+msgstr "新增電子郵件範本"
+
+#: email-customizer-for-woocommerce-with-drag-drop-builder.php:110
+msgid "Add a new post of type Email Template"
+msgstr "新增一種電子郵件範本的文章類型"
+
+#: email-customizer-for-woocommerce-with-drag-drop-builder.php:111
+msgid "Edit Email Template"
+msgstr "編輯電子郵件範本"
+
+#: email-customizer-for-woocommerce-with-drag-drop-builder.php:112
+msgid "New Email Template"
+msgstr "新的電子郵件範本"
+
+#: email-customizer-for-woocommerce-with-drag-drop-builder.php:113
+msgid "View Email Template"
+msgstr "查看電子郵件範本"
+
+#: email-customizer-for-woocommerce-with-drag-drop-builder.php:114
+msgid "Search Email Template"
+msgstr "搜索電子郵件範本"
+
+#: email-customizer-for-woocommerce-with-drag-drop-builder.php:115
+msgid "No Email Template found"
+msgstr "找不到電子郵件範本"
+
+#: email-customizer-for-woocommerce-with-drag-drop-builder.php:116
+msgid "No Email Template currently trashed"
+msgstr "目前並無電子郵件範本被刪除"
+
+#: includes/email-core.class.php:184
+msgid "Payment page"
+msgstr "付款頁面"
+
+#: includes/email-core.class.php:236
+msgid "Visit Website"
+msgstr "造訪活動網站"
+
+#: includes/general-settings.class.php:43 pages/admin-page.php:267
+msgid "Email Customizer"
+msgstr "電子郵件定制器"
+
+#: pages/admin-page.php:39
+msgid "Language"
+msgstr "語言"
+
+#: pages/admin-page.php:62
+msgid "Email type"
+msgstr "電子郵件類型"
+
+#: pages/admin-page.php:67
+msgid "Email to show"
+msgstr "顯示Email"
+
+#: pages/admin-page.php:89
+msgid "Order"
+msgstr "訂單"
+
+#: pages/admin-page.php:100
+msgid "Unfortunately,there is not any order to show"
+msgstr "非常抱歉，並無任何資料顯示"
+
+#: pages/admin-page.php:121
+#, php-format
+msgid "...Showing the most recent %u orders"
+msgstr "...顯示最新的 %u 筆訂單"
+
+#: pages/admin-page.php:153
+msgid "Export as JSON"
+msgstr "匯出為 JSON 檔案"
+
+#: pages/admin-page.php:161
+msgid "Export as HTML"
+msgstr "匯出為 html"
+
+#: pages/admin-page.php:190
+msgid "Save"
+msgstr "保存"
+
+#: pages/admin-page.php:217
+msgid "Save as Template"
+msgstr "另存為模板"
+
+#: pages/admin-page.php:225
+msgid "Save as..."
+msgstr "另存為..。"
+
+#: pages/admin-page.php:233
+msgid "Send Mail"
+msgstr "傳送郵件"
+
+#: pages/admin-page.php:281
+msgid "Elements"
+msgstr "元素"
+
+#: pages/admin-page.php:290
+msgid "Structure"
+msgstr "結構"
+
+#: pages/admin-page.php:299
+msgid "Settings"
+msgstr "設置"
+
+#: pages/admin-page.php:435
+msgid "Email Settings"
+msgstr "郵件設置"
+
+#: pages/admin-page.php:444
+msgid "Background Color"
+msgstr "背景顏色"
+
+#: pages/admin-page.php:453
+msgid "Content Color"
+msgstr "內容顏色"
+
+#: pages/admin-page.php:462
+msgid "Email width"
+msgstr "電子郵件寬度"
+
+#: pages/admin-page.php:469
+msgid "Email width must be 480 - 900"
+msgstr "電子郵件寬度必須為480-900"
+
+#: pages/admin-page.php:481
+msgid "General Settings"
+msgstr "常用設置"
+
+#: pages/admin-page.php:491
+msgid "Panel position"
+msgstr "面板位置"
+
+#: pages/admin-page.php:501
+msgid "After selecting position will save automatically"
+msgstr "選擇位置後將自動儲存"
+
+#: pages/admin-page.php:507
+msgid "Table cell padding"
+msgstr "表格儲存格填充"
+
+#: pages/admin-page.php:515
+msgid "The table which shows the product list"
+msgstr "顯示產品清單表格"
+
+#: pages/admin-page.php:521
+msgid "Show product image"
+msgstr "顯示商品圖片"
+
+#: pages/admin-page.php:531
+msgid "Product image width"
+msgstr "商品圖片寬度"
+
+#: pages/admin-page.php:541
+msgid "Product image height"
+msgstr "產品圖像高度"
+
+#: pages/admin-page.php:563
+msgid "Content"
+msgstr "內容"
+
+#: pages/admin-page.php:571
+msgid "Style"
+msgstr "樣式"
+
+#: pages/admin-page.php:1593
+msgid "Select an email type"
+msgstr "選擇電子郵件類型"
+
+#: templates/ec-woo-mail-helper/order-items-1.php:35
+#: templates/ec-woo-mail-helper/order-items-2.php:35
+#: templates/ec-woo-mail-helper/order-items-3.php:35
+#: templates/ec-woo-mail-helper/order-items-4.php:35
+#: templates/ec-woo-mail-helper/order-items-5.php:39
+#: templates/ec-woo-mail-helper/order-items.php:35
+#, php-format
+msgid "Order #%s"
+msgstr "訂單 #%s"
+
+#: templates/ec-woo-mail-helper/order-items-1.php:47
+#: templates/ec-woo-mail-helper/order-items-2.php:47
+#: templates/ec-woo-mail-helper/order-items-3.php:47
+#: templates/ec-woo-mail-helper/order-items-4.php:47
+#: templates/ec-woo-mail-helper/order-items-5.php:62
+#: templates/ec-woo-mail-helper/order-items.php:48
+msgid "Product"
+msgstr "產品"
+
+#: templates/ec-woo-mail-helper/order-items-1.php:48
+#: templates/ec-woo-mail-helper/order-items-2.php:48
+#: templates/ec-woo-mail-helper/order-items-3.php:48
+#: templates/ec-woo-mail-helper/order-items-4.php:48
+#: templates/ec-woo-mail-helper/order-items-5.php:63
+#: templates/ec-woo-mail-helper/order-items-rows-3.php:51
+#: templates/ec-woo-mail-helper/order-items-rows-4.php:50
+#: templates/ec-woo-mail-helper/order-items.php:49
+msgid "Quantity"
+msgstr "數量"
+
+#: templates/ec-woo-mail-helper/order-items-1.php:49
+#: templates/ec-woo-mail-helper/order-items-2.php:49
+#: templates/ec-woo-mail-helper/order-items-3.php:49
+#: templates/ec-woo-mail-helper/order-items-4.php:49
+#: templates/ec-woo-mail-helper/order-items-5.php:64
+#: templates/ec-woo-mail-helper/order-items.php:50
+msgid "Price"
+msgstr "價格"
+
+#: templates/ec-woo-mail-helper/order-items-rows-1.php:24
+#: templates/ec-woo-mail-helper/order-items-rows-2.php:24
+#: templates/ec-woo-mail-helper/order-items-rows-3.php:24
+#: templates/ec-woo-mail-helper/order-items-rows-4.php:23
+#: templates/ec-woo-mail-helper/order-items-rows-5.php:24
+#: templates/ec-woo-mail-helper/order-items-rows.php:18
+msgid "Product Image"
+msgstr "商品圖片"
+
+#: templates/ec-woo-mail-helper/order-totals.php:13
+msgid "Subtotal:"
+msgstr "小計："
+
+#: templates/ec-woo-mail-helper/order-totals.php:20
+msgid "Discount:"
+msgstr "優惠:"
+
+#: templates/ec-woo-mail-helper/order-totals.php:47
+msgid "Fee"
+msgstr "費用"
+
+#: templates/ec-woo-mail-helper/order-totals.php:78
+msgid "Refund"
+msgstr "退款"
+
+#: templates/ec-woo-mail-helper/order-totals.php:85
+msgid "Total:"
+msgstr "總計:"

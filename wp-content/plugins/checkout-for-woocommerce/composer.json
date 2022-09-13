@@ -1,0 +1,33 @@
+{
+    "name": "objectivco/checkout-for-woocommerce",
+    "description": "Beautiful, responsive, and conversion optimized checkout templates for WooCommerce.",
+    "type": "wordpress-plugin",
+    "config": {
+        "optimize-autoloader": true,
+        "classmap-authoritative": true
+    },
+    "authors": [
+        {
+            "name": "Clifton Griffin",
+            "email": "clif@checkoutwc.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Objectiv\\Plugins\\Checkout\\": "includes/"
+        }
+    },
+    "require-dev": {
+        "kint-php/kint": "*",
+        "phpcompatibility/php-compatibility": "*",
+        "dealerdirect/phpcodesniffer-composer-installer": "*"
+    },
+    "require": {
+        "objectivco/wp_tabbed_navigation": "^0.3.0",
+        "symfony/finder": "3.4.*",
+        "php": ">=7.0.0",
+        "ext-json": "*",
+        "smartystreets/phpsdk": "^4.11"
+    },
+    "prefer-stable": true
+}

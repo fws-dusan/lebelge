@@ -1,0 +1,98 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Transactional"
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "category": 1,
+      "name": "Template 1",
+      "data": "/library/templates/1/data.json",
+      "preview": "/library/templates/1/template.html",
+      "thumbnail": "/library/templates/1/image.png"
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "name": "Template 2",
+      "data": "/library/templates/2/data.json",
+      "preview": "/library/templates/2/template.html",
+      "thumbnail": "/library/templates/2/image.png"
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "name": "Template 3",
+      "data": "/library/templates/3/data.json",
+      "preview": "/library/templates/3/template.html",
+      "thumbnail": "/library/templates/3/image.png"
+    },
+    {
+      "id": 4,
+      "category": 1,
+      "name": "Template 4",
+      "data": "/library/templates/4/data.json",
+      "preview": "/library/templates/4/template.html",
+      "thumbnail": "/library/templates/4/image.png"
+    },
+    {
+      "id": 5,
+      "category": 1,
+      "name": "Template 5",
+      "data": "/library/templates/5/data.json",
+      "preview": "/library/templates/5/template.html",
+      "thumbnail": "/library/templates/5/image.png"
+    },
+    {
+      "id": 6,
+      "category": 1,
+      "name": "Template 6",
+      "data": "/library/templates/6/data.json",
+      "preview": "/library/templates/6/template.html",
+      "thumbnail": "/library/templates/6/image.png"
+    },
+    {
+      "id": 7,
+      "category": 1,
+      "name": "Template 7",
+      "data": "/library/templates/7/data.json",
+      "preview": "/library/templates/7/template.html",
+      "thumbnail": "/library/templates/7/image.png"
+    },
+    {
+      "id": 8,
+      "category": 1,
+      "name": "Template 8",
+      "data": "/library/templates/8/data.json",
+      "preview": "/library/templates/8/template.html",
+      "thumbnail": "/library/templates/8/image.png"
+    },
+    {
+      "id": 9,
+      "category": 1,
+      "name": "Template 9",
+      "data": "/library/templates/9/data.json",
+      "preview": "/library/templates/9/template.html",
+      "thumbnail": "/library/templates/9/image.png"
+    },
+    {
+      "id": 10,
+      "category": 1,
+      "name": "Template 10",
+      "data": "/library/templates/10/data.json",
+      "preview": "/library/templates/10/template.html",
+      "thumbnail": "/library/templates/10/image.png"
+    },
+    {
+      "id": 11,
+      "category": 1,
+      "name": "Template 11",
+      "data": "/library/templates/11/data.json",
+      "preview": "/library/templates/11/template.html",
+      "thumbnail": "/library/templates/11/image.png"
+    }
+  ]
+}

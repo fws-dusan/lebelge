@@ -65,3 +65,4 @@ wp-content/mu-plugins/limit-login-attempts
 *.wmv
 *.avi
 *.log
+*.sql

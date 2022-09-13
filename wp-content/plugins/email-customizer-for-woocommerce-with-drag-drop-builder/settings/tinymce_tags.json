@@ -1,0 +1,291 @@
+{
+  "groups": [
+    "General",
+    "User",
+    "Order",
+    "Shipping",
+    "Billing"
+  ],
+  "tags": [
+    {
+      "group": "Billing",
+      "title": "Address",
+      "content": "[ec_woo_billing_address]"
+    },
+    {
+      "group": "Billing",
+      "title": "Address 1",
+      "content": "[ec_woo_billing_address_1]"
+    },
+    {
+      "group": "Billing",
+      "title": "Address 2",
+      "content": "[ec_woo_billing_address_2]"
+    },
+    {
+      "group": "Billing",
+      "title": "City",
+      "content": "[ec_woo_billing_city]"
+    },
+    {
+      "group": "Billing",
+      "title": "Company",
+      "content": "[ec_woo_billing_company]"
+    },
+    {
+      "group": "Billing",
+      "title": "Country",
+      "content": "[ec_woo_billing_country]"
+    },
+    {
+      "group": "Billing",
+      "title": "Email",
+      "content": "[ec_woo_billing_email]"
+    },
+    {
+      "group": "Billing",
+      "title": "First Name",
+      "content": "[ec_woo_billing_first_name]"
+    },
+    {
+      "group": "Billing",
+      "title": "Last Name",
+      "content": "[ec_woo_billing_last_name]"
+    },
+    {
+      "group": "Billing",
+      "title": "Phone",
+      "content": "[ec_woo_billing_phone]"
+    },
+    {
+      "group": "Billing",
+      "title": "Post code",
+      "content": "[ec_woo_billing_postcode]"
+    },
+    {
+      "group": "Billing",
+      "title": "State",
+      "content": "[ec_woo_billing_state]"
+    },
+    {
+      "group": "Order",
+      "title": "Customer notes",
+      "content": "[ec_woo_customer_notes]"
+    },
+    {
+      "group": "Order",
+      "title": "Customer provided note",
+      "content": "[ec_woo_customer_provided_note]"
+    },
+    {
+      "group": "Order",
+      "title": "Product items default",
+      "content": "[ec_woo_items]"
+    },
+    {
+      "group": "Order",
+      "title": "Product items style 1",
+      "content": "[ec_woo_items_1]"
+    },
+    {
+      "group": "Order",
+      "title": "Product items style 2",
+      "content": "[ec_woo_items_2]"
+    },
+    {
+      "group": "Order",
+      "title": "Product items style 3",
+      "content": "[ec_woo_items_3]"
+    },
+    {
+      "group": "Order",
+      "title": "Product items style 4",
+      "content": "[ec_woo_items_4]"
+    },
+    {
+      "group": "Order",
+      "title": "Product items style 5",
+      "content": "[ec_woo_items_5]"
+    },
+    {
+      "group": "Order",
+      "title": "Product items style 6",
+      "content": "[ec_woo_items_6]"
+    },
+    {
+      "group": "Order",
+      "title": "Date (ex:Jul 25, 2018)",
+      "content": "[ec_woo_order_date]"
+    },
+    {
+      "group": "Order",
+      "title": "Datetime (ex:2018-07-25 05:48:07)",
+      "content": "[ec_woo_order_datetime]"
+    },
+    {
+      "group": "Order",
+      "title": "Fee",
+      "content": "[ec_woo_order_fee]"
+    },
+    {
+      "group": "Order",
+      "title": "Order Id",
+      "content": "[ec_woo_order_id]"
+    },
+    {
+      "group": "Order",
+      "title": "Link",
+      "content": "[ec_woo_order_link]"
+    },
+    {
+      "group": "Order",
+      "title": "Payment method",
+      "content": "[ec_woo_order_payment_method]"
+    },
+    {
+      "group": "Order",
+      "title": "Payment URL",
+      "content": "[ec_woo_order_payment_url]"
+    },
+    {
+      "group": "Order",
+      "title": "Refund",
+      "content": "[ec_woo_order_refund]"
+    },
+    {
+      "group": "Order",
+      "title": "Sub total",
+      "content": "[ec_woo_order_sub_total]"
+    },
+    {
+      "group": "Order",
+      "title": "Shipping",
+      "content": "[ec_woo_order_shipping]"
+    },
+    {
+      "group": "Order",
+      "title": "Time (ex:05:48:07)",
+      "content": "[ec_woo_order_time]"
+    },
+    {
+      "group": "Order",
+      "title": "Total",
+      "content": "[ec_woo_order_total]"
+    },
+    {
+      "group": "General",
+      "title": "Payment method",
+      "content": "[ec_woo_payment_method]"
+    },
+    {
+      "group": "Shipping",
+      "title": "Address",
+      "content": "[ec_woo_shipping_address]"
+    },
+    {
+      "group": "Shipping",
+      "title": "Address 1",
+      "content": "[ec_woo_shipping_address_1]"
+    },
+    {
+      "group": "Shipping",
+      "title": "Address 2",
+      "content": "[ec_woo_shipping_address_2]"
+    },
+    {
+      "group": "Shipping",
+      "title": "City",
+      "content": "[ec_woo_shipping_city]"
+    },
+    {
+      "group": "Shipping",
+      "title": "Company",
+      "content": "[ec_woo_shipping_company]"
+    },
+    {
+      "group": "Shipping",
+      "title": "Country",
+      "content": "[ec_woo_shipping_country]"
+    },
+    {
+      "group": "Shipping",
+      "title": "First Name",
+      "content": "[ec_woo_shipping_first_name]"
+    },
+    {
+      "group": "Shipping",
+      "title": "Last Name",
+      "content": "[ec_woo_shipping_last_name]"
+    },
+    {
+      "group": "Shipping",
+      "title": "Shipping Method",
+      "content": "[ec_woo_shipping_method]"
+    },
+    {
+      "group": "Shipping",
+      "title": "Post code",
+      "content": "[ec_woo_shipping_postcode]"
+    },
+    {
+      "group": "Shipping",
+      "title": "State",
+      "content": "[ec_woo_shipping_state]"
+    },
+    {
+      "group": "General",
+      "title": "Site Name",
+      "content": "[ec_woo_site_name]"
+    },
+    {
+      "group": "General",
+      "title": "Site URL",
+      "content": "[ec_woo_site_url]"
+    },
+    {
+      "group": "Order",
+      "title": "Transaction ID",
+      "content": "[ec_woo_transaction_id]"
+    },
+    {
+      "group": "User",
+      "title": "User Email",
+      "content": "[ec_woo_user_email]"
+    },
+    {
+      "group": "User",
+      "title": "User Name",
+      "content": "[ec_woo_user_name]"
+    },
+    {
+      "group": "Order",
+      "title": "View Order URL",
+      "content": "[ec_woo_view_order_url]"
+    },
+    {
+      "group": "User",
+      "title": "User Id",
+      "content": "[ec_woo_user_id]"
+    },
+    {
+      "group": "User",
+      "title": "User Activation URL",
+      "content": "[ec_woo_user_activation_link]"
+    },
+    {
+      "group": "User",
+      "title": "User Password Reset URL",
+      "content": "[ec_woo_user_password_reset_url]"
+    },
+    {
+      "group": "User",
+      "title": "User Account URL ( My account )",
+      "content": "[ec_woo_user_account_url]"
+    },
+    {
+      "group": "User",
+      "title": "User Password",
+      "content": "[ec_woo_user_password]"
+    }
+  ]
+}

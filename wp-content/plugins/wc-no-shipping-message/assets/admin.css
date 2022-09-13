@@ -1,0 +1,7 @@
+.wnsm-replace-textarea-row td {
+    padding-top: 0;
+}
+
+.wnsm-tip-with-screenshot::after {
+    cursor: pointer !important;
+}

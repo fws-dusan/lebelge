@@ -1,0 +1,4605 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Ultimate Reports\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-28 11:07+0000\n"
+"PO-Revision-Date: 2018-09-28 11:11+0000\n"
+"Last-Translator: developer <work@egmail.com>\n"
+"Language-Team: Marathi\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: woocommerce-ultimate-report.php:33
+msgid ""
+"In order to view the results please hit \"<strong>Search</strong>\" button."
+msgstr "परिणाम पाहण्यासाठी कृपया \"<strong> शोध </ strong> \" बटण दाबा."
+
+#: woocommerce-ultimate-report.php:83
+msgid "Ultimate Woocommerce Report"
+msgstr "अंतिम Woocommerce अहवाल"
+
+#: woocommerce-ultimate-report.php:84
+msgid "Ultimate Report"
+msgstr "अंतिम अहवाल"
+
+#: includes/ic_commerce_ultimate_report_ajax_graph.php:222
+#: includes/ic_commerce_ultimate_report_init.php:1324
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "January"
+msgstr "जानेवारी"
+
+#: includes/ic_commerce_ultimate_report_ajax_graph.php:223
+#: includes/ic_commerce_ultimate_report_init.php:1325
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "February"
+msgstr "फेब्रुवारी"
+
+#: includes/ic_commerce_ultimate_report_ajax_graph.php:224
+#: includes/ic_commerce_ultimate_report_init.php:1326
+#: includes/ic_commerce_ultimate_report_init.php:1340
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "March"
+msgstr "मार्च"
+
+#: includes/ic_commerce_ultimate_report_ajax_graph.php:225
+#: includes/ic_commerce_ultimate_report_init.php:1327
+#: includes/ic_commerce_ultimate_report_init.php:1341
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "April"
+msgstr "एप्रिल"
+
+#: includes/ic_commerce_ultimate_report_ajax_graph.php:226
+#: includes/ic_commerce_ultimate_report_init.php:1328
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "May"
+msgstr "मे"
+
+#: includes/ic_commerce_ultimate_report_ajax_graph.php:227
+#: includes/ic_commerce_ultimate_report_init.php:1329
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "June"
+msgstr "जून"
+
+#: includes/ic_commerce_ultimate_report_ajax_graph.php:228
+#: includes/ic_commerce_ultimate_report_init.php:1330
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "July"
+msgstr "जुलै"
+
+#: includes/ic_commerce_ultimate_report_ajax_graph.php:229
+#: includes/ic_commerce_ultimate_report_init.php:1331
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "August"
+msgstr "ऑगस्ट"
+
+#: includes/ic_commerce_ultimate_report_ajax_graph.php:230
+#: includes/ic_commerce_ultimate_report_init.php:1332
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "September"
+msgstr "सप्टेंबर"
+
+#: includes/ic_commerce_ultimate_report_ajax_graph.php:231
+#: includes/ic_commerce_ultimate_report_init.php:1333
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "October"
+msgstr "ऑक्टोबर"
+
+#: includes/ic_commerce_ultimate_report_ajax_graph.php:232
+#: includes/ic_commerce_ultimate_report_init.php:1334
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "November"
+msgstr "नोव्हेंबर"
+
+#: includes/ic_commerce_ultimate_report_ajax_graph.php:233
+#: includes/ic_commerce_ultimate_report_init.php:1335
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "December"
+msgstr "डिसेंबर"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:65
+#: includes/ic_commerce_ultimate_report_cross_tab.php:152
+#: includes/ic_commerce_ultimate_report_customer_wise_new_product.php:41
+#: includes/ic_commerce_ultimate_report_custom_report.php:49
+#: includes/ic_commerce_ultimate_report_daily_sales_report.php:40
+#: includes/ic_commerce_ultimate_report_new_repeat_customer.php:40
+#: includes/ic_commerce_ultimate_report_permission.php:72
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:41
+#: includes/ic_commerce_ultimate_report_product_wise_new_customer.php:41
+#: includes/ic_commerce_ultimate_report_projected_actual_sales.php:44
+#: includes/ic_commerce_ultimate_report_tax_report.php:60
+#: includes/ic_commerce_ultimate_report_variation.php:51
+msgid "You do not have sufficient permissions to access this page."
+msgstr "आपल्याकडे या पृष्ठात प्रवेश करण्यासाठी पुरेशी परवानग्या नाहीत."
+
+#: includes/ic_commerce_ultimate_report_all_report.php:151
+#: includes/ic_commerce_ultimate_report_cross_tab.php:284
+#: includes/ic_commerce_ultimate_report_customer_wise_new_product.php:52
+#: includes/ic_commerce_ultimate_report_custom_report.php:303
+#: includes/ic_commerce_ultimate_report_daily_sales_report.php:50
+#: includes/ic_commerce_ultimate_report_group_simple_product_analysis.php:44
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:45
+#: includes/ic_commerce_ultimate_report_new_repeat_customer.php:69
+#: includes/ic_commerce_ultimate_report_product_analysis.php:42
+#: includes/ic_commerce_ultimate_report_product_wise_new_customer.php:59
+#: includes/ic_commerce_ultimate_report_projected_actual_sales.php:92
+#: includes/ic_commerce_ultimate_report_stock_list.php:75
+#: includes/ic_commerce_ultimate_report_tax_report.php:149
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:39
+#: includes/ic_commerce_ultimate_report_variation.php:146
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:86
+msgid "Custom Search"
+msgstr "सानुकूल शोध"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:164
+#: includes/ic_commerce_ultimate_report_customer_wise_new_product.php:61
+#: includes/ic_commerce_ultimate_report_custom_report.php:312
+#: includes/ic_commerce_ultimate_report_daily_sales_report.php:59
+#: includes/ic_commerce_ultimate_report_new_repeat_customer.php:78
+#: includes/ic_commerce_ultimate_report_product_wise_new_customer.php:68
+#: includes/ic_commerce_ultimate_report_tax_report.php:158
+#: includes/ic_commerce_ultimate_report_variation.php:155
+msgid "From Date:"
+msgstr "या तारखेपासून:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:168
+#: includes/ic_commerce_ultimate_report_customer_wise_new_product.php:67
+#: includes/ic_commerce_ultimate_report_custom_report.php:316
+#: includes/ic_commerce_ultimate_report_daily_sales_report.php:65
+#: includes/ic_commerce_ultimate_report_new_repeat_customer.php:84
+#: includes/ic_commerce_ultimate_report_product_wise_new_customer.php:74
+#: includes/ic_commerce_ultimate_report_tax_report.php:162
+#: includes/ic_commerce_ultimate_report_variation.php:159
+msgid "To Date:"
+msgstr "तारीखः"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:179
+#: includes/ic_commerce_ultimate_report_cross_tab.php:318
+#: includes/ic_commerce_ultimate_report_cross_tab.php:454
+#: includes/ic_commerce_ultimate_report_custom_report.php:336
+#: includes/ic_commerce_ultimate_report_stock_list.php:152
+#: includes/ic_commerce_ultimate_report_variation.php:167
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:162
+msgid "Category:"
+msgstr "वर्गः"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:188
+#: includes/ic_commerce_ultimate_report_custom_report.php:346
+#: includes/ic_commerce_ultimate_report_stock_list.php:84
+#: includes/ic_commerce_ultimate_report_stock_list.php:141
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:94
+msgid "Product Name:"
+msgstr "उत्पादनाचे नांव:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:206
+#: includes/ic_commerce_ultimate_report_cross_tab.php:382
+#: includes/ic_commerce_ultimate_report_cross_tab.php:463
+#: includes/ic_commerce_ultimate_report_custom_report.php:371
+#: includes/ic_commerce_ultimate_report_tax_report.php:227
+#: includes/ic_commerce_ultimate_report_variation.php:205
+msgid "Status:"
+msgstr "स्थिती:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:244
+msgid "Parent Category:"
+msgstr "पालक वर्गः"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:258
+msgid "Refund Type:"
+msgstr "परतावा प्रकारः"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:263
+msgid "Part Refund - Order status not refunded"
+msgstr "भाग परतावा - ऑर्डर स्थिती परत केली नाही"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:264
+msgid "Order Status Refunded"
+msgstr "ऑर्डर स्थिती परत केली"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:274
+msgid "Show Refund Note:"
+msgstr "रिफंड दर्शवाः"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:279
+#: includes/ic_commerce_ultimate_report_variation.php:338
+msgid "Group By:"
+msgstr "गटः"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:284
+#: includes/ic_commerce_ultimate_report_columns.php:522
+msgid "Refund ID"
+msgstr "परतावा आयडी"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:285
+#: includes/ic_commerce_ultimate_report_columns.php:41
+#: includes/ic_commerce_ultimate_report_columns.php:61
+#: includes/ic_commerce_ultimate_report_columns.php:246
+#: includes/ic_commerce_ultimate_report_columns.php:274
+#: includes/ic_commerce_ultimate_report_columns.php:319
+#: includes/ic_commerce_ultimate_report_columns.php:420
+#: includes/ic_commerce_ultimate_report_columns.php:489
+#: includes/ic_commerce_ultimate_report_columns.php:526
+#: includes/ic_commerce_ultimate_report_custom_report.php:407
+msgid "Order ID"
+msgstr "ऑर्डर आयडी"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:286
+msgid "Refunded"
+msgstr "परतावा"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:287
+msgid "Daily"
+msgstr "दररोज"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:288
+msgid "Monthly"
+msgstr "मासिक"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:289
+msgid "Yearly"
+msgstr "वार्षिक"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:302
+msgid "Coupon Codes:"
+msgstr "कूपन कोडः"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:311
+msgid "Discount Type:"
+msgstr "सवलत प्रकारः"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:357
+#: includes/ic_commerce_ultimate_report_cross_tab.php:555
+#: includes/ic_commerce_ultimate_report_custom_report.php:474
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:660
+#: includes/ic_commerce_ultimate_report_tax_report.php:269
+#: includes/ic_commerce_ultimate_report_variation.php:369
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:276
+msgid "Reset"
+msgstr "रीसेट करा"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:359
+#: includes/ic_commerce_ultimate_report_cross_tab.php:556
+#: includes/ic_commerce_ultimate_report_customer_wise_new_product.php:84
+#: includes/ic_commerce_ultimate_report_custom_report.php:476
+#: includes/ic_commerce_ultimate_report_daily_sales_report.php:81
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:96
+#: includes/ic_commerce_ultimate_report_new_repeat_customer.php:101
+#: includes/ic_commerce_ultimate_report_product_analysis.php:93
+#: includes/ic_commerce_ultimate_report_product_wise_new_customer.php:93
+#: includes/ic_commerce_ultimate_report_projected_actual_sales.php:129
+#: includes/ic_commerce_ultimate_report_tax_report.php:270
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:93
+#: includes/ic_commerce_ultimate_report_variation.php:371
+msgid "Search"
+msgstr "शोध"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:427
+#: includes/ic_commerce_ultimate_report_all_report.php:2825
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3355
+#: includes/ic_commerce_ultimate_report_custom_report.php:577
+#: includes/ic_commerce_ultimate_report_custom_report.php:1367
+#: includes/ic_commerce_ultimate_report_tax_report.php:3790
+#: includes/ic_commerce_ultimate_report_variation.php:1533
+msgid "Export to CSV - Additional Information"
+msgstr "सीएसव्ही वर निर्यात - अतिरिक्त माहिती"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:435
+#: includes/ic_commerce_ultimate_report_custom_report.php:585
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:543
+msgid "Billing Information:"
+msgstr "बिलिंग माहिती:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:439
+#: includes/ic_commerce_ultimate_report_custom_report.php:589
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:545
+msgid "Shipping Information:"
+msgstr "पाठवण्याची माहिती:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:444
+#: includes/ic_commerce_ultimate_report_all_report.php:2825
+#: includes/ic_commerce_ultimate_report_all_report.php:2825
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3355
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3355
+#: includes/ic_commerce_ultimate_report_custom_report.php:594
+#: includes/ic_commerce_ultimate_report_custom_report.php:1367
+#: includes/ic_commerce_ultimate_report_custom_report.php:1367
+#: includes/ic_commerce_ultimate_report_stock_list.php:1008
+#: includes/ic_commerce_ultimate_report_tax_report.php:3790
+#: includes/ic_commerce_ultimate_report_tax_report.php:3790
+#: includes/ic_commerce_ultimate_report_variation.php:1533
+#: includes/ic_commerce_ultimate_report_variation.php:1533
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1161
+msgid "Export to CSV"
+msgstr "CSV मध्ये निर्यात करा"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:460
+#: includes/ic_commerce_ultimate_report_all_report.php:496
+#: includes/ic_commerce_ultimate_report_cross_tab.php:595
+#: includes/ic_commerce_ultimate_report_cross_tab.php:650
+#: includes/ic_commerce_ultimate_report_custom_report.php:609
+#: includes/ic_commerce_ultimate_report_custom_report.php:663
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:541
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:625
+#: includes/ic_commerce_ultimate_report_stock_list.php:279
+#: includes/ic_commerce_ultimate_report_tax_report.php:312
+#: includes/ic_commerce_ultimate_report_tax_report.php:370
+#: includes/ic_commerce_ultimate_report_variation.php:429
+#: includes/ic_commerce_ultimate_report_variation.php:485
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:315
+msgid "Company Name:"
+msgstr "कंपनीचे नाव:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:464
+#: includes/ic_commerce_ultimate_report_all_report.php:500
+#: includes/ic_commerce_ultimate_report_cross_tab.php:599
+#: includes/ic_commerce_ultimate_report_cross_tab.php:654
+#: includes/ic_commerce_ultimate_report_custom_report.php:613
+#: includes/ic_commerce_ultimate_report_custom_report.php:667
+#: includes/ic_commerce_ultimate_report_functions.php:2833
+#: includes/ic_commerce_ultimate_report_stock_list.php:283
+#: includes/ic_commerce_ultimate_report_tax_report.php:316
+#: includes/ic_commerce_ultimate_report_tax_report.php:374
+#: includes/ic_commerce_ultimate_report_variation.php:433
+#: includes/ic_commerce_ultimate_report_variation.php:489
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:319
+msgid "Report Title:"
+msgstr "अहवाल शीर्षकः"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:469
+#: includes/ic_commerce_ultimate_report_cross_tab.php:659
+#: includes/ic_commerce_ultimate_report_custom_report.php:672
+#: includes/ic_commerce_ultimate_report_tax_report.php:379
+#: includes/ic_commerce_ultimate_report_variation.php:494
+msgid "Print Logo:"
+msgstr "मुद्रण लोगोः"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:474
+#: includes/ic_commerce_ultimate_report_cross_tab.php:665
+#: includes/ic_commerce_ultimate_report_custom_report.php:677
+#: includes/ic_commerce_ultimate_report_tax_report.php:384
+#: includes/ic_commerce_ultimate_report_variation.php:499
+msgid "Print Date:"
+msgstr "मुद्रण तारीखः"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:479
+#: includes/ic_commerce_ultimate_report_all_report.php:2828
+#: includes/ic_commerce_ultimate_report_all_report.php:2828
+#: includes/ic_commerce_ultimate_report_all_report.php:2828
+#: includes/ic_commerce_ultimate_report_all_report.php:2881
+#: includes/ic_commerce_ultimate_report_cross_tab.php:670
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3358
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3358
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3358
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3408
+#: includes/ic_commerce_ultimate_report_custom_report.php:682
+#: includes/ic_commerce_ultimate_report_custom_report.php:1370
+#: includes/ic_commerce_ultimate_report_custom_report.php:1370
+#: includes/ic_commerce_ultimate_report_custom_report.php:1370
+#: includes/ic_commerce_ultimate_report_custom_report.php:1406
+#: includes/ic_commerce_ultimate_report_tax_report.php:388
+#: includes/ic_commerce_ultimate_report_tax_report.php:3793
+#: includes/ic_commerce_ultimate_report_tax_report.php:3793
+#: includes/ic_commerce_ultimate_report_tax_report.php:3793
+#: includes/ic_commerce_ultimate_report_tax_report.php:3836
+#: includes/ic_commerce_ultimate_report_variation.php:504
+#: includes/ic_commerce_ultimate_report_variation.php:1536
+#: includes/ic_commerce_ultimate_report_variation.php:1536
+#: includes/ic_commerce_ultimate_report_variation.php:1536
+#: includes/ic_commerce_ultimate_report_variation.php:1585
+msgid "Print"
+msgstr "मुद्रित करा"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:490
+#: includes/ic_commerce_ultimate_report_all_report.php:2827
+#: includes/ic_commerce_ultimate_report_all_report.php:2827
+#: includes/ic_commerce_ultimate_report_all_report.php:2827
+#: includes/ic_commerce_ultimate_report_cross_tab.php:589
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3357
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3357
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3357
+#: includes/ic_commerce_ultimate_report_custom_report.php:603
+#: includes/ic_commerce_ultimate_report_custom_report.php:1369
+#: includes/ic_commerce_ultimate_report_custom_report.php:1369
+#: includes/ic_commerce_ultimate_report_custom_report.php:1369
+#: includes/ic_commerce_ultimate_report_stock_list.php:273
+#: includes/ic_commerce_ultimate_report_stock_list.php:1009
+#: includes/ic_commerce_ultimate_report_stock_list.php:1009
+#: includes/ic_commerce_ultimate_report_stock_list.php:1009
+#: includes/ic_commerce_ultimate_report_tax_report.php:306
+#: includes/ic_commerce_ultimate_report_tax_report.php:3792
+#: includes/ic_commerce_ultimate_report_tax_report.php:3792
+#: includes/ic_commerce_ultimate_report_tax_report.php:3792
+#: includes/ic_commerce_ultimate_report_variation.php:423
+#: includes/ic_commerce_ultimate_report_variation.php:1535
+#: includes/ic_commerce_ultimate_report_variation.php:1535
+#: includes/ic_commerce_ultimate_report_variation.php:1535
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:309
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1162
+msgid "Export to PDF"
+msgstr "पीडीएफमध्ये निर्यात करा"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:505
+#: includes/ic_commerce_ultimate_report_cross_tab.php:604
+#: includes/ic_commerce_ultimate_report_custom_report.php:618
+#: includes/ic_commerce_ultimate_report_stock_list.php:288
+#: includes/ic_commerce_ultimate_report_tax_report.php:321
+#: includes/ic_commerce_ultimate_report_variation.php:438
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:324
+msgid "Show Logo:"
+msgstr "लोगो दर्शवाः"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:510
+#: includes/ic_commerce_ultimate_report_cross_tab.php:609
+#: includes/ic_commerce_ultimate_report_custom_report.php:623
+#: includes/ic_commerce_ultimate_report_stock_list.php:293
+#: includes/ic_commerce_ultimate_report_tax_report.php:326
+#: includes/ic_commerce_ultimate_report_variation.php:443
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:329
+msgid "Show Date:"
+msgstr "तारीख दर्शवाः"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:515
+#: includes/ic_commerce_ultimate_report_cross_tab.php:614
+#: includes/ic_commerce_ultimate_report_custom_report.php:628
+#: includes/ic_commerce_ultimate_report_stock_list.php:297
+#: includes/ic_commerce_ultimate_report_tax_report.php:330
+#: includes/ic_commerce_ultimate_report_variation.php:449
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:333
+msgid "PDF Orientation:"
+msgstr "पीडीएफ अभिमुखता:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:517
+#: includes/ic_commerce_ultimate_report_cross_tab.php:616
+#: includes/ic_commerce_ultimate_report_custom_report.php:630
+#: includes/ic_commerce_ultimate_report_stock_list.php:299
+#: includes/ic_commerce_ultimate_report_tax_report.php:332
+#: includes/ic_commerce_ultimate_report_variation.php:451
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:335
+msgid "Portrait"
+msgstr "पोर्ट्रेट"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:518
+#: includes/ic_commerce_ultimate_report_cross_tab.php:617
+#: includes/ic_commerce_ultimate_report_custom_report.php:631
+#: includes/ic_commerce_ultimate_report_stock_list.php:300
+#: includes/ic_commerce_ultimate_report_tax_report.php:333
+#: includes/ic_commerce_ultimate_report_variation.php:452
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:336
+msgid "Landscape"
+msgstr "लँडस्केप"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:523
+#: includes/ic_commerce_ultimate_report_cross_tab.php:622
+#: includes/ic_commerce_ultimate_report_custom_report.php:636
+#: includes/ic_commerce_ultimate_report_stock_list.php:305
+#: includes/ic_commerce_ultimate_report_tax_report.php:338
+#: includes/ic_commerce_ultimate_report_variation.php:457
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:341
+msgid "Paper Size:"
+msgstr "कागद आकारः"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:532
+#: includes/ic_commerce_ultimate_report_cross_tab.php:631
+#: includes/ic_commerce_ultimate_report_custom_report.php:645
+#: includes/ic_commerce_ultimate_report_stock_list.php:314
+#: includes/ic_commerce_ultimate_report_tax_report.php:347
+#: includes/ic_commerce_ultimate_report_variation.php:466
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:350
+msgid "Export to PDF:"
+msgstr "पीडीएफमध्ये निर्यात कराः"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:811
+msgid ""
+"Some thing going wrong on creating result data in \"add_filter\" or "
+"\"create_grid_items\""
+msgstr ""
+" \"Add_filter \" किंवा  \"create_grid_items \" मधील परिणाम डेटा तयार "
+"करण्यामध्ये काहीतरी चूक होत आहे"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:1077
+msgid "No Orders found"
+msgstr "कोणतेही ऑर्डर आढळले नाहीत"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:1230
+#: includes/ic_commerce_ultimate_report_variation.php:1022
+#: includes/ic_commerce_ultimate_report_variation.php:1374
+msgid "Not Set"
+msgstr "सेट नाही"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:2749
+#, php-format
+msgid "Result: <strong>%s/%s</strong>"
+msgstr "निकाल: <strong> %s / %s </ strong>"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:2752
+#, php-format
+msgid ", Amount: <strong>%s</strong><br />"
+msgstr ", रक्कम: <strong> %s </ strong> <br />"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:2826
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3356
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3356
+#: includes/ic_commerce_ultimate_report_custom_report.php:1368
+#: includes/ic_commerce_ultimate_report_custom_report.php:1368
+#: includes/ic_commerce_ultimate_report_tax_report.php:3791
+#: includes/ic_commerce_ultimate_report_tax_report.php:3791
+#: includes/ic_commerce_ultimate_report_variation.php:1534
+#: includes/ic_commerce_ultimate_report_variation.php:1534
+msgid "Export to Excel"
+msgstr "एक्सेलमध्ये निर्यात करा"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:2826
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3356
+#: includes/ic_commerce_ultimate_report_custom_report.php:1368
+#: includes/ic_commerce_ultimate_report_tax_report.php:3791
+#: includes/ic_commerce_ultimate_report_variation.php:1534
+msgid "Export to Excel - Additional Information"
+msgstr "एक्सेलमध्ये निर्यात - अतिरिक्त माहिती"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:2853
+#: includes/ic_commerce_ultimate_report_all_report.php:2880
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3385
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3407
+#: includes/ic_commerce_ultimate_report_custom_report.php:1393
+#: includes/ic_commerce_ultimate_report_custom_report.php:1405
+#: includes/ic_commerce_ultimate_report_stock_list.php:1034
+#: includes/ic_commerce_ultimate_report_tax_report.php:3821
+#: includes/ic_commerce_ultimate_report_tax_report.php:3835
+#: includes/ic_commerce_ultimate_report_variation.php:1561
+#: includes/ic_commerce_ultimate_report_variation.php:1584
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1182
+msgid "Back to Previous"
+msgstr "मागीलकडे परत"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:2904
+#: includes/ic_commerce_ultimate_report_custom_report.php:2241
+#: includes/ic_commerce_ultimate_report_custom_report.php:2280
+#: includes/ic_commerce_ultimate_report_variation.php:1605
+msgid "Something going wrong, contact to developer"
+msgstr "काहीतरी चूक होत आहे, विकासकाशी संपर्क साधा"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:2927
+msgid "Purchased product not found in selected categroy"
+msgstr "खरेदी केलेली उत्पादने निवडलेल्या categroy मध्ये आढळली नाहीत"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:2936
+msgid "Some thing going wrong, contact to developer"
+msgstr "काहीतरी चूक होत आहे, विकसकांशी संपर्क साधा"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:3559
+#: includes/ic_commerce_ultimate_report_custom_report.php:2880
+#: includes/ic_commerce_ultimate_report_export_invoice.php:189
+#: includes/ic_commerce_ultimate_report_functions.php:2837
+#: includes/ic_commerce_ultimate_report_stock_list.php:1391
+#: includes/ic_commerce_ultimate_report_variation.php:2114
+msgid "Date:"
+msgstr "तारीखः"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:3606
+#: includes/ic_commerce_ultimate_report_functions.php:2885
+msgid "Summary Total:"
+msgstr "सारांश एकूण:"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:39
+msgid "Product Summary"
+msgstr "उत्पादन सारांश"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:40
+#: includes/ic_commerce_ultimate_report_dashboard.php:1063
+#: includes/ic_commerce_ultimate_report_dashboard.php:1325
+msgid "Order Summary"
+msgstr "ऑर्डर सारांश"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:41
+msgid "Customer Summary"
+msgstr "ग्राहक सारांश"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:42
+msgid "Stock Report"
+msgstr "स्टॉक रिपोर्ट"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:43
+msgid "Profit/Cost of Goods"
+msgstr "नफा / नफा"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:44
+#: includes/ic_commerce_ultimate_report_dashboard.php:496
+msgid "Other Summary"
+msgstr "इतर सारांश"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:66
+#: includes/ic_commerce_ultimate_report_export_invoice.php:276
+#: includes/ic_commerce_ultimate_report_product_analysis.php:260
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:258
+msgid "Product"
+msgstr "उत्पादन"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:67
+#: includes/ic_commerce_ultimate_report_columns.php:340
+#: includes/ic_commerce_ultimate_report_product_analysis.php:259
+#: includes/ic_commerce_ultimate_report_stock_list.php:1452
+#: includes/ic_commerce_ultimate_report_stock_list.php:1460
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:257
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1423
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1430
+msgid "Category"
+msgstr "श्रेणी"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:68
+msgid "Tag"
+msgstr "टॅग"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:71
+msgid "Recent Order"
+msgstr "अलीकडील ऑर्डर"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:72
+msgid "Payment Gateway"
+msgstr "प्रदानाची द्वारमार्गिका"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:73
+msgid "Coupon"
+msgstr "कूपन"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:74
+#: includes/ic_commerce_ultimate_report_columns.php:404
+#: includes/ic_commerce_ultimate_report_columns.php:491
+#: includes/ic_commerce_ultimate_report_columns.php:528
+#: includes/ic_commerce_ultimate_report_dashboard.php:2433
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:929
+msgid "Order Status"
+msgstr "आदेश स्थिती"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:75
+msgid "Refund Details"
+msgstr "परतावा तपशील"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:76
+msgid "Tax Report"
+msgstr "कर अहवाल"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:77
+msgid "Monthly Sales Report"
+msgstr "मासिक विक्री अहवाल"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:80
+msgid "Customer"
+msgstr "ग्राहक"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:81
+#: includes/ic_commerce_ultimate_report_columns.php:451
+#: includes/ic_commerce_ultimate_report_customization.php:1521
+#: includes/ic_commerce_ultimate_report_customization.php:1534
+#: includes/ic_commerce_ultimate_report_custom_report.php:2320
+#: includes/ic_commerce_ultimate_report_dashboard.php:2659
+msgid "Billing Country"
+msgstr "बिलिंग देश"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:82
+#: includes/ic_commerce_ultimate_report_customization.php:1520
+#: includes/ic_commerce_ultimate_report_customization.php:1533
+#: includes/ic_commerce_ultimate_report_custom_report.php:2321
+#: includes/ic_commerce_ultimate_report_dashboard.php:2786
+msgid "Billing State"
+msgstr "बिलिंग राज्य"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:83
+#: includes/ic_commerce_ultimate_report_customization.php:1532
+#: includes/ic_commerce_ultimate_report_customization.php:1600
+#: includes/ic_commerce_ultimate_report_custom_report.php:2318
+msgid "Billing City"
+msgstr "बिलिंग सिटी"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:84
+msgid "Customer Wise Products"
+msgstr "ग्राहक वाइज उत्पादने"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:87
+msgid "Zero Level Stock"
+msgstr "झीरो लेव्हल स्टॉक"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:88
+msgid "Minimum Level Stock"
+msgstr "किमान स्तर स्टॉक"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:89
+msgid "Most Stocked"
+msgstr "सर्वाधिक स्टॉक"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:90
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:91
+msgid "Summary Stock Planner"
+msgstr "सारांश स्टॉक प्लॅनर"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:92
+msgid "Stock Valuation"
+msgstr "स्टॉक मूल्यमापन"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:95
+msgid "Product Cost of Goods"
+msgstr "वस्तूंचे उत्पादन मूल्य"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:96
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:115
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:116
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:117
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:166
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:167
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:168
+msgid "Monthly Profit Center"
+msgstr "मासिक नफा केंद्र"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:99
+msgid "Coupon Discount Type Wise Reporting"
+msgstr "कूपन सवलत प्रकार वाइज रिपोर्टिंग"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:100
+msgid "New/Repeat Customer Analysis"
+msgstr "नवीन / पुनरावृत्ती ग्राहक विश्लेषण"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:101
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:151
+msgid "Frequently Order Customer"
+msgstr "ग्राहकांना वारंवार ऑर्डर करा"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:102
+msgid "Customer In Price Point"
+msgstr "किंमत पॉईंटमधील ग्राहक"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:103
+msgid "Customer/Non Purchase"
+msgstr "ग्राहक / न खरेदी"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:137
+msgid "Other Reports"
+msgstr "इतर अहवाल"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:140
+msgid "Coupon Discount Reporting"
+msgstr "कूपन सवलत अहवाल"
+
+#: includes/ic_commerce_ultimate_report_cog.php:161
+#: includes/ic_commerce_ultimate_report_cog.php:267
+#: includes/ic_commerce_ultimate_report_cog.php:330
+#: includes/ic_commerce_ultimate_report_cog.php:363
+#: includes/ic_commerce_ultimate_report_cog.php:450
+msgid "Cost Of Goods"
+msgstr "वस्तूंचा खर्च"
+
+#: includes/ic_commerce_ultimate_report_cog.php:164
+#: includes/ic_commerce_ultimate_report_cog.php:804
+msgid "Total Cost Of Goods"
+msgstr "वस्तूंची एकूण किंमत"
+
+#: includes/ic_commerce_ultimate_report_cog.php:199
+msgid "COGs"
+msgstr "सीओजी"
+
+#: includes/ic_commerce_ultimate_report_cog.php:200
+msgid "Total COGs"
+msgstr "एकूण सीओजी"
+
+#: includes/ic_commerce_ultimate_report_cog.php:268
+#: includes/ic_commerce_ultimate_report_cog.php:331
+#: includes/ic_commerce_ultimate_report_cog.php:364
+#: includes/ic_commerce_ultimate_report_cog.php:467
+msgid "Enter Cost Of Goods"
+msgstr "वस्तूंची किंमत प्रविष्ट करा"
+
+#: includes/ic_commerce_ultimate_report_cog.php:269
+msgid "Enter the custom value here."
+msgstr "येथे सानुकूल मूल्य प्रविष्ट करा."
+
+#: includes/ic_commerce_ultimate_report_cog.php:296
+msgid "Default Cost Of Goods"
+msgstr "वस्तूंचे मूलभूत मूल्य"
+
+#: includes/ic_commerce_ultimate_report_cog.php:297
+msgid "Enter default cost of goods"
+msgstr "वस्तूंचे डीफॉल्ट मूल्य प्रविष्ट करा"
+
+#: includes/ic_commerce_ultimate_report_cog.php:298
+msgid "Enter default the custom value here."
+msgstr "येथे सानुकूल मूल्य डीफॉल्ट प्रविष्ट करा."
+
+#: includes/ic_commerce_ultimate_report_cog.php:332
+#: includes/ic_commerce_ultimate_report_cog.php:365
+msgid "Enter the Cost Of Goods."
+msgstr "वस्तूंची किंमत प्रविष्ट करा."
+
+#: includes/ic_commerce_ultimate_report_cog.php:636
+msgid "Cost of Goods:"
+msgstr "वस्तूंची किंमतः"
+
+#: includes/ic_commerce_ultimate_report_cog.php:637
+msgid "Enable Cost of Goods:"
+msgstr "वस्तूंची किंमत सक्षम करा:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:638
+msgid "Enable Reporting:"
+msgstr "अहवाल देणे सक्षम कराः"
+
+#: includes/ic_commerce_ultimate_report_cog.php:639
+msgid "Enable Dashboard Summary:"
+msgstr "डॅशबोर्ड सारांश सक्षम करा:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:640
+msgid "Enable Reporting Set Cogs:"
+msgstr "रिपोर्टिंग सेट कोग सक्षम करा:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:640
+msgid "Show items with Cost of Goods Only."
+msgstr "केवळ वस्तूंच्या किंमतीसह आयटम दर्शवा."
+
+#: includes/ic_commerce_ultimate_report_cog.php:641
+msgid "Dashboard Monthly Profit:"
+msgstr "डॅशबोर्ड मासिक लाभ:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:642
+msgid "Dashboard Top Profit Product:"
+msgstr "डॅशबोर्ड टॉप नफा उत्पादन:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:811
+#: includes/ic_commerce_ultimate_report_cog.php:1042
+#: includes/ic_commerce_ultimate_report_cog.php:1078
+#: includes/ic_commerce_ultimate_report_cog.php:1686
+#: includes/ic_commerce_ultimate_report_cog.php:1746
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:320
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:370
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:375
+#: includes/ic_commerce_ultimate_report_summary_sales_reports.php:86
+#: includes/ic_commerce_ultimate_report_summary_sales_reports.php:105
+msgid "Sales Amount"
+msgstr "विक्री रक्कम"
+
+#: includes/ic_commerce_ultimate_report_cog.php:818
+msgid "Total Profit/Margin"
+msgstr "एकूण नफा / मार्जिन"
+
+#: includes/ic_commerce_ultimate_report_cog.php:824
+msgid "Profit Percentage"
+msgstr "नफा टक्केवारी"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1023
+#: includes/ic_commerce_ultimate_report_stock_list.php:167
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:194
+msgid "Product Type:"
+msgstr "उत्पादन प्रकारः"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1027
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:134
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:143
+msgid "All"
+msgstr "सर्व"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1028
+msgid "Simple Product"
+msgstr "साधे उत्पादन"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1029
+msgid "Variable Product"
+msgstr "परिवर्तनीय उत्पादन"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1030
+msgid "Variation Product"
+msgstr "विविधता उत्पादन"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1038
+#: includes/ic_commerce_ultimate_report_cog.php:1074
+#: includes/ic_commerce_ultimate_report_custom_report.php:403
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:66
+#: includes/ic_commerce_ultimate_report_product_analysis.php:69
+#: includes/ic_commerce_ultimate_report_stock_list.php:194
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:168
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:70
+#: includes/ic_commerce_ultimate_report_variation.php:326
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:220
+msgid "Order By:"
+msgstr "च्या आदेशाने:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1043
+#: includes/ic_commerce_ultimate_report_cog.php:1079
+#: includes/ic_commerce_ultimate_report_cog.php:1685
+#: includes/ic_commerce_ultimate_report_cog.php:1716
+#: includes/ic_commerce_ultimate_report_cog.php:1745
+#: includes/ic_commerce_ultimate_report_cog.php:1762
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:81
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:91
+msgid "Total Cost of Goods"
+msgstr "वस्तूंची एकूण किंमत"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1044
+#: includes/ic_commerce_ultimate_report_cog.php:1080
+#: includes/ic_commerce_ultimate_report_cog.php:1687
+#: includes/ic_commerce_ultimate_report_cog.php:1718
+#: includes/ic_commerce_ultimate_report_cog.php:1747
+#: includes/ic_commerce_ultimate_report_cog.php:1763
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:82
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:92
+msgid "Margin/Profit"
+msgstr "मार्जिन / नफा"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1049
+#: includes/ic_commerce_ultimate_report_cog.php:1086
+#: includes/ic_commerce_ultimate_report_custom_report.php:411
+#: includes/ic_commerce_ultimate_report_stock_list.php:199
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:185
+#: includes/ic_commerce_ultimate_report_variation.php:331
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:231
+msgid "Ascending"
+msgstr "चढते"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1049
+#: includes/ic_commerce_ultimate_report_cog.php:1086
+#: includes/ic_commerce_ultimate_report_custom_report.php:411
+#: includes/ic_commerce_ultimate_report_stock_list.php:199
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:185
+#: includes/ic_commerce_ultimate_report_variation.php:331
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:231
+msgid "Descending"
+msgstr "उतरणे"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1059
+#: includes/ic_commerce_ultimate_report_cog.php:1070
+#: includes/ic_commerce_ultimate_report_cog.php:1101
+msgid "Show items with Cost of Goods Only:"
+msgstr "केवळ वस्तूंच्या किंमतीसह आयटम दर्शवा:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1081
+#: includes/ic_commerce_ultimate_report_cog.php:1713
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:79
+#: includes/ic_commerce_ultimate_report_summary_sales_reports.php:83
+msgid "Month Name"
+msgstr "महिना नाव"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1677
+#: includes/ic_commerce_ultimate_report_cog_crosstab.php:149
+#: includes/ic_commerce_ultimate_report_columns.php:112
+#: includes/ic_commerce_ultimate_report_columns.php:132
+#: includes/ic_commerce_ultimate_report_columns.php:146
+#: includes/ic_commerce_ultimate_report_columns.php:373
+#: includes/ic_commerce_ultimate_report_cross_tab.php:853
+#: includes/ic_commerce_ultimate_report_cross_tab.php:875
+#: includes/ic_commerce_ultimate_report_customization.php:1511
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:117
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:113
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:124
+msgid "Product SKU"
+msgstr "उत्पादन एसकेयू"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1678
+#: includes/ic_commerce_ultimate_report_cog.php:1702
+#: includes/ic_commerce_ultimate_report_cog_crosstab.php:149
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:88
+#: includes/ic_commerce_ultimate_report_columns.php:113
+#: includes/ic_commerce_ultimate_report_columns.php:133
+#: includes/ic_commerce_ultimate_report_columns.php:147
+#: includes/ic_commerce_ultimate_report_columns.php:374
+#: includes/ic_commerce_ultimate_report_cross_tab.php:853
+#: includes/ic_commerce_ultimate_report_cross_tab.php:868
+#: includes/ic_commerce_ultimate_report_cross_tab.php:875
+#: includes/ic_commerce_ultimate_report_customization.php:1512
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:70
+#: includes/ic_commerce_ultimate_report_product_analysis.php:73
+#: includes/ic_commerce_ultimate_report_stock_list.php:197
+#: includes/ic_commerce_ultimate_report_stock_list.php:1451
+#: includes/ic_commerce_ultimate_report_stock_list.php:1458
+#: includes/ic_commerce_ultimate_report_summary_coupon_discount_type.php:66
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:118
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:114
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:125
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:173
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:74
+#: includes/ic_commerce_ultimate_report_variation.php:329
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:224
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1422
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1429
+msgid "Product Name"
+msgstr "उत्पादनाचे नांव"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1679
+msgid "Varation"
+msgstr "Varation"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1680
+msgid "order date"
+msgstr "मागणीची तारीख"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1681
+#: includes/ic_commerce_ultimate_report_cog.php:1744
+msgid "Sales Qty"
+msgstr "विक्रीची मात्रा"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1682
+msgid "Avg. Prod. Rate"
+msgstr "सरासरी प्रोड दर"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1683
+msgid "Avg. COGs"
+msgstr "सरासरी सीओजी"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1684
+msgid "Avg. Sales Rate"
+msgstr "सरासरी विक्री दर"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1688
+#: includes/ic_commerce_ultimate_report_cog.php:1748
+msgid "Profit %"
+msgstr "नफा%"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1689
+#: includes/ic_commerce_ultimate_report_columns.php:121
+#: includes/ic_commerce_ultimate_report_columns.php:136
+#: includes/ic_commerce_ultimate_report_columns.php:149
+#: includes/ic_commerce_ultimate_report_columns.php:377
+msgid "Current Stock"
+msgstr "करंट स्टॉक"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1690
+#: includes/ic_commerce_ultimate_report_stock_list.php:579
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:738
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:920
+msgid "Edit"
+msgstr "संपादित करा"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1703
+msgid "In Stock"
+msgstr "स्टॉकमध्ये"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1704
+msgid "Cost of Good"
+msgstr "चांगले किंमत"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1705
+msgid "Sales Price"
+msgstr "विक्री मूल्य"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1706
+#: includes/ic_commerce_ultimate_report_cog.php:1754
+msgid "Valuation at Cost"
+msgstr "किंमतीवरील मूल्यमापन"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1707
+#: includes/ic_commerce_ultimate_report_cog.php:1755
+msgid "Valuation at Retail"
+msgstr "रिटेल येथे मूल्यांकन"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1714
+#: includes/ic_commerce_ultimate_report_columns.php:516
+#: includes/ic_commerce_ultimate_report_dashboard.php:2282
+msgid "Year"
+msgstr "वर्ष"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1715
+#: includes/ic_commerce_ultimate_report_cog.php:1761
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:80
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:90
+msgid "Quantity Sold"
+msgstr "विक्रीची मात्रा"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1717
+#: includes/ic_commerce_ultimate_report_cog.php:1764
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:83
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:93
+msgid "Sales Amount\t"
+msgstr "विक्री रक्कम  t"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1743
+#: includes/ic_commerce_ultimate_report_columns.php:176
+#: includes/ic_commerce_ultimate_report_columns.php:198
+#: includes/ic_commerce_ultimate_report_columns.php:573
+#: includes/ic_commerce_ultimate_report_customization.php:1577
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:402
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:136
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:149
+msgid "Product Count"
+msgstr "उत्पादन संख्या"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1753
+#: includes/ic_commerce_ultimate_report_stock_list.php:197
+#: includes/ic_commerce_ultimate_report_stock_list.php:1453
+#: includes/ic_commerce_ultimate_report_stock_list.php:1463
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1447
+msgid "Stock"
+msgstr "स्टॉक"
+
+#: includes/ic_commerce_ultimate_report_cog_crosstab.php:59
+msgid "Product Profit/Month"
+msgstr "उत्पादन नफा / महिना"
+
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:89
+#: includes/ic_commerce_ultimate_report_columns.php:343
+#: includes/ic_commerce_ultimate_report_columns.php:461
+#: includes/ic_commerce_ultimate_report_product_analysis.php:258
+#: includes/ic_commerce_ultimate_report_stock_list.php:1450
+#: includes/ic_commerce_ultimate_report_stock_list.php:1457
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:256
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1421
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1428
+msgid "SKU"
+msgstr "एसकेयू"
+
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:97
+#: includes/ic_commerce_ultimate_report_dashboard.php:2451
+#: includes/ic_commerce_ultimate_report_dashboard.php:2569
+#: includes/ic_commerce_ultimate_report_dashboard.php:2677
+#: includes/ic_commerce_ultimate_report_dashboard.php:2806
+#: includes/ic_commerce_ultimate_report_dashboard.php:2917
+#: includes/ic_commerce_ultimate_report_dashboard.php:3154
+#: includes/ic_commerce_ultimate_report_dashboard.php:3306
+#: includes/ic_commerce_ultimate_report_dashboard.php:3415
+#: includes/ic_commerce_ultimate_report_dashboard.php:3541
+msgid "View All"
+msgstr "सर्व पहा"
+
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:111
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:162
+#, php-format
+msgid "Monthly Profit Center (Last %s Month)"
+msgstr "मासिक नफा केंद्र (शेवटचा %s महिना)"
+
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:136
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:185
+#, php-format
+msgid "Top %s Profit Product"
+msgstr "टॉप %s नफा उत्पादन"
+
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:140
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:141
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:142
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:189
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:190
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:191
+msgid "Top Profit Product"
+msgstr "टॉप नफा उत्पादन"
+
+#: includes/ic_commerce_ultimate_report_cog_init.php:91
+#: includes/ic_commerce_ultimate_report_cog_init.php:96
+msgid "Cost of Goods"
+msgstr "वस्तूंचा खर्च"
+
+#: includes/ic_commerce_ultimate_report_columns.php:42
+#: includes/ic_commerce_ultimate_report_columns.php:62
+#: includes/ic_commerce_ultimate_report_columns.php:247
+#: includes/ic_commerce_ultimate_report_columns.php:275
+#: includes/ic_commerce_ultimate_report_columns.php:320
+#: includes/ic_commerce_ultimate_report_columns.php:421
+msgid "Transaction ID"
+msgstr "व्यवहार आयडी"
+
+#: includes/ic_commerce_ultimate_report_columns.php:43
+#: includes/ic_commerce_ultimate_report_columns.php:63
+#: includes/ic_commerce_ultimate_report_columns.php:248
+#: includes/ic_commerce_ultimate_report_columns.php:276
+#: includes/ic_commerce_ultimate_report_columns.php:321
+#: includes/ic_commerce_ultimate_report_columns.php:422
+#: includes/ic_commerce_ultimate_report_custom_report.php:407
+msgid "Name"
+msgstr "नाव"
+
+#: includes/ic_commerce_ultimate_report_columns.php:44
+#: includes/ic_commerce_ultimate_report_columns.php:64
+#: includes/ic_commerce_ultimate_report_columns.php:249
+#: includes/ic_commerce_ultimate_report_columns.php:277
+#: includes/ic_commerce_ultimate_report_columns.php:322
+#: includes/ic_commerce_ultimate_report_columns.php:423
+#: includes/ic_commerce_ultimate_report_customization.php:1510
+#: includes/ic_commerce_ultimate_report_custom_report.php:407
+msgid "Email"
+msgstr "ईमेल"
+
+#: includes/ic_commerce_ultimate_report_columns.php:45
+#: includes/ic_commerce_ultimate_report_columns.php:65
+#: includes/ic_commerce_ultimate_report_columns.php:251
+#: includes/ic_commerce_ultimate_report_columns.php:279
+#: includes/ic_commerce_ultimate_report_columns.php:324
+#: includes/ic_commerce_ultimate_report_columns.php:424
+#: includes/ic_commerce_ultimate_report_columns.php:464
+#: includes/ic_commerce_ultimate_report_custom_report.php:407
+msgid "Date"
+msgstr "तारीख"
+
+#: includes/ic_commerce_ultimate_report_columns.php:47
+#: includes/ic_commerce_ultimate_report_columns.php:66
+#: includes/ic_commerce_ultimate_report_columns.php:252
+#: includes/ic_commerce_ultimate_report_columns.php:280
+#: includes/ic_commerce_ultimate_report_columns.php:332
+#: includes/ic_commerce_ultimate_report_columns.php:334
+#: includes/ic_commerce_ultimate_report_columns.php:425
+#: includes/ic_commerce_ultimate_report_custom_report.php:407
+msgid "Status"
+msgstr "स्थिती"
+
+#: includes/ic_commerce_ultimate_report_columns.php:49
+#: includes/ic_commerce_ultimate_report_columns.php:68
+#: includes/ic_commerce_ultimate_report_columns.php:258
+#: includes/ic_commerce_ultimate_report_columns.php:286
+#: includes/ic_commerce_ultimate_report_columns.php:429
+msgid "Items"
+msgstr "आयटम"
+
+#: includes/ic_commerce_ultimate_report_columns.php:50
+#: includes/ic_commerce_ultimate_report_columns.php:69
+#: includes/ic_commerce_ultimate_report_columns.php:208
+#: includes/ic_commerce_ultimate_report_columns.php:259
+#: includes/ic_commerce_ultimate_report_columns.php:287
+#: includes/ic_commerce_ultimate_report_columns.php:430
+#: includes/ic_commerce_ultimate_report_columns.php:620
+#: includes/ic_commerce_ultimate_report_customization.php:1500
+#: includes/ic_commerce_ultimate_report_customization.php:1560
+#: includes/ic_commerce_ultimate_report_tax_report.php:470
+#: includes/ic_commerce_ultimate_report_tax_report.php:487
+#: includes/ic_commerce_ultimate_report_tax_report.php:505
+#: includes/ic_commerce_ultimate_report_tax_report.php:522
+#: includes/ic_commerce_ultimate_report_tax_report.php:538
+#: includes/ic_commerce_ultimate_report_tax_report.php:552
+#: includes/ic_commerce_ultimate_report_tax_report.php:567
+#: includes/ic_commerce_ultimate_report_tax_report.php:581
+#: includes/ic_commerce_ultimate_report_tax_report.php:594
+msgid "Gross Amt."
+msgstr "ग्रॉस एएमटी"
+
+#: includes/ic_commerce_ultimate_report_columns.php:51
+#: includes/ic_commerce_ultimate_report_columns.php:70
+#: includes/ic_commerce_ultimate_report_columns.php:211
+#: includes/ic_commerce_ultimate_report_columns.php:262
+#: includes/ic_commerce_ultimate_report_columns.php:290
+#: includes/ic_commerce_ultimate_report_columns.php:433
+#: includes/ic_commerce_ultimate_report_columns.php:623
+msgid "Discount Amt."
+msgstr "सवलत एएमटी"
+
+#: includes/ic_commerce_ultimate_report_columns.php:52
+#: includes/ic_commerce_ultimate_report_columns.php:71
+#: includes/ic_commerce_ultimate_report_columns.php:212
+#: includes/ic_commerce_ultimate_report_columns.php:263
+#: includes/ic_commerce_ultimate_report_columns.php:291
+#: includes/ic_commerce_ultimate_report_columns.php:434
+#: includes/ic_commerce_ultimate_report_columns.php:624
+#: includes/ic_commerce_ultimate_report_customization.php:1499
+#: includes/ic_commerce_ultimate_report_customization.php:1559
+#: includes/ic_commerce_ultimate_report_tax_report.php:469
+#: includes/ic_commerce_ultimate_report_tax_report.php:486
+#: includes/ic_commerce_ultimate_report_tax_report.php:504
+#: includes/ic_commerce_ultimate_report_tax_report.php:521
+#: includes/ic_commerce_ultimate_report_tax_report.php:537
+#: includes/ic_commerce_ultimate_report_tax_report.php:551
+#: includes/ic_commerce_ultimate_report_tax_report.php:566
+#: includes/ic_commerce_ultimate_report_tax_report.php:580
+#: includes/ic_commerce_ultimate_report_tax_report.php:593
+msgid "Shipping Amt."
+msgstr "शिपिंग एमटी."
+
+#: includes/ic_commerce_ultimate_report_columns.php:53
+#: includes/ic_commerce_ultimate_report_columns.php:72
+#: includes/ic_commerce_ultimate_report_columns.php:213
+#: includes/ic_commerce_ultimate_report_columns.php:264
+#: includes/ic_commerce_ultimate_report_columns.php:292
+#: includes/ic_commerce_ultimate_report_columns.php:435
+#: includes/ic_commerce_ultimate_report_columns.php:625
+msgid "Shipping Tax Amt."
+msgstr "शिपिंग कर एएमटी"
+
+#: includes/ic_commerce_ultimate_report_columns.php:54
+#: includes/ic_commerce_ultimate_report_columns.php:73
+#: includes/ic_commerce_ultimate_report_columns.php:214
+#: includes/ic_commerce_ultimate_report_columns.php:265
+#: includes/ic_commerce_ultimate_report_columns.php:293
+#: includes/ic_commerce_ultimate_report_columns.php:436
+#: includes/ic_commerce_ultimate_report_columns.php:626
+msgid "Order Tax Amt."
+msgstr "ऑर्डर टॅक्स एएमटी"
+
+#: includes/ic_commerce_ultimate_report_columns.php:55
+#: includes/ic_commerce_ultimate_report_columns.php:75
+#: includes/ic_commerce_ultimate_report_columns.php:215
+#: includes/ic_commerce_ultimate_report_columns.php:266
+#: includes/ic_commerce_ultimate_report_columns.php:294
+#: includes/ic_commerce_ultimate_report_columns.php:437
+#: includes/ic_commerce_ultimate_report_columns.php:627
+msgid "Total Tax Amt."
+msgstr "एकूण कर महामंडळ"
+
+#: includes/ic_commerce_ultimate_report_columns.php:56
+#: includes/ic_commerce_ultimate_report_columns.php:74
+#: includes/ic_commerce_ultimate_report_columns.php:216
+#: includes/ic_commerce_ultimate_report_columns.php:267
+#: includes/ic_commerce_ultimate_report_columns.php:295
+#: includes/ic_commerce_ultimate_report_columns.php:438
+#: includes/ic_commerce_ultimate_report_columns.php:628
+msgid "Part Refund Amt."
+msgstr "भाग परतावा AMT."
+
+#: includes/ic_commerce_ultimate_report_columns.php:57
+#: includes/ic_commerce_ultimate_report_columns.php:76
+#: includes/ic_commerce_ultimate_report_columns.php:203
+#: includes/ic_commerce_ultimate_report_columns.php:217
+#: includes/ic_commerce_ultimate_report_columns.php:268
+#: includes/ic_commerce_ultimate_report_columns.php:296
+#: includes/ic_commerce_ultimate_report_columns.php:349
+#: includes/ic_commerce_ultimate_report_columns.php:439
+#: includes/ic_commerce_ultimate_report_columns.php:629
+#: includes/ic_commerce_ultimate_report_customization.php:1501
+#: includes/ic_commerce_ultimate_report_customization.php:1561
+#: includes/ic_commerce_ultimate_report_tax_report.php:471
+#: includes/ic_commerce_ultimate_report_tax_report.php:488
+#: includes/ic_commerce_ultimate_report_tax_report.php:506
+#: includes/ic_commerce_ultimate_report_tax_report.php:523
+#: includes/ic_commerce_ultimate_report_tax_report.php:539
+#: includes/ic_commerce_ultimate_report_tax_report.php:553
+#: includes/ic_commerce_ultimate_report_tax_report.php:568
+#: includes/ic_commerce_ultimate_report_tax_report.php:582
+#: includes/ic_commerce_ultimate_report_tax_report.php:595
+msgid "Net Amt."
+msgstr "नेट एएमटी"
+
+#: includes/ic_commerce_ultimate_report_columns.php:104
+#: includes/ic_commerce_ultimate_report_columns.php:145
+#: includes/ic_commerce_ultimate_report_variation.php:329
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:225
+msgid "Product ID"
+msgstr "उत्पादन आयडी"
+
+#: includes/ic_commerce_ultimate_report_columns.php:107
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:115
+#: includes/ic_commerce_ultimate_report_variation.php:329
+#: includes/ic_commerce_ultimate_report_variation.php:341
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:227
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1420
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1427
+msgid "Variation ID"
+msgstr "भिन्नता आयडी"
+
+#: includes/ic_commerce_ultimate_report_columns.php:110
+#: includes/ic_commerce_ultimate_report_variation.php:341
+msgid "Order Item ID"
+msgstr "ऑर्डर आयटम आयडी"
+
+#: includes/ic_commerce_ultimate_report_columns.php:120
+#: includes/ic_commerce_ultimate_report_columns.php:135
+#: includes/ic_commerce_ultimate_report_columns.php:148
+#: includes/ic_commerce_ultimate_report_columns.php:376
+#: includes/ic_commerce_ultimate_report_customization.php:1513
+msgid "Sales Qty."
+msgstr "विक्रीची मात्रा"
+
+#: includes/ic_commerce_ultimate_report_columns.php:122
+#: includes/ic_commerce_ultimate_report_columns.php:137
+#: includes/ic_commerce_ultimate_report_columns.php:150
+#: includes/ic_commerce_ultimate_report_columns.php:172
+#: includes/ic_commerce_ultimate_report_columns.php:178
+#: includes/ic_commerce_ultimate_report_columns.php:378
+#: includes/ic_commerce_ultimate_report_columns.php:389
+#: includes/ic_commerce_ultimate_report_columns.php:399
+#: includes/ic_commerce_ultimate_report_columns.php:406
+#: includes/ic_commerce_ultimate_report_columns.php:453
+#: includes/ic_commerce_ultimate_report_columns.php:653
+#: includes/ic_commerce_ultimate_report_customization.php:1486
+#: includes/ic_commerce_ultimate_report_customization.php:1515
+#: includes/ic_commerce_ultimate_report_customization.php:1523
+#: includes/ic_commerce_ultimate_report_customization.php:1536
+#: includes/ic_commerce_ultimate_report_dashboard.php:2291
+#: includes/ic_commerce_ultimate_report_dashboard.php:2435
+#: includes/ic_commerce_ultimate_report_dashboard.php:2552
+#: includes/ic_commerce_ultimate_report_dashboard.php:2661
+#: includes/ic_commerce_ultimate_report_dashboard.php:2788
+#: includes/ic_commerce_ultimate_report_dashboard.php:2901
+#: includes/ic_commerce_ultimate_report_dashboard.php:3269
+#: includes/ic_commerce_ultimate_report_dashboard.php:3398
+#: includes/ic_commerce_ultimate_report_dashboard.php:3525
+#: includes/ic_commerce_ultimate_report_export_invoice.php:279
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:166
+#: includes/ic_commerce_ultimate_report_summary_tag_based.php:97
+#: includes/ic_commerce_ultimate_report_summary_tag_based.php:117
+#: includes/ic_commerce_ultimate_report_variation.php:329
+msgid "Amount"
+msgstr "रक्कम"
+
+#: includes/ic_commerce_ultimate_report_columns.php:131
+#: includes/ic_commerce_ultimate_report_product_analysis.php:257
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:255
+msgid "ID"
+msgstr "आयडी"
+
+#: includes/ic_commerce_ultimate_report_columns.php:134
+#: includes/ic_commerce_ultimate_report_columns.php:344
+#: includes/ic_commerce_ultimate_report_init.php:419
+#: includes/ic_commerce_ultimate_report_init.php:536
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:259
+msgid "Variation"
+msgstr "बदल"
+
+#: includes/ic_commerce_ultimate_report_columns.php:170
+msgid "Variation Count"
+msgstr "फरक गणना"
+
+#: includes/ic_commerce_ultimate_report_columns.php:171
+#: includes/ic_commerce_ultimate_report_columns.php:177
+#: includes/ic_commerce_ultimate_report_columns.php:574
+#: includes/ic_commerce_ultimate_report_customization.php:1584
+#: includes/ic_commerce_ultimate_report_summary_tag_based.php:96
+#: includes/ic_commerce_ultimate_report_summary_tag_based.php:116
+msgid "Sales Quantity"
+msgstr "विक्रीची मात्रा"
+
+#: includes/ic_commerce_ultimate_report_columns.php:197
+#: includes/ic_commerce_ultimate_report_columns.php:207
+#: includes/ic_commerce_ultimate_report_columns.php:388
+#: includes/ic_commerce_ultimate_report_columns.php:398
+#: includes/ic_commerce_ultimate_report_columns.php:405
+#: includes/ic_commerce_ultimate_report_columns.php:452
+#: includes/ic_commerce_ultimate_report_columns.php:585
+#: includes/ic_commerce_ultimate_report_columns.php:592
+#: includes/ic_commerce_ultimate_report_columns.php:603
+#: includes/ic_commerce_ultimate_report_columns.php:611
+#: includes/ic_commerce_ultimate_report_columns.php:617
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:105
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:124
+#: includes/ic_commerce_ultimate_report_customization.php:1498
+#: includes/ic_commerce_ultimate_report_customization.php:1522
+#: includes/ic_commerce_ultimate_report_customization.php:1535
+#: includes/ic_commerce_ultimate_report_customization.php:1558
+#: includes/ic_commerce_ultimate_report_customization.php:1591
+#: includes/ic_commerce_ultimate_report_customization.php:1601
+#: includes/ic_commerce_ultimate_report_dashboard.php:2290
+#: includes/ic_commerce_ultimate_report_dashboard.php:2434
+#: includes/ic_commerce_ultimate_report_dashboard.php:2660
+#: includes/ic_commerce_ultimate_report_dashboard.php:2787
+#: includes/ic_commerce_ultimate_report_dashboard.php:2900
+#: includes/ic_commerce_ultimate_report_dashboard.php:3268
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:401
+#: includes/ic_commerce_ultimate_report_init.php:1266
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:165
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:184
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:319
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:369
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:374
+#: includes/ic_commerce_ultimate_report_summary_sales_reports.php:85
+#: includes/ic_commerce_ultimate_report_summary_sales_reports.php:104
+#: includes/ic_commerce_ultimate_report_tax_report.php:468
+#: includes/ic_commerce_ultimate_report_tax_report.php:485
+#: includes/ic_commerce_ultimate_report_tax_report.php:503
+#: includes/ic_commerce_ultimate_report_tax_report.php:520
+#: includes/ic_commerce_ultimate_report_tax_report.php:536
+#: includes/ic_commerce_ultimate_report_tax_report.php:550
+#: includes/ic_commerce_ultimate_report_tax_report.php:565
+#: includes/ic_commerce_ultimate_report_tax_report.php:579
+#: includes/ic_commerce_ultimate_report_tax_report.php:592
+msgid "Order Count"
+msgstr "ऑर्डर गणना"
+
+#: includes/ic_commerce_ultimate_report_columns.php:199
+#: includes/ic_commerce_ultimate_report_columns.php:345
+#: includes/ic_commerce_ultimate_report_summary_coupon_discount_type.php:69
+msgid "Qty."
+msgstr "क्विंटल"
+
+#: includes/ic_commerce_ultimate_report_columns.php:200
+#: includes/ic_commerce_ultimate_report_columns.php:346
+#: includes/ic_commerce_ultimate_report_export_invoice.php:278
+msgid "Rate"
+msgstr "दर"
+
+#: includes/ic_commerce_ultimate_report_columns.php:201
+#: includes/ic_commerce_ultimate_report_columns.php:347
+msgid "Prod. Amt."
+msgstr "प्रोड एएमटी"
+
+#: includes/ic_commerce_ultimate_report_columns.php:202
+#: includes/ic_commerce_ultimate_report_columns.php:348
+msgid "Prod. Discount"
+msgstr "प्रोड सवलत"
+
+#: includes/ic_commerce_ultimate_report_columns.php:250
+#: includes/ic_commerce_ultimate_report_columns.php:278
+#: includes/ic_commerce_ultimate_report_columns.php:323
+#: includes/ic_commerce_ultimate_report_tax_report.php:211
+msgid "City"
+msgstr "शहर"
+
+#: includes/ic_commerce_ultimate_report_columns.php:253
+#: includes/ic_commerce_ultimate_report_columns.php:281
+#: includes/ic_commerce_ultimate_report_customization.php:1496
+#: includes/ic_commerce_ultimate_report_tax_report.php:215
+#: includes/ic_commerce_ultimate_report_tax_report.php:465
+#: includes/ic_commerce_ultimate_report_tax_report.php:482
+#: includes/ic_commerce_ultimate_report_tax_report.php:500
+#: includes/ic_commerce_ultimate_report_tax_report.php:517
+#: includes/ic_commerce_ultimate_report_tax_report.php:532
+#: includes/ic_commerce_ultimate_report_tax_report.php:548
+msgid "Tax Name"
+msgstr "कर नाव"
+
+#: includes/ic_commerce_ultimate_report_columns.php:254
+#: includes/ic_commerce_ultimate_report_columns.php:282
+msgid "Shipping Method"
+msgstr "शिपिंग पद्धत"
+
+#: includes/ic_commerce_ultimate_report_columns.php:255
+#: includes/ic_commerce_ultimate_report_columns.php:283
+#: includes/ic_commerce_ultimate_report_columns.php:397
+#: includes/ic_commerce_ultimate_report_dashboard.php:2899
+msgid "Payment Method"
+msgstr "पेमेंट पद्धत"
+
+#: includes/ic_commerce_ultimate_report_columns.php:256
+#: includes/ic_commerce_ultimate_report_columns.php:284
+msgid "Order Currency"
+msgstr "ऑर्डर चलन"
+
+#: includes/ic_commerce_ultimate_report_columns.php:257
+#: includes/ic_commerce_ultimate_report_columns.php:285
+#: includes/ic_commerce_ultimate_report_columns.php:337
+#: includes/ic_commerce_ultimate_report_columns.php:444
+#: includes/ic_commerce_ultimate_report_dashboard.php:3395
+#: includes/ic_commerce_ultimate_report_summary_coupon_discount_type.php:67
+msgid "Coupon Code"
+msgstr "कूपन कोड"
+
+#: includes/ic_commerce_ultimate_report_columns.php:269
+#: includes/ic_commerce_ultimate_report_columns.php:297
+#: includes/ic_commerce_ultimate_report_columns.php:350
+msgid "Invoice Action"
+msgstr "चलन क्रिया"
+
+#: includes/ic_commerce_ultimate_report_columns.php:342
+#: includes/ic_commerce_ultimate_report_columns.php:463
+msgid "Products"
+msgstr "उत्पादने"
+
+#: includes/ic_commerce_ultimate_report_columns.php:375
+msgid "Categories"
+msgstr "श्रेण्या"
+
+#: includes/ic_commerce_ultimate_report_columns.php:383
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:100
+#: includes/ic_commerce_ultimate_report_custom_report.php:2313
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:162
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:315
+msgid "Billing First Name"
+msgstr "बिलिंग प्रथम नाव"
+
+#: includes/ic_commerce_ultimate_report_columns.php:384
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:101
+#: includes/ic_commerce_ultimate_report_custom_report.php:2314
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:163
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:316
+msgid "Billing Last Name"
+msgstr "अंतिम नाव देणे"
+
+#: includes/ic_commerce_ultimate_report_columns.php:386
+#: includes/ic_commerce_ultimate_report_dashboard.php:3266
+msgid "Company Name"
+msgstr "कंपनीचे नाव"
+
+#: includes/ic_commerce_ultimate_report_columns.php:387
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:102
+#: includes/ic_commerce_ultimate_report_dashboard.php:3267
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:164
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:318
+msgid "Billing Email"
+msgstr "बिलिंग ईमेल"
+
+#: includes/ic_commerce_ultimate_report_columns.php:445
+#: includes/ic_commerce_ultimate_report_columns.php:636
+msgid "Coupon Count"
+msgstr "कूपन गणना"
+
+#: includes/ic_commerce_ultimate_report_columns.php:446
+#: includes/ic_commerce_ultimate_report_columns.php:637
+msgid "Coupon Amount"
+msgstr "कूपन रक्कम"
+
+#: includes/ic_commerce_ultimate_report_columns.php:456
+#: includes/ic_commerce_ultimate_report_customization.php:1528
+#: includes/ic_commerce_ultimate_report_custom_report.php:2338
+#: includes/ic_commerce_ultimate_report_dashboard.php:2659
+msgid "Shipping Country"
+msgstr "शिपिंग देश"
+
+#: includes/ic_commerce_ultimate_report_columns.php:465
+#: includes/ic_commerce_ultimate_report_customization.php:1485
+#: includes/ic_commerce_ultimate_report_export_invoice.php:277
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:69
+#: includes/ic_commerce_ultimate_report_product_analysis.php:72
+#: includes/ic_commerce_ultimate_report_product_analysis.php:262
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:73
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:261
+msgid "Quantity"
+msgstr "प्रमाण"
+
+#: includes/ic_commerce_ultimate_report_columns.php:466
+msgid "Product Price Exc VAT"
+msgstr "उत्पादन किंमत एक्सा व्हॅट"
+
+#: includes/ic_commerce_ultimate_report_columns.php:467
+msgid "VAT per Item"
+msgstr "प्रति आयटम व्हॅट"
+
+#: includes/ic_commerce_ultimate_report_columns.php:468
+msgid "Shipping"
+msgstr "शिपिंग"
+
+#: includes/ic_commerce_ultimate_report_columns.php:469
+msgid "Total Price Exl VAT and Shipping"
+msgstr "एकूण किंमत एक्स्लॉट व्हॅट आणि शिपिंग"
+
+#: includes/ic_commerce_ultimate_report_columns.php:470
+msgid "Total Price"
+msgstr "एकूण किंमत"
+
+#: includes/ic_commerce_ultimate_report_columns.php:490
+#: includes/ic_commerce_ultimate_report_columns.php:527
+msgid "Order Date"
+msgstr "मागणीची तारीख"
+
+#: includes/ic_commerce_ultimate_report_columns.php:492
+#: includes/ic_commerce_ultimate_report_columns.php:499
+#: includes/ic_commerce_ultimate_report_columns.php:511
+#: includes/ic_commerce_ultimate_report_columns.php:517
+#: includes/ic_commerce_ultimate_report_columns.php:643
+msgid "Refund Counts"
+msgstr "परतावा गणना"
+
+#: includes/ic_commerce_ultimate_report_columns.php:493
+#: includes/ic_commerce_ultimate_report_columns.php:500
+#: includes/ic_commerce_ultimate_report_columns.php:506
+#: includes/ic_commerce_ultimate_report_columns.php:512
+#: includes/ic_commerce_ultimate_report_columns.php:518
+#: includes/ic_commerce_ultimate_report_columns.php:530
+#: includes/ic_commerce_ultimate_report_columns.php:644
+msgid "Refund Amount"
+msgstr "परतावा रक्कम"
+
+#: includes/ic_commerce_ultimate_report_columns.php:498
+msgid "Refunded By"
+msgstr "द्वारा परतावा"
+
+#: includes/ic_commerce_ultimate_report_columns.php:504
+#: includes/ic_commerce_ultimate_report_columns.php:523
+msgid "Refund Date"
+msgstr "परतावा तारीख"
+
+#: includes/ic_commerce_ultimate_report_columns.php:505
+#: includes/ic_commerce_ultimate_report_columns.php:537
+#: includes/ic_commerce_ultimate_report_columns.php:648
+msgid "Order Counts"
+msgstr "ऑर्डर गणना"
+
+#: includes/ic_commerce_ultimate_report_columns.php:510
+#: includes/ic_commerce_ultimate_report_dashboard.php:2281
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:330
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:354
+msgid "Month"
+msgstr "महिना"
+
+#: includes/ic_commerce_ultimate_report_columns.php:524
+msgid "Refund Status"
+msgstr "परतावा स्थिती"
+
+#: includes/ic_commerce_ultimate_report_columns.php:525
+msgid "Refund By"
+msgstr "परतावा"
+
+#: includes/ic_commerce_ultimate_report_columns.php:529
+msgid "Refund Note"
+msgstr "परतावा नोट"
+
+#: includes/ic_commerce_ultimate_report_columns.php:575
+#: includes/ic_commerce_ultimate_report_columns.php:586
+#: includes/ic_commerce_ultimate_report_columns.php:593
+#: includes/ic_commerce_ultimate_report_columns.php:604
+#: includes/ic_commerce_ultimate_report_columns.php:612
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:125
+#: includes/ic_commerce_ultimate_report_customization.php:1578
+#: includes/ic_commerce_ultimate_report_customization.php:1585
+#: includes/ic_commerce_ultimate_report_customization.php:1592
+#: includes/ic_commerce_ultimate_report_customization.php:1602
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:185
+msgid "Total Amount"
+msgstr "एकूण रक्कम"
+
+#: includes/ic_commerce_ultimate_report_columns.php:584
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:123
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:183
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:368
+msgid "Customer Count"
+msgstr "ग्राहक गणना"
+
+#: includes/ic_commerce_ultimate_report_columns.php:591
+msgid "Country Count"
+msgstr "देश गणना"
+
+#: includes/ic_commerce_ultimate_report_columns.php:597
+msgid "Shipping Country Count"
+msgstr "शिपिंग देश गणना"
+
+#: includes/ic_commerce_ultimate_report_columns.php:602
+msgid "Payment Method Count"
+msgstr "पेमेंट पद्धत गणना"
+
+#: includes/ic_commerce_ultimate_report_columns.php:610
+msgid "Order Status Count"
+msgstr "ऑर्डर स्थिती गणना"
+
+#: includes/ic_commerce_ultimate_report_columns.php:635
+#: includes/ic_commerce_ultimate_report_summary_coupon_discount_type.php:85
+msgid "Result Count"
+msgstr "निकाल गणना"
+
+#: includes/ic_commerce_ultimate_report_columns.php:642
+msgid "Results Count"
+msgstr "परिणाम संख्या"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:246
+msgid "Prod./Month"
+msgstr "प्रोड. / मॉन्थ"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:247
+msgid "Variation/Month"
+msgstr "बदल / महिना"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:249
+msgid "Prod./Country"
+msgstr "प्रोड. / देश"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:250
+msgid "Prod./State"
+msgstr "Prod./State"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:252
+msgid "Country/Month"
+msgstr "देश / महिना"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:253
+msgid "Payment G/Month"
+msgstr "पेमेंट जी / महिना"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:254
+msgid "Ord. Status/Month"
+msgstr "ऑर्ड स्थिती / महिना"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:256
+msgid "Summary/Month"
+msgstr "सारांश / महिना"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:297
+msgid "Start Month:"
+msgstr "महिना सुरू कराः"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:301
+msgid "End Month:"
+msgstr "समाप्ती महिना"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:330
+#: includes/ic_commerce_ultimate_report_cross_tab.php:420
+#: includes/ic_commerce_ultimate_report_customization.php:75
+#: includes/ic_commerce_ultimate_report_tax_report.php:169
+msgid "Country:"
+msgstr "देशः"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:342
+msgid "Payment Gatway:"
+msgstr "पेमेंट गेटवेः"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:355
+msgid "Reports:"
+msgstr "अहवालः"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:359
+#: includes/ic_commerce_ultimate_report_cross_tab.php:2766
+#: includes/ic_commerce_ultimate_report_init.php:1265
+msgid "Order Total"
+msgstr "ऑर्डर एकूण"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:360
+#: includes/ic_commerce_ultimate_report_cross_tab.php:2767
+#: includes/ic_commerce_ultimate_report_customization.php:1503
+#: includes/ic_commerce_ultimate_report_customization.php:1563
+#: includes/ic_commerce_ultimate_report_dashboard.php:767
+#: includes/ic_commerce_ultimate_report_tax_report.php:475
+#: includes/ic_commerce_ultimate_report_tax_report.php:492
+#: includes/ic_commerce_ultimate_report_tax_report.php:510
+#: includes/ic_commerce_ultimate_report_tax_report.php:527
+#: includes/ic_commerce_ultimate_report_tax_report.php:543
+#: includes/ic_commerce_ultimate_report_tax_report.php:557
+#: includes/ic_commerce_ultimate_report_tax_report.php:572
+#: includes/ic_commerce_ultimate_report_tax_report.php:586
+#: includes/ic_commerce_ultimate_report_tax_report.php:599
+#: includes/ic_commerce_ultimate_report_tax_report.php:606
+msgid "Order Tax"
+msgstr "ऑर्डर कर"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:361
+#: includes/ic_commerce_ultimate_report_cross_tab.php:2768
+msgid "Order Discount"
+msgstr "ऑर्डर सवलत"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:362
+#: includes/ic_commerce_ultimate_report_cross_tab.php:2769
+#: includes/ic_commerce_ultimate_report_functions.php:3018
+msgid "Cart Discount"
+msgstr "कार्ट सवलत"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:363
+#: includes/ic_commerce_ultimate_report_cross_tab.php:2770
+msgid "Order Shipping"
+msgstr "ऑर्डर शिपिंग"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:364
+#: includes/ic_commerce_ultimate_report_cross_tab.php:2771
+#: includes/ic_commerce_ultimate_report_dashboard.php:782
+msgid "Order Shipping Tax"
+msgstr "ऑर्डर शिपिंग कर"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:365
+#: includes/ic_commerce_ultimate_report_cross_tab.php:2772
+msgid "Product Sales"
+msgstr "उत्पादन विक्री"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:410
+#: includes/ic_commerce_ultimate_report_cross_tab.php:487
+#: includes/ic_commerce_ultimate_report_product_analysis.php:60
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:57
+#: includes/ic_commerce_ultimate_report_variation.php:176
+msgid "Product:"
+msgstr "उत्पादनः"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:437
+#: includes/ic_commerce_ultimate_report_customization.php:85
+#: includes/ic_commerce_ultimate_report_tax_report.php:182
+msgid "State:"
+msgstr "राज्यः"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:496
+#: includes/ic_commerce_ultimate_report_customization.php:113
+#: includes/ic_commerce_ultimate_report_variation.php:230
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:204
+msgid "Variations:"
+msgstr "बदल:"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:506
+msgid "There is no order purchased in variable product."
+msgstr "परिवर्तनीय उत्पादनात कोणतीही ऑर्डर खरेदी केलेली नाही."
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:514
+msgid "limit:"
+msgstr "मर्यादाः"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:644
+msgid "Export to Print"
+msgstr "मुद्रण करण्यासाठी निर्यात करा"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:856
+msgid "Country Name"
+msgstr "देशाचे नाव"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:859
+msgid "Status Name"
+msgstr "स्थितीचे नाव"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:862
+msgid "Payment Gatway"
+msgstr "पेमेंट गेटवे"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:865
+msgid "Reports"
+msgstr "अहवाल"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:868
+msgid "Item SKU"
+msgstr "आयटम एसकेयू"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:868
+msgid "varition ID"
+msgstr "विविधता आयडी"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:1277
+#: includes/ic_commerce_ultimate_report_cross_tab.php:1491
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:469
+#: includes/ic_commerce_ultimate_report_product_analysis.php:264
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:263
+msgid "Total"
+msgstr "एकूण"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:1557
+msgid "Order not found"
+msgstr "ऑर्डर सापडली नाही"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3436
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3756
+msgid "Total Amt."
+msgstr "एकूण एएमटी"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3437
+msgid "Total Qty."
+msgstr "एकूण रक्कम."
+
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:103
+msgid "Min Price"
+msgstr "किमान किंमत"
+
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:104
+msgid "Max Price"
+msgstr "कमाल किंमत"
+
+#: includes/ic_commerce_ultimate_report_customer_wise_new_product.php:135
+#: includes/ic_commerce_ultimate_report_daily_sales_report.php:122
+#: includes/ic_commerce_ultimate_report_product_wise_new_customer.php:252
+msgid "Export"
+msgstr "निर्यात"
+
+#: includes/ic_commerce_ultimate_report_customer_wise_new_product.php:163
+#: includes/ic_commerce_ultimate_report_daily_sales_report.php:152
+#: includes/ic_commerce_ultimate_report_new_repeat_customer.php:395
+#: includes/ic_commerce_ultimate_report_product_analysis.php:289
+#: includes/ic_commerce_ultimate_report_product_wise_new_customer.php:285
+msgid "No record found"
+msgstr "कोणताही रेकॉर्ड सापडला नाही"
+
+#: includes/ic_commerce_ultimate_report_customization.php:100
+msgid "City:"
+msgstr "शहरः"
+
+#: includes/ic_commerce_ultimate_report_customization.php:134
+#: includes/ic_commerce_ultimate_report_variation.php:249
+msgid "There is no any order purchased in variable product."
+msgstr "परिवर्तनीय उत्पादनात कोणतीही ऑर्डर खरेदी केलेली नाही."
+
+#: includes/ic_commerce_ultimate_report_customization.php:138
+msgid "Enable variations selection by clicking 'Show Order Item Details"
+msgstr "'ऑर्डर आयटम तपशील दर्शवा' क्लिक करून विविधता निवड सक्षम करा"
+
+#: includes/ic_commerce_ultimate_report_customization.php:141
+msgid "Variation Only:"
+msgstr "केवळ भिन्नता:"
+
+#: includes/ic_commerce_ultimate_report_customization.php:143
+msgid "Enable variations only selection by clicking 'Show Order Item Details"
+msgstr "'ऑर्डर आयटम तपशील दर्शवा' वर क्लिक करुन केवळ फरक निवडणे सक्षम करा"
+
+#: includes/ic_commerce_ultimate_report_customization.php:149
+#: includes/ic_commerce_ultimate_report_variation.php:198
+msgid "Postcode(Zip):"
+msgstr "पोस्टकोड (पिन):"
+
+#: includes/ic_commerce_ultimate_report_customization.php:153
+msgid "Min and Max By:"
+msgstr "किमान आणि कमालः"
+
+#: includes/ic_commerce_ultimate_report_customization.php:158
+msgid "Order Net Amount"
+msgstr "नेट रक्कम ऑर्डर करा"
+
+#: includes/ic_commerce_ultimate_report_customization.php:159
+msgid "Order Discount Amount"
+msgstr "ऑर्डर सवलत रक्कम"
+
+#: includes/ic_commerce_ultimate_report_customization.php:160
+msgid "Order Shipping Amount"
+msgstr "ऑर्डर शिपिंग रक्कम"
+
+#: includes/ic_commerce_ultimate_report_customization.php:161
+msgid "Order Shipping Tax Amount"
+msgstr "ऑर्डर शिपिंग कर रक्कम"
+
+#: includes/ic_commerce_ultimate_report_customization.php:166
+#: includes/ic_commerce_ultimate_report_customization.php:173
+#: includes/ic_commerce_ultimate_report_customization.php:179
+msgid "Enable this selection by uncheck 'Show Order Item Details'"
+msgstr "'ऑर्डर आयटम तपशील दर्शवा' अनचेक करून ही निवड सक्षम करा."
+
+#: includes/ic_commerce_ultimate_report_customization.php:171
+msgid "Min Amount:"
+msgstr "किमान रक्कमः"
+
+#: includes/ic_commerce_ultimate_report_customization.php:177
+msgid "Max Amount:"
+msgstr "कमाल रक्कमः"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1483
+#: includes/ic_commerce_ultimate_report_dashboard.php:3523
+msgid "Category Name"
+msgstr "वर्ग नाव"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1497
+#: includes/ic_commerce_ultimate_report_tax_report.php:467
+#: includes/ic_commerce_ultimate_report_tax_report.php:484
+#: includes/ic_commerce_ultimate_report_tax_report.php:502
+#: includes/ic_commerce_ultimate_report_tax_report.php:519
+#: includes/ic_commerce_ultimate_report_tax_report.php:534
+#: includes/ic_commerce_ultimate_report_tax_report.php:549
+#: includes/ic_commerce_ultimate_report_tax_report.php:604
+msgid "Tax Rate"
+msgstr "कर दर"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1502
+#: includes/ic_commerce_ultimate_report_customization.php:1562
+#: includes/ic_commerce_ultimate_report_tax_report.php:474
+#: includes/ic_commerce_ultimate_report_tax_report.php:491
+#: includes/ic_commerce_ultimate_report_tax_report.php:509
+#: includes/ic_commerce_ultimate_report_tax_report.php:526
+#: includes/ic_commerce_ultimate_report_tax_report.php:542
+#: includes/ic_commerce_ultimate_report_tax_report.php:556
+#: includes/ic_commerce_ultimate_report_tax_report.php:571
+#: includes/ic_commerce_ultimate_report_tax_report.php:585
+#: includes/ic_commerce_ultimate_report_tax_report.php:598
+#: includes/ic_commerce_ultimate_report_tax_report.php:605
+msgid "Shipping Tax"
+msgstr "शिपिंग कर"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1504
+#: includes/ic_commerce_ultimate_report_customization.php:1564
+#: includes/ic_commerce_ultimate_report_dashboard.php:752
+#: includes/ic_commerce_ultimate_report_tax_report.php:476
+#: includes/ic_commerce_ultimate_report_tax_report.php:493
+#: includes/ic_commerce_ultimate_report_tax_report.php:511
+#: includes/ic_commerce_ultimate_report_tax_report.php:528
+#: includes/ic_commerce_ultimate_report_tax_report.php:544
+#: includes/ic_commerce_ultimate_report_tax_report.php:558
+#: includes/ic_commerce_ultimate_report_tax_report.php:573
+#: includes/ic_commerce_ultimate_report_tax_report.php:587
+#: includes/ic_commerce_ultimate_report_tax_report.php:600
+#: includes/ic_commerce_ultimate_report_tax_report.php:607
+msgid "Total Tax"
+msgstr "एकूण कर"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1509
+msgid "Customer Name"
+msgstr "ग्राहकाचे नाव"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1527
+#: includes/ic_commerce_ultimate_report_custom_report.php:2339
+#: includes/ic_commerce_ultimate_report_dashboard.php:2786
+msgid "Shipping State"
+msgstr "शिपिंग राज्य"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1557
+msgid "Tax Count"
+msgstr "कर गणना"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1572
+#: includes/ic_commerce_ultimate_report_customization.php:1576
+msgid "Category Count"
+msgstr "श्रेणी गणना"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1590
+msgid "Billing State Count"
+msgstr "बिलिंग राज्य संख्या"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1595
+msgid "Shipping State Count"
+msgstr "शिपिंग राज्य संख्या"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:89
+msgid "Detail Search"
+msgstr "तपशील शोधा"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:178
+msgid "Today's detail reports"
+msgstr "आजच्या तपशील अहवाल"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:184
+msgid "Yesterday's detail reports"
+msgstr "कालच्या तपशील अहवाल"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:191
+msgid "This week detail reports"
+msgstr "या आठवड्याचे तपशील अहवाल"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:198
+msgid "This month detail reports"
+msgstr "या महिन्यात तपशील अहवाल"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:204
+msgid "This year detail reports"
+msgstr "या वर्षी तपशील अहवाल"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:235
+#: includes/ic_commerce_ultimate_report_custom_report.php:255
+#, php-format
+msgid "Product detail of %s"
+msgstr "%s उत्पादनांची तपशील"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:240
+#, php-format
+msgid "Product detail of %s country"
+msgstr "%s देशाचे उत्पादन तपशील"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:242
+#, php-format
+msgid "Order detail of %s country"
+msgstr "%s देशाचा ऑर्डर तपशील"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:247
+#, php-format
+msgid "Product detail of %s from %s country"
+msgstr "%s देशापासून %s %s उत्पादनांची तपशील"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:249
+#, php-format
+msgid "Order detail of %s from %s country"
+msgstr "%s देशापासून %s %s ऑर्डर तपशील"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:257
+#, php-format
+msgid "Order detail of %s"
+msgstr "%s ऑर्डर तपशील"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:265
+#, php-format
+msgid "Product detail of %s order ID"
+msgstr "%s ऑर्डर ID %s उत्पादनांची तपशील"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:267
+#, php-format
+msgid "Order detail of %s order ID"
+msgstr "%s ऑर्डर आयडीचा ऑर्डर तपशील"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:275
+#, php-format
+msgid "Product detail of %s payment method"
+msgstr "%s देयक पद्धत उत्पादनाचे तपशील"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:277
+#, php-format
+msgid "Order detail of %s payment method"
+msgstr "%s पेमेंट पद्धतीची ऑर्डर तपशील"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:282
+#: includes/ic_commerce_ultimate_report_custom_report.php:284
+#, php-format
+msgid "Coupon detail of %s"
+msgstr "%s कूपन तपशील"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:289
+#: includes/ic_commerce_ultimate_report_custom_report.php:291
+#, php-format
+msgid "Coupons detail of %s"
+msgstr "%s कूपन तपशील"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:325
+msgid "Order ID:"
+msgstr "ऑर्डर आयडीः"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:329
+#: includes/ic_commerce_ultimate_report_custom_report.php:361
+#: includes/ic_commerce_ultimate_report_variation.php:188
+msgid "Customer:"
+msgstr "ग्राहकः"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:343
+msgid "Enable category selection by clicking 'Show Order Item Details'"
+msgstr "'ऑर्डर आयटम तपशील दर्शवा' क्लिक करून श्रेणी निवडी सक्षम करा."
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:355
+msgid "Enable product selection by clicking 'Show Order Item Details'"
+msgstr "'ऑर्डर आयटम तपशील दर्शवा' क्लिक करून उत्पादन निवड सक्षम करा."
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:398
+msgid "Email:"
+msgstr "ईमेलः"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:425
+msgid "Show Order Item Details:"
+msgstr "ऑर्डर आयटम तपशील दर्शवा:"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:430
+msgid "Coupon Used Only:"
+msgstr "कूपन फक्त वापरला:"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:475
+#: includes/ic_commerce_ultimate_report_init.php:1233
+msgid "Customize Column"
+msgstr "सानुकूलित स्तंभ"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:484
+msgid "Normal View Column: "
+msgstr "सामान्य दृश्य स्तंभः "
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:484
+#: includes/ic_commerce_ultimate_report_custom_report.php:489
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:183
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:193
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:208
+msgid "Select All"
+msgstr "सर्व निवडा"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:489
+msgid "Order Item Details Column: "
+msgstr "ऑर्डर आयटम तपशील स्तंभ: "
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:912
+#: includes/ic_commerce_ultimate_report_custom_report.php:1176
+#: includes/ic_commerce_ultimate_report_tax_report.php:707
+msgid "No orders found"
+msgstr "कोणतेही ऑर्डर आढळले नाहीत"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:1307
+msgid "Order:"
+msgstr "ऑर्डरः"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:1307
+msgid "Amount:"
+msgstr "रक्कमः"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2272
+msgid "Purchased product not found in selected category"
+msgstr "खरेदी केलेला उत्पादन निवडलेल्या श्रेणीमध्ये सापडला नाही"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2315
+msgid "Billing Company"
+msgstr "बिलिंग कंपनी"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2316
+msgid "Billing Address 1"
+msgstr "बिलिंग पत्ता 1"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2317
+msgid "Billing Address 2"
+msgstr "बिलिंग पत्ता 2"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2319
+msgid "Billing Post Code"
+msgstr "बिलिंग पोस्ट कोड"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2322
+msgid "Billing Phone"
+msgstr "बिलिंग फोन"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2331
+msgid "Shipping First Name"
+msgstr "शिपिंग प्रथम नाव"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2332
+msgid "Shipping Last Name"
+msgstr "अंतिम नाव शिपिंग"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2333
+msgid "Shipping Company"
+msgstr "शिपिंग कंपनी"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2334
+msgid "Shipping Address 1"
+msgstr "शिपिंग पत्ता 1"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2335
+msgid "Shipping Address 2"
+msgstr "शिपिंग पत्ता 2"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2336
+msgid "Shipping City"
+msgstr "शिपिंग शहर"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2337
+msgid "Shipping Post Code"
+msgstr "शिपिंग पोस्ट कोड"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:460
+msgid "Notification"
+msgstr "अधिसूचना"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:464
+#: includes/ic_commerce_ultimate_report_dashboard.php:1519
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:282
+msgid "Zero Level Stock Alert"
+msgstr "शून्य स्तर स्टॉक अलर्ट"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:465
+#: includes/ic_commerce_ultimate_report_dashboard.php:1530
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:301
+msgid "Minimum Level Stock Alert"
+msgstr "किमान स्तर स्टॉक अलर्ट"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:476
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:55
+#: includes/ic_commerce_ultimate_report_product_analysis.php:49
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:46
+msgid "Start Date:"
+msgstr "प्रारंभ तारीखः"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:480
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:59
+#: includes/ic_commerce_ultimate_report_product_analysis.php:53
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:50
+msgid "End Date:"
+msgstr "शेवटची तारीख:"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:483
+msgid "Submit"
+msgstr "सबमिट करा"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:494
+msgid "Todays Summary"
+msgstr "आज सारांश"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:495
+msgid "Total Summary"
+msgstr "एकूण सारांश"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:508
+#: includes/ic_commerce_ultimate_report_dashboard.php:510
+msgid "Todays Total Sales"
+msgstr "आज एकूण विक्री"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:508
+msgid "(WC Gross Sales)"
+msgstr "(डब्ल्यूसी ग्रॉस सेल्स)"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:514
+#: includes/ic_commerce_ultimate_report_dashboard.php:552
+#: includes/ic_commerce_ultimate_report_dashboard.php:566
+#: includes/ic_commerce_ultimate_report_dashboard.php:567
+#: includes/ic_commerce_ultimate_report_dashboard.php:582
+#: includes/ic_commerce_ultimate_report_dashboard.php:583
+#: includes/ic_commerce_ultimate_report_dashboard.php:599
+#: includes/ic_commerce_ultimate_report_dashboard.php:600
+#: includes/ic_commerce_ultimate_report_dashboard.php:617
+#: includes/ic_commerce_ultimate_report_dashboard.php:618
+#: includes/ic_commerce_ultimate_report_dashboard.php:635
+#: includes/ic_commerce_ultimate_report_dashboard.php:704
+#: includes/ic_commerce_ultimate_report_dashboard.php:705
+#: includes/ic_commerce_ultimate_report_dashboard.php:723
+#: includes/ic_commerce_ultimate_report_dashboard.php:740
+#: includes/ic_commerce_ultimate_report_dashboard.php:741
+#: includes/ic_commerce_ultimate_report_dashboard.php:755
+#: includes/ic_commerce_ultimate_report_dashboard.php:770
+#: includes/ic_commerce_ultimate_report_dashboard.php:771
+#: includes/ic_commerce_ultimate_report_dashboard.php:785
+#: includes/ic_commerce_ultimate_report_dashboard.php:786
+#: includes/ic_commerce_ultimate_report_dashboard.php:801
+#: includes/ic_commerce_ultimate_report_dashboard.php:814
+#: includes/ic_commerce_ultimate_report_dashboard.php:815
+#: includes/ic_commerce_ultimate_report_dashboard.php:828
+#: includes/ic_commerce_ultimate_report_dashboard.php:840
+#: includes/ic_commerce_ultimate_report_dashboard.php:864
+#: includes/ic_commerce_ultimate_report_dashboard.php:876
+#: includes/ic_commerce_ultimate_report_dashboard.php:889
+#: includes/ic_commerce_ultimate_report_dashboard.php:890
+#: includes/ic_commerce_ultimate_report_dashboard.php:905
+#: includes/ic_commerce_ultimate_report_dashboard.php:921
+#: includes/ic_commerce_ultimate_report_dashboard.php:922
+#: includes/ic_commerce_ultimate_report_dashboard.php:937
+#: includes/ic_commerce_ultimate_report_dashboard.php:938
+#: includes/ic_commerce_ultimate_report_dashboard.php:952
+#: includes/ic_commerce_ultimate_report_dashboard.php:967
+#: includes/ic_commerce_ultimate_report_dashboard.php:981
+msgid "0"
+msgstr "0"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:530
+#: includes/ic_commerce_ultimate_report_dashboard.php:532
+msgid "Todays Gross Sales(WC Net Sales)"
+msgstr "आजच्या एकूण विक्री (डब्ल्यूसी नेट सेल्स)"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:550
+msgid "Todays Average Sales"
+msgstr "आज सरासरी विक्री"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:563
+msgid "Todays Total Refund"
+msgstr "आज एकूण परतावा"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:579
+msgid "Todays Total Coupons"
+msgstr "आज एकूण कूपन"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:596
+msgid "Todays Order Tax"
+msgstr "आज ऑर्डर कर"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:614
+msgid "Todays Shipping Tax"
+msgstr "आज शिपिंग कर"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:632
+msgid "Todays Total Tax"
+msgstr "आज एकूण कर"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:649
+msgid "Todays Registered Customers"
+msgstr "आज नोंदणीकृत ग्राहक"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:661
+msgid "Todays Guest Customers"
+msgstr "आजचे अतिथी ग्राहक"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:673
+msgid "Todays Profit"
+msgstr "आजचे फायदे"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:693
+#: includes/ic_commerce_ultimate_report_dashboard.php:857
+#, php-format
+msgid "Summary From %1$s To %2$s"
+msgstr "सारांश %1$s पासून %1$s %2$s"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:698
+msgid "Net Sales"
+msgstr "निव्वळ विक्री"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:716
+msgid "Gross Sales(WC Net Sales)"
+msgstr "एकूण विक्री (डब्ल्यूसी नेट सेल्स)"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:736
+msgid "Total Refund"
+msgstr "एकूण परतावा"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:797
+msgid "Order Shipping Total"
+msgstr "ऑर्डर शिपिंग एकूण"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:811
+msgid "Total Coupons"
+msgstr "एकूण कूपन"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:826
+msgid "Total Registered Customers"
+msgstr "एकूण नोंदणीकृत ग्राहक"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:838
+msgid "Total Guest Customers"
+msgstr "एकूण अतिथी ग्राहक"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:862
+msgid "Average Sales Per Order"
+msgstr "प्रति ऑर्डर सरासरी विक्री"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:874
+msgid "Average Sales Per Day"
+msgstr "दररोज सरासरी विक्री"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:886
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:167
+msgid "Last Order Date"
+msgstr "अंतिम ऑर्डर तारीख"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:902
+#, php-format
+msgid "Cur. Yr Proj. Sales (%s)"
+msgstr "कर वय प्रो. विक्री ( %s )"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:906
+#: includes/ic_commerce_ultimate_report_dashboard.php:953
+msgid "0%"
+msgstr "0%"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:918
+#, php-format
+msgid "Current Year Sales (%s)"
+msgstr "करंट इयर सेल्स ( %s )"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:934
+#, php-format
+msgid "Cur. Month Proj. Sales (%s %s)"
+msgstr "कर महिना प्रो. विक्री ( %s %s )"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:949
+#, php-format
+msgid "Current Month Sales (%s %s)"
+msgstr "करंट महिने विक्री ( %s %s )"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:964
+#, php-format
+msgid "(%s %s) Average Sales/Day"
+msgstr "( %s %s ) सरासरी विक्री / दिवस"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:978
+#, php-format
+msgid "(%s %s) Forecasted Sales"
+msgstr "( %s %s ) पूर्वानुमानित विक्री"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1009
+#: includes/ic_commerce_ultimate_report_dashboard.php:1277
+msgid "Sales Summary"
+msgstr "विक्री सारांश"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1015
+#: includes/ic_commerce_ultimate_report_dashboard.php:1283
+msgid "Sales By Months"
+msgstr "महिने विक्री"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1016
+#: includes/ic_commerce_ultimate_report_dashboard.php:1284
+msgid "Sales By Days"
+msgstr "दिवसात विक्री"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1017
+#: includes/ic_commerce_ultimate_report_dashboard.php:1285
+msgid "Sales By Week"
+msgstr "आठवड्यातून विक्री"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1018
+#: includes/ic_commerce_ultimate_report_dashboard.php:1286
+msgid "Top Products"
+msgstr "टॉप उत्पादने"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1035
+#: includes/ic_commerce_ultimate_report_dashboard.php:1301
+msgid "Monthly Summary"
+msgstr "मासिक सारांश"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1048
+#: includes/ic_commerce_ultimate_report_dashboard.php:1312
+msgid "Map"
+msgstr "नकाशा"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1051
+#: includes/ic_commerce_ultimate_report_dashboard.php:1315
+#: includes/ic_commerce_ultimate_report_init.php:1230
+msgid "Please Wait!"
+msgstr "कृपया थांबा!"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1077
+#: includes/ic_commerce_ultimate_report_dashboard.php:1080
+#: includes/ic_commerce_ultimate_report_dashboard.php:1081
+#: includes/ic_commerce_ultimate_report_dashboard.php:1082
+#: includes/ic_commerce_ultimate_report_dashboard.php:1337
+#: includes/ic_commerce_ultimate_report_dashboard.php:1340
+#: includes/ic_commerce_ultimate_report_dashboard.php:1341
+#: includes/ic_commerce_ultimate_report_dashboard.php:1342
+msgid "Sales Order Status"
+msgstr "विक्री ऑर्डर स्थिती"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1101
+#: includes/ic_commerce_ultimate_report_dashboard.php:1359
+#, php-format
+msgid "Top %s Products"
+msgstr "शीर्ष %s उत्पादने"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1104
+#: includes/ic_commerce_ultimate_report_dashboard.php:1105
+#: includes/ic_commerce_ultimate_report_dashboard.php:1106
+#: includes/ic_commerce_ultimate_report_dashboard.php:1362
+#: includes/ic_commerce_ultimate_report_dashboard.php:1363
+#: includes/ic_commerce_ultimate_report_dashboard.php:1364
+msgid "Top Product Status"
+msgstr "टॉप उत्पादन स्थिती"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1124
+#: includes/ic_commerce_ultimate_report_dashboard.php:1380
+#, php-format
+msgid "Top %s Category"
+msgstr "शीर्ष %s श्रेणी"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1127
+#: includes/ic_commerce_ultimate_report_dashboard.php:1128
+#: includes/ic_commerce_ultimate_report_dashboard.php:1129
+#: includes/ic_commerce_ultimate_report_dashboard.php:1383
+#: includes/ic_commerce_ultimate_report_dashboard.php:1384
+#: includes/ic_commerce_ultimate_report_dashboard.php:1385
+msgid "Top Category Status"
+msgstr "शीर्ष श्रेणी स्थिती"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1149
+#: includes/ic_commerce_ultimate_report_dashboard.php:1404
+#, php-format
+msgid "Top %s Shipping Country"
+msgstr "शीर्ष %s शिपिंग देश"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1149
+#: includes/ic_commerce_ultimate_report_dashboard.php:1404
+#, php-format
+msgid "Top %s Billing Country"
+msgstr "शीर्ष %s बिलिंग देश"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1152
+#: includes/ic_commerce_ultimate_report_dashboard.php:1153
+#: includes/ic_commerce_ultimate_report_dashboard.php:1154
+#: includes/ic_commerce_ultimate_report_dashboard.php:1407
+#: includes/ic_commerce_ultimate_report_dashboard.php:1408
+#: includes/ic_commerce_ultimate_report_dashboard.php:1409
+msgid "Top Billing Country"
+msgstr "शीर्ष बिलिंग देश"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1171
+#: includes/ic_commerce_ultimate_report_dashboard.php:1424
+#, php-format
+msgid "Top %s Shipping State"
+msgstr "शीर्ष %s शिपिंग राज्य"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1171
+#: includes/ic_commerce_ultimate_report_dashboard.php:1424
+#, php-format
+msgid "Top %s Billing State"
+msgstr "शीर्ष %s बिलिंग राज्य"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1174
+#: includes/ic_commerce_ultimate_report_dashboard.php:1175
+#: includes/ic_commerce_ultimate_report_dashboard.php:1176
+#: includes/ic_commerce_ultimate_report_dashboard.php:1427
+#: includes/ic_commerce_ultimate_report_dashboard.php:1428
+#: includes/ic_commerce_ultimate_report_dashboard.php:1429
+msgid "Top Billing State"
+msgstr "टॉप बिलींग स्टेट"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1194
+#: includes/ic_commerce_ultimate_report_dashboard.php:1445
+#, php-format
+msgid "Recent %s Orders"
+msgstr "अलीकडील %s ऑर्डर"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1208
+#: includes/ic_commerce_ultimate_report_dashboard.php:1457
+#, php-format
+msgid "Top %s Customers"
+msgstr "टॉप %s ग्राहक"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1211
+#: includes/ic_commerce_ultimate_report_dashboard.php:1212
+#: includes/ic_commerce_ultimate_report_dashboard.php:1213
+#: includes/ic_commerce_ultimate_report_dashboard.php:1461
+#: includes/ic_commerce_ultimate_report_dashboard.php:1462
+#: includes/ic_commerce_ultimate_report_dashboard.php:1463
+msgid "Top Customers"
+msgstr "टॉप ग्राहक"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1230
+#: includes/ic_commerce_ultimate_report_dashboard.php:1477
+#, php-format
+msgid "Top %s Coupons"
+msgstr "शीर्ष %s कूपन"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1233
+#: includes/ic_commerce_ultimate_report_dashboard.php:1234
+#: includes/ic_commerce_ultimate_report_dashboard.php:1235
+#: includes/ic_commerce_ultimate_report_dashboard.php:1480
+#: includes/ic_commerce_ultimate_report_dashboard.php:1481
+#: includes/ic_commerce_ultimate_report_dashboard.php:1482
+msgid "Top Coupons"
+msgstr "शीर्ष कूपन"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1253
+#: includes/ic_commerce_ultimate_report_dashboard.php:1497
+#, php-format
+msgid "Top %s Payment Gateway"
+msgstr "शीर्ष %s पेमेंट गेटवे"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1256
+#: includes/ic_commerce_ultimate_report_dashboard.php:1257
+#: includes/ic_commerce_ultimate_report_dashboard.php:1258
+#: includes/ic_commerce_ultimate_report_dashboard.php:1500
+#: includes/ic_commerce_ultimate_report_dashboard.php:1501
+#: includes/ic_commerce_ultimate_report_dashboard.php:1502
+msgid "Top Payment Gateway"
+msgstr "टॉप पेमेंट गेटवे"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2278
+msgid "Today"
+msgstr "आज"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2279
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:271
+msgid "Yesterday"
+msgstr "काल"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2280
+msgid "Week"
+msgstr "आठवडा"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2289
+msgid "Sales Order"
+msgstr "विक्री ऑर्डर"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2317
+#: includes/ic_commerce_ultimate_report_dashboard.php:3157
+msgid "No Order found."
+msgstr "कोणताही ऑर्डर सापडला नाही."
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2454
+msgid "No Status found."
+msgstr "कोणतीही स्थिती सापडली नाही."
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2550
+msgid "Item Name"
+msgstr "आयटम नाव"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2551
+#: includes/ic_commerce_ultimate_report_dashboard.php:3524
+msgid "Qty"
+msgstr "क्विंटल"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2572
+msgid "No Product found."
+msgstr "कोणताही उत्पादन सापडला नाही."
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2680
+msgid "No Country found."
+msgstr "कोणताही देश सापडला नाही."
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2809
+msgid "No State found."
+msgstr "कोणताही राज्य सापडला नाही."
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2920
+msgid "No Payment found."
+msgstr "कोणताही पेमेंट सापडला नाही."
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:3265
+msgid "Billing Name"
+msgstr "बिलिंगचे नाव"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:3309
+msgid "No Customer found."
+msgstr "कोणताही ग्राहक सापडला नाही."
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:3397
+msgid "Coupon Used Count"
+msgstr "कूपन वापरले गणना"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:3418
+#: includes/ic_commerce_ultimate_report_dashboard.php:3544
+msgid "No Coupons found."
+msgstr "कोणतेही कूपन सापडले नाहीत."
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:80
+msgid "Invoice #"
+msgstr "चलन #"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:156
+msgid "Page:"
+msgstr "पृष्ठः"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:184
+msgid "Invoice:"
+msgstr "चलनः"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:227
+msgid "Billing address"
+msgstr "बिलाचा पत्ता"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:235
+msgid "Shipping address"
+msgstr "शिपिंग पत्ता"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:320
+msgid "Amount in Words:"
+msgstr "शब्दांमध्ये रक्कमः"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:550
+#: includes/ic_commerce_ultimate_report_export_invoice.php:594
+#: includes/ic_commerce_ultimate_report_export_invoice.php:607
+msgid "INVOICE"
+msgstr "इनव्हॉइस"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:638
+msgid "Product Image"
+msgstr "उत्पादन प्रतिमा"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:660
+#, php-format
+msgid "Download %d"
+msgstr "%d डाउनलोड करा"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:662
+msgid "Download"
+msgstr "डाउनलोड करा"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:702
+msgid "zero"
+msgstr "शून्य"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:703
+msgid "one"
+msgstr "एक"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:704
+msgid "two"
+msgstr "दोन"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:705
+msgid "three"
+msgstr "तीन"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:706
+msgid "four"
+msgstr "चार"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:707
+msgid "five"
+msgstr "पाच"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:708
+msgid "six"
+msgstr "सहा"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:709
+msgid "seven"
+msgstr "सात"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:710
+msgid "eight"
+msgstr "आठ"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:711
+msgid "nine"
+msgstr "नऊ"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:712
+msgid "ten"
+msgstr "दहा"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:713
+msgid "eleven"
+msgstr "अकरा"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:714
+msgid "twelve"
+msgstr "बारा"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:715
+msgid "thirteen"
+msgstr "तेरा"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:716
+msgid "fourteen"
+msgstr "चौदा"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:717
+msgid "fifteen"
+msgstr "पंधरा"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:718
+msgid "sixteen"
+msgstr "सोळा"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:719
+msgid "seventeen"
+msgstr "सतरा"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:720
+msgid "eighteen"
+msgstr "अठरा"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:721
+msgid "nineteen"
+msgstr "1 9"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:722
+msgid "twenty"
+msgstr "वीस"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:723
+msgid "thirty"
+msgstr "तीस"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:724
+msgid "forty"
+msgstr "चाळीस"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:725
+msgid "fifty"
+msgstr "पन्नास"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:726
+msgid "sixty"
+msgstr "साठ"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:727
+msgid "seventy"
+msgstr "सत्तर"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:728
+msgid "eighty"
+msgstr "अस्सी"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:729
+msgid "ninety"
+msgstr "नब्बे"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:759
+msgid "hundred"
+msgstr "शंभर"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:763
+#: includes/ic_commerce_ultimate_report_export_invoice.php:774
+#: includes/ic_commerce_ultimate_report_export_invoice.php:786
+#: includes/ic_commerce_ultimate_report_export_invoice.php:805
+msgid "and"
+msgstr "आणि"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:767
+msgid "thousand"
+msgstr "हजार"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:779
+msgid "million"
+msgstr "दशलक्ष"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:797
+msgid "dollars"
+msgstr "डॉलर्स"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:797
+#: includes/ic_commerce_ultimate_report_export_invoice.php:805
+msgid "cents"
+msgstr "सेंट"
+
+#: includes/ic_commerce_ultimate_report_functions.php:2356
+msgid "Letter"
+msgstr "पत्र"
+
+#: includes/ic_commerce_ultimate_report_functions.php:2357
+msgid "Legal"
+msgstr "कायदेशीर"
+
+#: includes/ic_commerce_ultimate_report_functions.php:2358
+msgid "A0"
+msgstr "ए"
+
+#: includes/ic_commerce_ultimate_report_functions.php:2359
+msgid "A1"
+msgstr "ए 1"
+
+#: includes/ic_commerce_ultimate_report_functions.php:2360
+msgid "A2"
+msgstr "ए 2"
+
+#: includes/ic_commerce_ultimate_report_functions.php:2361
+msgid "A3"
+msgstr "ए 3"
+
+#: includes/ic_commerce_ultimate_report_functions.php:2362
+msgid "A4"
+msgstr "ए 4"
+
+#: includes/ic_commerce_ultimate_report_functions.php:2363
+msgid "A5"
+msgstr "ए 5"
+
+#: includes/ic_commerce_ultimate_report_functions.php:2364
+msgid "A6"
+msgstr "ए 6"
+
+#: includes/ic_commerce_ultimate_report_functions.php:2513
+msgid "previous"
+msgstr "मागील"
+
+#: includes/ic_commerce_ultimate_report_functions.php:2514
+msgid "next"
+msgstr "पुढे"
+
+#: includes/ic_commerce_ultimate_report_functions.php:2894
+#, php-format
+msgid "Total product variations: %s"
+msgstr "एकूण उत्पादन फरक: %s"
+
+#: includes/ic_commerce_ultimate_report_functions.php:3019
+msgid "Cart % Discount"
+msgstr "कार्ट% सवलत"
+
+#: includes/ic_commerce_ultimate_report_functions.php:3020
+msgid "Product Discount"
+msgstr "उत्पादन सवलत"
+
+#: includes/ic_commerce_ultimate_report_functions.php:3021
+msgid "Product % Discount"
+msgstr "उत्पादन% सवलत"
+
+#: includes/ic_commerce_ultimate_report_functions.php:3686
+#: includes/ic_commerce_ultimate_report_variation.php:1023
+msgid "-"
+msgstr "-"
+
+#: includes/ic_commerce_ultimate_report_functions.php:3957
+msgid "Once Daily"
+msgstr "एकदा दैनिक"
+
+#: includes/ic_commerce_ultimate_report_functions.php:3958
+msgid "Once Weekly"
+msgstr "आठवड्यातून एकदा"
+
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:73
+#: includes/ic_commerce_ultimate_report_product_analysis.php:76
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:77
+msgid "DESC"
+msgstr "डीईएससी"
+
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:74
+#: includes/ic_commerce_ultimate_report_product_analysis.php:77
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:78
+msgid "ASC"
+msgstr "एएससी"
+
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:400
+msgid "Product Combination"
+msgstr "उत्पादन संयोजन"
+
+#: includes/ic_commerce_ultimate_report_init.php:376
+#: includes/ic_commerce_ultimate_report_init.php:398
+#: includes/ic_commerce_ultimate_report_init.php:414
+msgid " Dashboard"
+msgstr " डॅशबोर्ड"
+
+#: includes/ic_commerce_ultimate_report_init.php:376
+#: includes/ic_commerce_ultimate_report_init.php:398
+#: includes/ic_commerce_ultimate_report_init.php:414
+#: includes/ic_commerce_ultimate_report_init.php:475
+msgid "Dashboard"
+msgstr "डॅशबोर्ड"
+
+#: includes/ic_commerce_ultimate_report_init.php:378
+#: includes/ic_commerce_ultimate_report_init.php:400
+msgid " Reports"
+msgstr " अहवाल"
+
+#: includes/ic_commerce_ultimate_report_init.php:378
+#: includes/ic_commerce_ultimate_report_init.php:400
+msgid "Detail"
+msgstr "तपशील"
+
+#: includes/ic_commerce_ultimate_report_init.php:379
+#: includes/ic_commerce_ultimate_report_init.php:401
+#: includes/ic_commerce_ultimate_report_init.php:452
+msgid " Settings"
+msgstr " सेटिंग्ज"
+
+#: includes/ic_commerce_ultimate_report_init.php:379
+#: includes/ic_commerce_ultimate_report_init.php:401
+#: includes/ic_commerce_ultimate_report_init.php:452
+#: includes/ic_commerce_ultimate_report_init.php:491
+#: includes/ic_commerce_ultimate_report_init.php:559
+msgid "Settings"
+msgstr "सेटिंग्ज"
+
+#: includes/ic_commerce_ultimate_report_init.php:416
+msgid " Details"
+msgstr " तपशील"
+
+#: includes/ic_commerce_ultimate_report_init.php:416
+#: includes/ic_commerce_ultimate_report_init.php:483
+msgid "Details"
+msgstr "तपशील"
+
+#: includes/ic_commerce_ultimate_report_init.php:417
+msgid " All Details"
+msgstr " सर्व तपशील"
+
+#: includes/ic_commerce_ultimate_report_init.php:417
+msgid "All Details"
+msgstr "सर्व तपशील"
+
+#: includes/ic_commerce_ultimate_report_init.php:418
+msgid " Crosstab"
+msgstr " क्रॉसस्टॅब"
+
+#: includes/ic_commerce_ultimate_report_init.php:418
+#: includes/ic_commerce_ultimate_report_init.php:530
+msgid "Crosstab"
+msgstr "क्रॉसस्टॅब"
+
+#: includes/ic_commerce_ultimate_report_init.php:419
+msgid " Variation"
+msgstr " बदल"
+
+#: includes/ic_commerce_ultimate_report_init.php:421
+msgid " Stock List"
+msgstr " स्टॉक लिस्ट"
+
+#: includes/ic_commerce_ultimate_report_init.php:421
+#: includes/ic_commerce_ultimate_report_init.php:549
+#: includes/ic_commerce_ultimate_report_stock_list.php:71
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:80
+msgid "Stock List"
+msgstr "स्टॉक लिस्ट"
+
+#: includes/ic_commerce_ultimate_report_init.php:423
+msgid " Variation Stock List"
+msgstr " विविधता स्टॉक यादी"
+
+#: includes/ic_commerce_ultimate_report_init.php:423
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:228
+msgid "Variation Stock"
+msgstr "विविधता स्टॉक"
+
+#: includes/ic_commerce_ultimate_report_init.php:425
+msgid " Projected Vs Actual Sales"
+msgstr " प्रक्षेपित बनावटी वास्तविक विक्री"
+
+#: includes/ic_commerce_ultimate_report_init.php:425
+#: includes/ic_commerce_ultimate_report_projected_actual_sales.php:72
+msgid "Projected Vs Actual Sales"
+msgstr "प्रक्षेपित बनावटी वास्तविक विक्री"
+
+#: includes/ic_commerce_ultimate_report_init.php:426
+msgid " Tax Report"
+msgstr " कर अहवाल"
+
+#: includes/ic_commerce_ultimate_report_init.php:426
+#: includes/ic_commerce_ultimate_report_init.php:570
+msgid "Tax Reports"
+msgstr "कर अहवाल"
+
+#: includes/ic_commerce_ultimate_report_init.php:429
+msgid " Daily Sales Report"
+msgstr " दैनिक विक्री अहवाल"
+
+#: includes/ic_commerce_ultimate_report_init.php:429
+#: includes/ic_commerce_ultimate_report_init.php:575
+msgid "Daily Sales Report"
+msgstr "दैनिक विक्री अहवाल"
+
+#: includes/ic_commerce_ultimate_report_init.php:431
+msgid " Product wise New Customer"
+msgstr " उत्पादित नवीन ग्राहक"
+
+#: includes/ic_commerce_ultimate_report_init.php:431
+#: includes/ic_commerce_ultimate_report_init.php:580
+msgid "Product wise New Customer"
+msgstr "उत्पादित नवीन ग्राहक"
+
+#: includes/ic_commerce_ultimate_report_init.php:433
+msgid " Customer wise New Product"
+msgstr " ग्राहकानुसार नवीन उत्पादन"
+
+#: includes/ic_commerce_ultimate_report_init.php:433
+#: includes/ic_commerce_ultimate_report_init.php:585
+msgid "Customer wise New Product"
+msgstr "ग्राहकानुसार नवीन उत्पादन"
+
+#: includes/ic_commerce_ultimate_report_init.php:435
+msgid " New / Repeat Customer"
+msgstr " नवीन / पुनरावृत्ती ग्राहक"
+
+#: includes/ic_commerce_ultimate_report_init.php:435
+#: includes/ic_commerce_ultimate_report_init.php:590
+msgid "New / Repeat Customer"
+msgstr "नवीन / पुनरावृत्ती ग्राहक"
+
+#: includes/ic_commerce_ultimate_report_init.php:443
+msgid " Order Qty. Analysis Simple"
+msgstr " ऑर्डर क्वालिटी विश्लेषण सोपे"
+
+#: includes/ic_commerce_ultimate_report_init.php:443
+#: includes/ic_commerce_ultimate_report_init.php:605
+msgid "Order Qty. Analysis Simple"
+msgstr "ऑर्डर क्वालिटी विश्लेषण सोपे"
+
+#: includes/ic_commerce_ultimate_report_init.php:444
+msgid " Order Qty. Analysis Variable"
+msgstr " ऑर्डर क्वालिटी विश्लेषण परिवर्तनीय"
+
+#: includes/ic_commerce_ultimate_report_init.php:444
+#: includes/ic_commerce_ultimate_report_init.php:600
+msgid "Order Qty. Analysis Variable"
+msgstr "ऑर्डर क्वालिटी विश्लेषण परिवर्तनीय"
+
+#: includes/ic_commerce_ultimate_report_init.php:445
+msgid " Product Group Sales Analysis"
+msgstr " उत्पादन गट विक्री विश्लेषण"
+
+#: includes/ic_commerce_ultimate_report_init.php:445
+#: includes/ic_commerce_ultimate_report_init.php:610
+msgid "Product Group Sales Analysis"
+msgstr "उत्पादन गट विक्री विश्लेषण"
+
+#: includes/ic_commerce_ultimate_report_init.php:450
+msgid " Reports page Permission"
+msgstr " अहवाल पृष्ठ परवानगी"
+
+#: includes/ic_commerce_ultimate_report_init.php:450
+#: includes/ic_commerce_ultimate_report_init.php:595
+msgid "Reports page Permission"
+msgstr "अहवाल पृष्ठ परवानगी"
+
+#: includes/ic_commerce_ultimate_report_init.php:514
+msgid "Ultimate WooCommerce Report Dashboard"
+msgstr "अंतिम WooCommerce अहवाल डॅशबोर्ड"
+
+#: includes/ic_commerce_ultimate_report_init.php:524
+msgid "All Page"
+msgstr "सर्व पृष्ठ"
+
+#: includes/ic_commerce_ultimate_report_init.php:554
+msgid "Variation Stock List"
+msgstr "विविधता स्टॉक यादी"
+
+#: includes/ic_commerce_ultimate_report_init.php:564
+msgid "Projectd Vs Actual Sales"
+msgstr "प्रोजेक्ट बनाम वास्तविक विक्री"
+
+#: includes/ic_commerce_ultimate_report_init.php:1201
+#, php-format
+msgid "</a> to work! so please <a href=\"%s\">activate</a> it."
+msgstr "कार्य करण्यासाठी! म्हणून कृपया <a href=\"% %s \"> सक्रिय करा </a>."
+
+#: includes/ic_commerce_ultimate_report_init.php:1204
+msgid "</a> to work!"
+msgstr "कार्य करण्यासाठी!"
+
+#: includes/ic_commerce_ultimate_report_init.php:1234
+msgid "Hide column view"
+msgstr "स्तंभ दृश्य लपवा"
+
+#: includes/ic_commerce_ultimate_report_init.php:1264
+#: includes/ic_commerce_ultimate_report_tax_report.php:213
+msgid "Country"
+msgstr "देश"
+
+#: includes/ic_commerce_ultimate_report_init.php:1338
+msgid "Jan."
+msgstr "जानेवारी"
+
+#: includes/ic_commerce_ultimate_report_init.php:1339
+msgid "Feb."
+msgstr "फेब्रुवारी"
+
+#: includes/ic_commerce_ultimate_report_init.php:1342
+msgid "May."
+msgstr "मे."
+
+#: includes/ic_commerce_ultimate_report_init.php:1343
+msgid "Jun."
+msgstr "जून"
+
+#: includes/ic_commerce_ultimate_report_init.php:1344
+msgid "Jul."
+msgstr "जुलै."
+
+#: includes/ic_commerce_ultimate_report_init.php:1345
+msgid "Aug."
+msgstr "ऑगस्ट"
+
+#: includes/ic_commerce_ultimate_report_init.php:1346
+msgid "Sep."
+msgstr "सप्टेंबर"
+
+#: includes/ic_commerce_ultimate_report_init.php:1347
+msgid "Oct."
+msgstr "ऑक्टो"
+
+#: includes/ic_commerce_ultimate_report_init.php:1348
+msgid "Nov."
+msgstr "नोव्हेंबर"
+
+#: includes/ic_commerce_ultimate_report_init.php:1349
+msgid "Dec."
+msgstr "डिसेंबर"
+
+#: includes/ic_commerce_ultimate_report_init.php:1352
+msgid "Monday"
+msgstr "सोमवार"
+
+#: includes/ic_commerce_ultimate_report_init.php:1353
+msgid "Tuesday"
+msgstr "मंगळवार"
+
+#: includes/ic_commerce_ultimate_report_init.php:1354
+msgid "Wednesday"
+msgstr "बुधवार"
+
+#: includes/ic_commerce_ultimate_report_init.php:1355
+msgid "Thursday"
+msgstr "गुरुवार"
+
+#: includes/ic_commerce_ultimate_report_init.php:1356
+msgid "Friday"
+msgstr "शुक्रवार"
+
+#: includes/ic_commerce_ultimate_report_init.php:1357
+msgid "Saturday"
+msgstr "शनिवार"
+
+#: includes/ic_commerce_ultimate_report_init.php:1358
+msgid "Sunday"
+msgstr "रविवार"
+
+#: includes/ic_commerce_ultimate_report_init.php:1361
+msgid "Mond."
+msgstr "सोम"
+
+#: includes/ic_commerce_ultimate_report_init.php:1362
+msgid "Tue."
+msgstr "मंगळ"
+
+#: includes/ic_commerce_ultimate_report_init.php:1363
+msgid "Wed."
+msgstr "बुध"
+
+#: includes/ic_commerce_ultimate_report_init.php:1364
+msgid "Thu."
+msgstr "थू"
+
+#: includes/ic_commerce_ultimate_report_init.php:1365
+msgid "Fri."
+msgstr "शुक्र"
+
+#: includes/ic_commerce_ultimate_report_init.php:1366
+msgid "Sat."
+msgstr "शनि"
+
+#: includes/ic_commerce_ultimate_report_init.php:1367
+msgid "Sun."
+msgstr "सूर्य"
+
+#: includes/ic_commerce_ultimate_report_init.php:1377
+msgid "Zoom Out"
+msgstr "झूम कमी करा"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:331
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:355
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:510
+msgid "Projected Sales"
+msgstr "प्रक्षेपित विक्री"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:332
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:356
+msgid "Actual Sales"
+msgstr "वास्तविक विक्री"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:333
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:357
+msgid "Difference"
+msgstr "फरक"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:334
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:358
+msgid "%"
+msgstr "%"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:336
+msgid "Total % to Sales"
+msgstr "एकूण% विक्री"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:337
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:359
+msgid "Refund Amt."
+msgstr "परतावा Amt."
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:338
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:360
+msgid "Part Refund Amount"
+msgstr "भाग परतावा रक्कम"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:339
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:361
+msgid "Total Discount Amt."
+msgstr "एकूण सूट एएमटी."
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:340
+msgid "Tax Amt."
+msgstr "कर एएमटी"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:341
+msgid "Shipping Order Tax"
+msgstr "शिपिंग ऑर्डर कर"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:342
+msgid "Total Shipping Tax"
+msgstr "एकूण शिपिंग कर"
+
+#: includes/ic_commerce_ultimate_report_new_repeat_customer.php:51
+#: includes/ic_commerce_ultimate_report_product_wise_new_customer.php:53
+msgid "New Customer"
+msgstr "नवीन ग्राहक"
+
+#: includes/ic_commerce_ultimate_report_new_repeat_customer.php:52
+#: includes/ic_commerce_ultimate_report_product_wise_new_customer.php:54
+msgid "Repeat Customer"
+msgstr "ग्राहक पुन्हा करा"
+
+#: includes/ic_commerce_ultimate_report_permission.php:154
+msgid "Select Role: "
+msgstr "भूमिका निवडा: "
+
+#: includes/ic_commerce_ultimate_report_permission.php:163
+msgid "User Role: "
+msgstr "वापरकर्ता भूमिकाः "
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:66
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:69
+msgid "Save Changes"
+msgstr "बदल जतन करा"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:75
+msgid "Please Wait"
+msgstr "कृपया थांबा"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:75
+msgid "Close"
+msgstr "बंद"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:211
+msgid ""
+"<strong>Bad Authentication of Google Analytics:-</strong>Username or "
+"Password is incorrect."
+msgstr ""
+"<strong> Google Analytics चे खराब प्रमाणीकरण: - </ strong> वापरकर्तानाव "
+"किंवा संकेतशब्द चुकीचा आहे."
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:236
+msgid "Your are successfully logged in"
+msgstr "आपण यशस्वीरित्या लॉग इन केले आहे"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:252
+msgid "Settings saved"
+msgstr "सेटिंग्ज जतन केली"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:336
+msgid "Your are successfully logged out of Google Analytic account."
+msgstr "आपण Google Analytics विश्लेषणातून यशस्वीरित्या लॉग आउट केले आहे."
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:449
+msgid "Dashboard Sections:"
+msgstr "डॅशबोर्ड विभागः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:451
+msgid "Enable Sections:"
+msgstr "विभाग सक्षम करा"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:453
+msgid "Show Graphical Presentation:"
+msgstr "ग्राफिकल सादरीकरण दर्शवा:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:455
+msgid "Show Monthly Summary:"
+msgstr "मासिक सारांश दर्शवाः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:457
+msgid "Show Map:"
+msgstr "नकाशा दर्शवाः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:459
+msgid "Show Order Summary:"
+msgstr "ऑर्डर सारांश दर्शवा:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:461
+msgid "Show Sales Order Status:"
+msgstr "विक्री ऑर्डर स्थिती दर्शवा:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:463
+msgid "Show Top Products:"
+msgstr "शीर्ष उत्पादने दर्शवा"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:465
+msgid "Show Top Categories:"
+msgstr "शीर्ष श्रेण्या दर्शवा:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:467
+msgid "Show Top Countries:"
+msgstr "शीर्ष देश दर्शवा"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:469
+msgid "Show Top States:"
+msgstr "टॉप स्टेट्स दर्शवा"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:471
+msgid "Show Recent Orders:"
+msgstr "अलीकडील आदेश दर्शवा"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:473
+msgid "Show Top Customers:"
+msgstr "शीर्ष ग्राहक दर्शवा"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:475
+msgid "Show Top Coupons:"
+msgstr "शीर्ष कूपन दर्शवा"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:477
+msgid "Show Top Payments:"
+msgstr "शीर्ष देयके दर्शवा"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:479
+msgid "Show Monthly Profit Center:"
+msgstr "मासिक लाभ केंद्र दर्शवा:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:481
+msgid "Show Top Profit Products:"
+msgstr "शीर्ष नफा उत्पादने दर्शवा:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:484
+msgid "Dashboard Setting:"
+msgstr "डॅशबोर्ड सेटिंगः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:485
+msgid "Recent Order:"
+msgstr "अलीकडील ऑर्डरः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:486
+msgid "Top Product:"
+msgstr "शीर्ष उत्पादनः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:487
+msgid "Top Category:"
+msgstr "शीर्ष श्रेणीः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:488
+msgid "Top Customer:"
+msgstr "शीर्ष ग्राहकः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:489
+msgid "Top Billing Country:"
+msgstr "शीर्ष बिलिंग देशः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:490
+msgid "Top State Country:"
+msgstr "टॉप स्टेट देशः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:491
+msgid "Top Payment Gateway:"
+msgstr "टॉप पेमेंट गेटवेः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:492
+msgid "Top Coupon:"
+msgstr "टॉप कूपन"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:493
+msgid "Show Selected Order Status only:"
+msgstr "केवळ निवडलेल्या ऑर्डरची स्थिती दर्शवा"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:493
+msgid "Setting for Dashboard \"<strong>Sales Order Status</strong>\" box."
+msgstr ""
+"डॅशबोर्ड  \"<strong> विक्री ऑर्डर स्थिती </ strong> \" बॉक्ससाठी सेट करीत "
+"आहे."
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:507
+msgid "Current Projected Year"
+msgstr "वर्तमान प्रोजेक्टेड वर्ष"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:508
+msgid "Current Projected Sales Year:"
+msgstr "चालू प्रकल्पित विक्री वर्ष:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:511
+msgid "Projected Sales Year:"
+msgstr "प्रक्षेपित विक्री वर्ष:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:513
+#, php-format
+msgid "Sales Month %s:"
+msgstr "विक्री महिना %s :"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:516
+msgid "Per Page:"
+msgstr "प्रति पृष्ठः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:517
+msgid "Detail Page Orders:"
+msgstr "तपशील पृष्ठ ऑर्डरः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:518
+msgid "Detail Stock Orders:"
+msgstr "तपशीलवार स्टॉक ऑर्डरः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:519
+msgid "Detail Variation Stock Orders:"
+msgstr "तपशील बदल स्टॉक ऑर्डर:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:520
+msgid "Detail View All Report:"
+msgstr "तपशील सर्व अहवाल पहा:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:521
+msgid "Detail Variation Report:"
+msgstr "तपशील बदला अहवाल:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:522
+msgid "Customer Page Report:"
+msgstr "ग्राहक पृष्ठ अहवालः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:526
+msgid "Default Settings:"
+msgstr "डीफॉल्ट सेटिंग्जः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:527
+msgid "Shop Order Status:"
+msgstr "खरेदी ऑर्डर स्थितीः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:527
+msgid ""
+"Ctrl + click to multiselect. <br /> Selected status will be used for "
+"calculating salse amount."
+msgstr ""
+"Ctrl + मल्टिलेक्ट करण्यासाठी क्लिक करा. <br /> सॅलरी रक्कम मोजण्यासाठी "
+"निवडलेली स्थिती वापरली जाईल."
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:528
+msgid "Hide Trash Order:"
+msgstr "कचरा ऑर्डर लपवा:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:532
+msgid "Cross Tab Reports:"
+msgstr "क्रॉस टॅब अहवालः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:533
+msgid "Cross Tab Start Month:"
+msgstr "क्रॉस टॅब प्रारंभ महिना:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:534
+msgid "Cross Tab End Month:"
+msgstr "क्रॉस टॅब समाप्त महिना:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:537
+msgid "Export Report:"
+msgstr "निर्यात अहवालः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:539
+msgid "(Pdf/Print) Report Title:"
+msgstr "(पीडीएफ / प्रिंट) अहवाल शीर्षक:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:547
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:631
+msgid "Logo Image:"
+msgstr "लोगो प्रतिमाः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:549
+msgid "Enable Font:"
+msgstr "फॉन्ट सक्षम करा"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:550
+msgid "Font URL:"
+msgstr "फॉन्ट URL:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:552
+msgid "Other Currency:"
+msgstr "इतर चलनः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:553
+msgid "Enable DejaVu Sans:"
+msgstr "डेजावू सन्स सक्षम करा:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:555
+msgid "Email Reports:"
+msgstr "ईमेल अहवालः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:557
+msgid "Email Today Report:"
+msgstr "ईमेल आजचा अहवालः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:559
+msgid "Email Yesterday Report:"
+msgstr "ईमेल काल अहवाल:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:561
+msgid "Email Current Week Report:"
+msgstr "ईमेल वर्तमान आठवड्याचे अहवालः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:563
+msgid "Email Last Week Report:"
+msgstr "ईमेल गेल्या आठवड्यात अहवाल:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:565
+msgid "Email Current Month Report:"
+msgstr "ईमेल वर्तमान महिना अहवाल:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:567
+msgid "Email Last Month Report:"
+msgstr "ईमेल गेल्या महिन्यात अहवाल:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:569
+msgid "Email Current Year Report:"
+msgstr "ईमेल करंट सालचा अहवालः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:571
+msgid "Email Last Year Report:"
+msgstr "ईमेल गेल्या वर्षाचा अहवालः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:573
+msgid "Email Till Today Report:"
+msgstr "आज पर्यंत ईमेल अहवालः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:577
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:97
+msgid "Email Send To:"
+msgstr "यांना ईमेल पाठवाः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:578
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:98
+msgid "From Name:"
+msgstr "नावावरून:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:579
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:99
+msgid "From Email:"
+msgstr "ईमेल कडूनः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:580
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:100
+msgid "Subject:"
+msgstr "विषयः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:582
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:102
+msgid "Email Schedule:"
+msgstr "ईमेल वेळापत्रकः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:582
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:102
+msgid "Unschedule Event"
+msgstr "अनिश्चित कार्यक्रम"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:584
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:103
+msgid "Activate Email Reporting:"
+msgstr "ईमेल अहवाल सक्रिय करा:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:592
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:112
+msgid "Active"
+msgstr "सक्रिय"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:593
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:597
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:113
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:117
+msgid "Schedule Status:"
+msgstr "वेळापत्रक स्थितीः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:596
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:116
+msgid ""
+"Schedule mailing stoped or not activated or unschedule event or try again"
+msgstr ""
+"अनुसूची मेलिंग थांबविले किंवा सक्रिय किंवा अनिश्चित कार्यक्रम नाही किंवा "
+"पुन्हा प्रयत्न करा"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:605
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:123
+msgid ""
+"Automatic Schedule mailing can not work, because \"DISABLE_WP_CRON\" is "
+"defined as \"TRUE\" on this plug-ins setting page in \"Cron URL Settings\" "
+"section."
+msgstr ""
+"स्वयंचलित अनुसूची मेलिंग कार्य करू शकत नाही, कारण  \"क्रोन URL सेटिंग्ज \" "
+"विभागामध्ये या प्लग-इन सेटिंग पृष्ठावर  \"डीआयएसएबल_डब्ल्यूपी_Cआरओएन \"  "
+"\"सत्य \" म्हणून परिभाषित केले आहे."
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:607
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:125
+msgid ""
+"Schedule mailing can not work, because \"DISABLE_WP_CRON\" is defined as "
+"\"TRUE\" in wp-config.php file or somewhere else. To define this to "
+"\"FALSE\" open wp-config.php file in WordPress root folder and set it to "
+"\"FALSE\" or comment."
+msgstr ""
+"शेड्यूल मेलिंग कार्य करू शकत नाही, कारण  \"DISABLE_WP_CRON \" wp-config.php "
+"फाइलमध्ये  \"सत्य \" म्हणून परिभाषित केले आहे किंवा अन्यत्र. हे वर्डप्रेस "
+"रूट फोल्डरमध्ये  \"खोटे \" उघडा wp-config.php फाइलमध्ये परिभाषित करण्यासाठी "
+"आणि त्यास  \"खोटे \" किंवा टिप्पणीवर सेट करा."
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:610
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:128
+msgid "WP CRON Status:"
+msgstr "डब्ल्यूपी सीआरओएन स्थितीः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:613
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:131
+msgid "Action:"
+msgstr "क्रिया"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:613
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:131
+msgid "Test Mail"
+msgstr "चाचणी मेल"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:623
+msgid "PDF Invoice:"
+msgstr "पीडीएफ चलनः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:627
+msgid "Company Address1:"
+msgstr "कंपनी पत्ता 1:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:629
+msgid "Company Address2:"
+msgstr "कंपनी पत्ता 2:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:632
+msgid "Company Name and Logo Align:"
+msgstr "कंपनीचे नाव आणि लोगो संरेखितः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:634
+msgid "Company Name Left and Logo Left"
+msgstr "कंपनीचे नाव डावीकडे आणि लोगो डावीकडे"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:639
+msgid "Show Signature:"
+msgstr "स्वाक्षरी दाखवा"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:640
+msgid "Signature Align:"
+msgstr "स्वाक्षरी संरेखनः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:640
+msgid "Left"
+msgstr "डावीकडे"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:640
+msgid "Center"
+msgstr "केंद्र"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:640
+msgid "Right"
+msgstr "बरोबर"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:641
+msgid "Signature Image:"
+msgstr "स्वाक्षरी प्रतिमाः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:645
+msgid "Show Footer Note:"
+msgstr "तळटीप नोट दर्शवा:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:646
+msgid "Footer Note(after signature):"
+msgstr "तळटीप नोट (स्वाक्षरीनंतर):"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:650
+msgid "Show Invoice Creation Date:"
+msgstr "चलन निर्मिती तारीख दर्शवा:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:654
+msgid "Graph Setting:"
+msgstr "आलेख सेटिंग"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:655
+msgid "Graph Height:"
+msgstr "आलेख उंची:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:656
+msgid "Tick Angle:"
+msgstr "टिक अँगलः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:657
+msgid "Tick Font Size:"
+msgstr "टिक फॉन्ट आकारः"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:658
+msgid "Tick Character Length:"
+msgstr "टिक कॅरेक्टर लांबी:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:659
+msgid "Tick Character Suffix:"
+msgstr "टिक कॅरेक्टर सिक्सिक्स:"
+
+#: includes/ic_commerce_ultimate_report_product_analysis.php:261
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:260
+msgid "No of Order"
+msgstr "ऑर्डर नाही"
+
+#: includes/ic_commerce_ultimate_report_product_analysis.php:263
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:262
+msgid "Price"
+msgstr "किंमत"
+
+#: includes/ic_commerce_ultimate_report_projected_actual_sales.php:101
+msgid "Select Year:"
+msgstr "वर्ष निवडाः"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:85
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:211
+msgid "Please select Email Schedule."
+msgstr "कृपया ईमेल वेळापत्रक निवडा."
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:90
+msgid "Please select Activate Email Reporting."
+msgstr "कृपया ईमेल अहवाल सक्रिय करा निवडा."
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:96
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:222
+msgid ""
+"Somehow next schedule is not set, please try re-activating schedule settting."
+msgstr ""
+"कशाही प्रकारे पुढील शेड्यूल सेट केलेले नाही, कृपया शेड्यूल बसवून पुन्हा "
+"सक्रिय करण्याचा प्रयत्न करा."
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:105
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:231
+msgid "Email has been sent successfully."
+msgstr "ईमेल यशस्वीरित्या पाठविला गेला आहे."
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:107
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:129
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:233
+msgid "Getting problem while sending mail."
+msgstr "मेल पाठविताना समस्या येत आहे."
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:112
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:238
+msgid "Click on \"Save Changes\" button for saving changes and try again."
+msgstr ""
+"बदल जतन करण्यासाठी  \"बदल जतन करा \" बटणावर क्लिक करा आणि पुन्हा प्रयत्न करा."
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:126
+msgid "Email sent successfully."
+msgstr "ईमेल यशस्वीरित्या पाठविला."
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:260
+msgid "Today's"
+msgstr "आज"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:280
+msgid "Current Week"
+msgstr "चालू आठवडा"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:290
+msgid "Last Week"
+msgstr "गेल्या आठवड्यात"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:299
+msgid "Current Month"
+msgstr "चालू महिना"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:308
+msgid "Last Month"
+msgstr "शेवटचा महिना"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:317
+msgid "Current Year"
+msgstr "चालू वर्ष"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:326
+msgid "Last Year"
+msgstr "गेल्या वर्षी"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:336
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:120
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:129
+msgid "Till Date"
+msgstr "तारखेपर्यंत"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:444
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:445
+msgid "Created Date/Time: "
+msgstr "तयार केलेली तारीख / वेळः "
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:444
+msgid "(Wordpress Set Time Zone)"
+msgstr "(वर्डप्रेस सेट टाइम झोन)"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:445
+msgid "(Default Server Time Zone)"
+msgstr "(डीफॉल्ट सर्व्हर टाइम झोन)"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:446
+msgid "Site URL:"
+msgstr "साइट यूआरएलः"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:824
+msgid "Summary -"
+msgstr "सारांश -"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:831
+msgid "Total Sales:"
+msgstr "एकूण विक्रीः"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:838
+msgid "Total Sales Amount:"
+msgstr "एकूण विक्री रक्कमः"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:845
+msgid "Discount Amount:"
+msgstr "सवलत रक्कमः"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:853
+msgid "Coupon Amount:"
+msgstr "कूपन रक्कमः"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:860
+msgid "Refund Amount:"
+msgstr "परतावा रक्कमः"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:868
+msgid "Shipping Tax Amount:"
+msgstr "शिपिंग कर रक्कमः"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:876
+msgid "Order Tax Amount:"
+msgstr "ऑर्डर कर रक्कमः"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:886
+msgid "Total Tax Amount:"
+msgstr "एकूण कर रक्कमः"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:896
+msgid "Shipping Amount:"
+msgstr "शिपिंग रक्कमः"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:906
+msgid "Average Sales:"
+msgstr "सरासरी विक्रीः"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:917
+msgid "New Customer:"
+msgstr "नवीन ग्राहक:"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:92
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:102
+msgid "Min Stock:"
+msgstr "किमान स्टॉकः"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:96
+msgid "Max Stock:"
+msgstr "कमाल स्टॉकः"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:105
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:115
+msgid "Product Stock:"
+msgstr "उत्पादन स्टॉक"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:109
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:119
+msgid "Show all sub-types:"
+msgstr "सर्व उप-प्रकार दर्शवा:"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:120
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:130
+msgid "Stock Status:"
+msgstr "स्टॉक स्थितीः"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:123
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:133
+msgid "In stock"
+msgstr "स्टॉकमध्ये"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:123
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:133
+msgid "Out of stock"
+msgstr "स्टॉक बाहेर"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:129
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:139
+msgid "Manage Stock:"
+msgstr "स्टॉक व्यवस्थापित कराः"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:132
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:142
+msgid "Include items whose stock is mannaged"
+msgstr "ज्या वस्तूंचे व्यवस्थापन केले जाते ते आयटम समाविष्ट करा"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:132
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:142
+msgid "Include items whose stock is not mannaged"
+msgstr ""
+"ज्या वस्तूंचे व्यवस्थापन व्यवस्थापित केलेले नाही अशा गोष्टी समाविष्ट करा"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:180
+#: includes/ic_commerce_ultimate_report_variation.php:298
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:190
+msgid "Product SKU:"
+msgstr "उत्पादन एसकेयू:"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:207
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:213
+msgid "SKU No:"
+msgstr "एसकेयू क्रमांकः"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:214
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:241
+msgid "Basic Column:"
+msgstr "मूळ स्तंभः"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:218
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:245
+msgid "Zero Stock:"
+msgstr "शून्य स्टॉकः"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:219
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:246
+msgid "Include items having 0 stock"
+msgstr "0 स्टॉक असलेले आयटम समाविष्ट करा"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:243
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:277
+msgid "Search Product"
+msgstr "उत्पादन शोधा"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:318
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:354
+msgid "Product variation"
+msgstr "उत्पादन फरक"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:319
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:355
+msgid "List of products variation"
+msgstr "उत्पाद फरकांची यादी"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:345
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:992
+msgid "Show all sub-types"
+msgstr "सर्व उप-प्रकार दर्शवा"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:349
+#: includes/ic_commerce_ultimate_report_stock_list.php:1466
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:996
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1434
+msgid "Downloadable"
+msgstr "डाउनलोड करण्यायोग्य"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:353
+#: includes/ic_commerce_ultimate_report_stock_list.php:1467
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1000
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1435
+msgid "Virtual"
+msgstr "आभासी"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:382
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1012
+msgid "Show all product types"
+msgstr "सर्व उत्पादन प्रकार दर्शवा"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:390
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1020
+msgid "Grouped product"
+msgstr "गटबद्ध उत्पादन"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:392
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1022
+msgid "External/Affiliate product"
+msgstr "बाह्य / संलग्न उत्पादन"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:394
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1024
+msgid "Simple product"
+msgstr "साधे उत्पादन"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:396
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1026
+msgid "Variable"
+msgstr "परिवर्तनीय"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:588
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:807
+msgid "No order found."
+msgstr "कोणताही ऑर्डर सापडला नाही."
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:1459
+msgid "Product Type"
+msgstr "उत्पादन प्रकार"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:1461
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1432
+msgid "Created Date"
+msgstr "तयार केलेली तारीख"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:1462
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1433
+msgid "Modified Date"
+msgstr "सुधारित तारीख"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:1464
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1438
+msgid "Regular Price"
+msgstr "नियमित किंमत"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:1465
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1439
+msgid "Sale Price"
+msgstr "विक्री किंमत"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:1468
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1436
+msgid "Manage Stock"
+msgstr "स्टॉक व्यवस्थापित करा"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:1469
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1437
+msgid "Backorders"
+msgstr "बॅकऑर्डर"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:1470
+msgid "Stock Status"
+msgstr "स्टॉक स्थिती"
+
+#: includes/ic_commerce_ultimate_report_summary_coupon_discount_type.php:68
+msgid "Discount Type"
+msgstr "सवलत प्रकार"
+
+#: includes/ic_commerce_ultimate_report_summary_coupon_discount_type.php:70
+#: includes/ic_commerce_ultimate_report_summary_coupon_discount_type.php:87
+msgid "Discount Amount"
+msgstr "सवलत रक्कम"
+
+#: includes/ic_commerce_ultimate_report_summary_coupon_discount_type.php:86
+msgid "Product Qty."
+msgstr "उत्पादन मात्रा."
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:134
+msgid "New Customer/Repeat Customer Analysis"
+msgstr "नवीन ग्राहक / ग्राहक विश्लेषण पुन्हा करा"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:146
+msgid "Months"
+msgstr "महिने"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:147
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:167
+msgid "Total Sales Amt."
+msgstr "एकूण विक्री एएमटी"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:148
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:168
+msgid "Total Order Count"
+msgstr "एकूण ऑर्डर गणना"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:149
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:169
+msgid "New Customer Count"
+msgstr "नवीन ग्राहक गणना"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:150
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:170
+msgid "Repeat Customer Count"
+msgstr "ग्राहकांची गणना पुन्हा करा"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:151
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:171
+msgid "New Customer Sales Amt."
+msgstr "नवीन ग्राहक विक्री एएमटी"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:152
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:172
+msgid "Repeat Customer Sales Amt."
+msgstr "ग्राहक विक्री एएमटी पुन्हा करा."
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:166
+msgid "Months Count"
+msgstr "महिने मोजा"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:48
+msgid "Customer Who Has Not Purchased"
+msgstr "ग्राहक ज्याने खरेदी केलेला नाही"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:100
+msgid "Avg. Calc From Date:"
+msgstr "सरासरी कॅल्कची तारीखः"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:104
+msgid "Avg. Calc To Date:"
+msgstr "सरासरी कॅल्क टू डेटः"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:111
+msgid "Billing Name:"
+msgstr "बिलिंगचे नावः"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:115
+msgid "Billing Email:"
+msgstr "बिलिंग ईमेलः"
+
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:112
+msgid "Min Order Count:"
+msgstr "किमान आदेश संख्याः"
+
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:182
+msgid "Top n Customer Report Who Orders Frequently"
+msgstr "शीर्ष एन ग्राहक अहवाल वारंवार कोण आदेश देतो"
+
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:322
+msgid "Report Item"
+msgstr "आयटमचा अहवाल द्या"
+
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:373
+msgid "Avg. Customer Count"
+msgstr "सरासरी ग्राहक गणना"
+
+#: includes/ic_commerce_ultimate_report_summary_sales_reports.php:84
+msgid "Order Year"
+msgstr "ऑर्डर वर्ष"
+
+#: includes/ic_commerce_ultimate_report_summary_sales_reports.php:103
+msgid "Month Count"
+msgstr "महिना गणना"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:53
+msgid "Stock Greater Than:"
+msgstr "स्टॉक ग्रेटर पेक्षा:"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:70
+msgid "Stock Less Than:"
+msgstr "पेक्षा कमी स्टॉकः"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:119
+msgid "Last Sales Date"
+msgstr "शेवटची विक्री तारीख"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:120
+msgid "Stock Qty"
+msgstr "स्टॉक Qty"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:137
+msgid "Total Stock"
+msgstr "एकूण स्टॉक"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:152
+msgid "Actions"
+msgstr "क्रिया"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:165
+msgid "Edit Product"
+msgstr "उत्पादन संपादित करा"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:166
+msgid "View Product"
+msgstr "उत्पादन पहा"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:93
+msgid "Stock Email Alert:"
+msgstr "स्टॉक ईमेल अलर्टः"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:94
+msgid "Zero Level:"
+msgstr "शून्य स्तरः"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:95
+msgid "Minimum Level:"
+msgstr "किमान पातळीः"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:216
+msgid "Please select, Activate Email Reporting."
+msgstr "कृपया ईमेल अहवाल सक्रिय करा निवडा."
+
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:91
+msgid "Summary Stock Planner Based On Average Sales"
+msgstr "सरासरी विक्रीवर आधारित स्टॉक प्लॅनर सारांश"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:116
+msgid "Product Variation"
+msgstr "उत्पादन भिन्नता"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:117
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:126
+msgid "Avg. Sales Qty."
+msgstr "सरासरी विक्रीची मात्रा"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:118
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:127
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:151
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:175
+msgid "Current Stock Qty"
+msgstr "करंट स्टॉक क्वालिटी"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:119
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:128
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:176
+msgid "Stock Valid Days"
+msgstr "स्टॉक वैध दिवस"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:174
+msgid "Avg. Quantity Sold"
+msgstr "सरासरी विक्रीची मात्रा"
+
+#: includes/ic_commerce_ultimate_report_summary_tag_based.php:95
+msgid "Tag Name"
+msgstr "टॅग नाव"
+
+#: includes/ic_commerce_ultimate_report_summary_tag_based.php:115
+msgid "Tag Count"
+msgstr "टॅग गणना"
+
+#: includes/ic_commerce_ultimate_report_summary_tag_based.php:160
+msgid "Tags:"
+msgstr "टॅग्ज:"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:205
+msgid "Tax Group By:"
+msgstr "कर गटः"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:212
+msgid "State"
+msgstr "राज्य"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:214
+msgid "Zip Code"
+msgstr "पिनकोड"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:216
+msgid "Tax Summary"
+msgstr "कर सारांश"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:217
+msgid "City Summary"
+msgstr "शहर सारांश"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:218
+msgid "State Summary"
+msgstr "राज्य सारांश"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:219
+msgid "Country Summary"
+msgstr "देश सारांश"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:462
+#: includes/ic_commerce_ultimate_report_tax_report.php:480
+#: includes/ic_commerce_ultimate_report_tax_report.php:499
+#: includes/ic_commerce_ultimate_report_tax_report.php:515
+#: includes/ic_commerce_ultimate_report_tax_report.php:562
+#: includes/ic_commerce_ultimate_report_tax_report.php:577
+#: includes/ic_commerce_ultimate_report_tax_report.php:591
+msgid "Tax Country"
+msgstr "कर देश"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:463
+#: includes/ic_commerce_ultimate_report_tax_report.php:481
+#: includes/ic_commerce_ultimate_report_tax_report.php:563
+#: includes/ic_commerce_ultimate_report_tax_report.php:578
+msgid "Tax State"
+msgstr "कर राज्य"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:464
+#: includes/ic_commerce_ultimate_report_tax_report.php:564
+msgid "Tax City"
+msgstr "कर शहर"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:466
+#: includes/ic_commerce_ultimate_report_tax_report.php:483
+#: includes/ic_commerce_ultimate_report_tax_report.php:501
+#: includes/ic_commerce_ultimate_report_tax_report.php:518
+#: includes/ic_commerce_ultimate_report_tax_report.php:533
+msgid "Tax Rate Code"
+msgstr "कर दर कोड"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:472
+#: includes/ic_commerce_ultimate_report_tax_report.php:489
+#: includes/ic_commerce_ultimate_report_tax_report.php:507
+#: includes/ic_commerce_ultimate_report_tax_report.php:524
+#: includes/ic_commerce_ultimate_report_tax_report.php:540
+#: includes/ic_commerce_ultimate_report_tax_report.php:554
+#: includes/ic_commerce_ultimate_report_tax_report.php:569
+#: includes/ic_commerce_ultimate_report_tax_report.php:583
+#: includes/ic_commerce_ultimate_report_tax_report.php:596
+msgid "Part Refund."
+msgstr "भाग परतावा"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:473
+#: includes/ic_commerce_ultimate_report_tax_report.php:490
+#: includes/ic_commerce_ultimate_report_tax_report.php:508
+#: includes/ic_commerce_ultimate_report_tax_report.php:525
+#: includes/ic_commerce_ultimate_report_tax_report.php:541
+#: includes/ic_commerce_ultimate_report_tax_report.php:555
+#: includes/ic_commerce_ultimate_report_tax_report.php:570
+#: includes/ic_commerce_ultimate_report_tax_report.php:584
+#: includes/ic_commerce_ultimate_report_tax_report.php:597
+msgid "(Net- Refund) Amt."
+msgstr "(नेट-रिफंड) एमटी."
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:516
+msgid "Tax Zip"
+msgstr "कर झिप"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:611
+msgid "Refund Tax"
+msgstr "परतावा कर"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:612
+msgid "Refund Shipping Tax"
+msgstr "परतावा शिपिंग कर"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:613
+msgid "Total Tax Refund"
+msgstr "एकूण कर परतावा"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:615
+msgid "Net Total Tax"
+msgstr "निव्वळ एकूण कर"
+
+#: includes/ic_commerce_ultimate_report_variation.php:127
+#: includes/ic_commerce_ultimate_report_variation.php:269
+msgid "Variation Products"
+msgstr "विविधता उत्पादने"
+
+#: includes/ic_commerce_ultimate_report_variation.php:253
+msgid "Enable variations selection by clicking show variable products"
+msgstr "वेरिएबल उत्पादने दर्शवा क्लिक करून विविधता निवड सक्षम करा"
+
+#: includes/ic_commerce_ultimate_report_variation.php:265
+msgid "Show:"
+msgstr "दर्शवाः"
+
+#: includes/ic_commerce_ultimate_report_variation.php:269
+msgid "Simple Products"
+msgstr "साधे उत्पादने"
+
+#: includes/ic_commerce_ultimate_report_variation.php:269
+msgid "All Products"
+msgstr "सर्व उत्पादने"
+
+#: includes/ic_commerce_ultimate_report_variation.php:279
+msgid "Style:"
+msgstr "शैलीः"
+
+#: includes/ic_commerce_ultimate_report_variation.php:282
+msgid "Columner"
+msgstr "कॉलमनेर"
+
+#: includes/ic_commerce_ultimate_report_variation.php:282
+msgid "Comma Separated"
+msgstr "स्वल्पविराम विभक्त"
+
+#: includes/ic_commerce_ultimate_report_variation.php:286
+msgid "Enable style selection by clicking show variable products"
+msgstr "व्हेरिएबल उत्पादने दर्शवा क्लिक करून शैली निवड सक्षम करा"
+
+#: includes/ic_commerce_ultimate_report_variation.php:306
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:181
+msgid "Variation SKU:"
+msgstr "बदल एसकेयूः"
+
+#: includes/ic_commerce_ultimate_report_variation.php:562
+msgid "Product List"
+msgstr "उत्पादन यादी"
+
+#: includes/ic_commerce_ultimate_report_variation.php:1149
+msgid "No order found"
+msgstr "कोणताही ऑर्डर सापडला नाही"
+
+#: includes/ic_commerce_ultimate_report_variation.php:1580
+msgid "Total Result: "
+msgstr "एकूण निकाल: "
+
+#: includes/ic_commerce_ultimate_report_variation.php:1580
+msgid ", Amount: "
+msgstr ", रक्कमः "
+
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:106
+msgid "MaxStock"
+msgstr "मॅक्सस्टॉक"
+
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:151
+msgid ">Product Name:"
+msgstr "> उत्पादन नाव:"
+
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:166
+msgid "All Category"
+msgstr "सर्व श्रेणी"
+
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:920
+msgid "Edit this item"
+msgstr "हा आयटम संपादित करा"
+
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1115
+#, php-format
+msgid "Results: <strong>%1$s/%2$s</strong>"
+msgstr "परिणाम: <strong> %1$s / %2$s </ strong>"
+
+#. Name of the plugin
+msgid "Woocommerce Ultimate Reports"
+msgstr "Woocommerce अंतिम अहवाल"
+
+#. Description of the plugin
+msgid ""
+"The latest release of our WooCommerce Report Plug-in has all features of "
+"Gold version plus new features like Projected Vs Actual Sales, Comprehensive "
+"Tax based Reporting, Improvised Dashboard, Filters by Variation Attributes, "
+"Sales summary by Map View, Graphs and much more."
+msgstr ""
+"आमच्या WooCommerce अहवाल प्लग-इनच्या नवीनतम आवृत्तीमध्ये सुवर्ण आवृत्त्यासह "
+"सर्व वैशिष्ट्ये आहेत जसे प्रोजेक्ट व्ही वास्तविक विक्री, व्यापक कर आधारित "
+"अहवाल, सुधारित डॅशबोर्ड, विविधता विशेषतांद्वारे फिल्टर्स, नकाशा दृश्याद्वारे "
+"विक्री सारांश, आलेख आणि बरेच काही."
+
+#. Author of the plugin
+msgid "Deepak Shah"
+msgstr "दीपक शाह"
+
+#. Author URI of the plugin
+msgid "http://woochamps.com/"
+msgstr "http://woochamps.com/"

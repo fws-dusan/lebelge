@@ -1,0 +1,46 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "name": "Price Table Template ",
+      "date":"June 12, 2018",
+      "preview": "/library/blocks/content/template1.html",
+      "thumbnail": "/library/blocks/images/image-1.png"
+    },
+    {
+      "id": 2,
+      "name": "Features Template",
+      "date":"June 12, 2018",
+      "preview": "/library/blocks/content/template1.html",
+      "thumbnail": "/library/blocks/images/image-1.png"
+    },
+    {
+      "id": 3,
+      "name": "My block name 3 ruf",
+      "date":"June 12, 2018",
+      "preview": "/library/blocks/content/template1.html",
+      "thumbnail": "/library/blocks/images/image-1.png"
+    },
+    {
+      "id": 4,
+      "name": "My block name 4",
+      "date":"June 12, 2018",
+      "preview": "/library/blocks/content/template1.html",
+      "thumbnail": "/library/blocks/images/image-1.png"
+    },
+    {
+      "id": 5,
+      "name": "My block name 5 rufat",
+      "date":"June 12, 2018",
+      "preview": "/library/blocks/content/template1.html",
+      "thumbnail": "/library/blocks/images/image-1.png"
+    },
+    {
+      "id": 6,
+      "name": "My block name 6",
+      "date":"June 12, 2018",
+      "preview": "/library/blocks/content/template1.html",
+      "thumbnail": "/library/blocks/images/image-1.png"
+    }
+  ]
+}

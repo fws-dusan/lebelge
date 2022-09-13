@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-07-01 19:15+0400\n"
+"PO-Revision-Date: 2020-07-01 19:18+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;__;_e;esc_html;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/compatibilityChecking.php:33
+#, php-format
+msgid ""
+"%sEmail Customizer with Drag Drop Builder needs WooCommerce%s %sWooCommerce"
+"%s must be active. Please install & activate WooCommerce."
+msgstr ""
+
+#: includes/compatibilityChecking.php:49
+#, php-format
+msgid ""
+"%sEmail Customizer with Drag Drop Builder needs WooCommerce%s This version "
+"of Email Customizer requires WooCommerce %s or newer. For more information "
+"about our WooCommerce version support %sclick here%s."
+msgstr ""
+
+#: includes/generalSettings.php:43
+msgid "Email Customizer"
+msgstr ""
+
+#: includes/helper/previewMailHelper.php:43
+#: includes/helper/previewMailHelper.php:44
+msgid "EC WOO Preview Email"
+msgstr ""
+
+#: includes/helper/woosubs-loader.class.php:25
+msgid "Active"
+msgstr ""
+
+#: includes/helper/woosubs-loader.class.php:26
+msgid "Cancelled"
+msgstr ""
+
+#: includes/helper/woosubs-loader.class.php:27
+msgid "On hold"
+msgstr ""
+
+#: includes/helper/woosubs-loader.class.php:28
+msgid "Pending"
+msgstr ""
+
+#: includes/helper/woosubs-loader.class.php:108
+msgid "When Cancelled"
+msgstr ""
+
+#: includes/integrations/General.php:30
+msgid "Visit Website"
+msgstr ""
+
+#: includes/integrations/General.php:34
+msgid "My account"
+msgstr ""
+
+#: includes/integrations/Order.php:67
+msgid "Payment page"
+msgstr ""
+
+#: includes/integrations/ResetPassword.php:34
+msgid "Click here to reset your password"
+msgstr ""
+
+#: includes/registerPost.php:11
+msgid "Add a new post of type Email Template"
+msgstr ""
+
+#: includes/registerPost.php:12
+msgid "Edit Email Template"
+msgstr ""
+
+#: includes/registerPost.php:13
+msgid "New Email Template"
+msgstr ""
+
+#: includes/registerPost.php:14
+msgid "View Email Template"
+msgstr ""
+
+#: includes/registerPost.php:15
+msgid "Search Email Template"
+msgstr ""
+
+#: includes/registerPost.php:16
+msgid "No Email Template found"
+msgstr ""
+
+#: includes/registerPost.php:17
+msgid "No Email Template currently trashed"
+msgstr ""
+
+#: pages/admin-page.php:65
+msgid "Language"
+msgstr ""
+
+#: pages/admin-page.php:90
+msgid "Email type"
+msgstr ""
+
+#: pages/admin-page.php:95
+msgid "Email to show"
+msgstr ""
+
+#: pages/admin-page.php:108 pages/admin-page.php:2096
+msgid "Partial Refunded Order"
+msgstr ""
+
+#: pages/admin-page.php:117
+msgid "Order"
+msgstr ""
+
+#: pages/admin-page.php:128
+msgid "Unfortunately,there is not any order to show"
+msgstr ""
+
+#: pages/admin-page.php:149
+#, php-format
+msgid "...Showing the most recent %u orders"
+msgstr ""
+
+#: pages/admin-page.php:187
+msgid "Export as JSON"
+msgstr ""
+
+#: pages/admin-page.php:195
+msgid "Export as HTML"
+msgstr ""
+
+#: pages/admin-page.php:203
+msgid "Export All Templates"
+msgstr ""
+
+#: pages/admin-page.php:236
+msgid "Save"
+msgstr ""
+
+#: pages/admin-page.php:267
+msgid "Save as Template"
+msgstr ""
+
+#: pages/admin-page.php:276
+msgid "Save as..."
+msgstr ""
+
+#: pages/admin-page.php:285
+msgid "Send Mail"
+msgstr ""
+
+#: pages/admin-page.php:294
+msgid "Import"
+msgstr ""
+
+#: pages/admin-page.php:303
+msgid "Import all"
+msgstr ""
+
+#: pages/admin-page.php:325
+msgid "WooMail"
+msgstr ""
+
+#: pages/admin-page.php:345
+msgid "Elements"
+msgstr ""
+
+#: pages/admin-page.php:355
+msgid "Structure"
+msgstr ""
+
+#: pages/admin-page.php:365
+msgid "Settings"
+msgstr ""
+
+#: pages/admin-page.php:501
+msgid "Email Settings"
+msgstr ""
+
+#: pages/admin-page.php:510
+msgid "Background Color"
+msgstr ""
+
+#: pages/admin-page.php:520
+msgid "Content Color"
+msgstr ""
+
+#: pages/admin-page.php:530
+msgid "Email width"
+msgstr ""
+
+#: pages/admin-page.php:539
+msgid "Email width must be 480 - 900"
+msgstr ""
+
+#: pages/admin-page.php:544
+msgid "Replace Email for "
+msgstr ""
+
+#: pages/admin-page.php:552 pages/admin-page.php:617
+msgid ""
+"If you want to use the new templates, please turn on. Otherwise, you will "
+"use default email templates.<strong> it will activate replacing all emails</"
+"strong> "
+msgstr ""
+
+#: pages/admin-page.php:564
+msgid "General Settings"
+msgstr ""
+
+#: pages/admin-page.php:574
+msgid "Panel position"
+msgstr ""
+
+#: pages/admin-page.php:588
+msgid "After selecting position will save automatically"
+msgstr ""
+
+#: pages/admin-page.php:594
+msgid "Table cell padding"
+msgstr ""
+
+#: pages/admin-page.php:604
+msgid "The table which shows the product list"
+msgstr ""
+
+#: pages/admin-page.php:609
+msgid "Replace Email for all types"
+msgstr ""
+
+#: pages/admin-page.php:622
+msgid "RTL Support"
+msgstr ""
+
+#: pages/admin-page.php:633
+msgid "Show product sku"
+msgstr ""
+
+#: pages/admin-page.php:643
+msgid "Show product image"
+msgstr ""
+
+#: pages/admin-page.php:655
+msgid "Product image width"
+msgstr ""
+
+#: pages/admin-page.php:668
+msgid "Product image height"
+msgstr ""
+
+#: pages/admin-page.php:679
+msgid "Show Custom Shortcode in the menu"
+msgstr ""
+
+#: pages/admin-page.php:687
+msgid ""
+"If you want to hide the custom shortcode page, please turn "
+"off<br><strong>After saving please refresh page for seeing the result</"
+"strong>"
+msgstr ""
+
+#: pages/admin-page.php:692
+msgid "Show information which is added from other plugins "
+msgstr ""
+
+#: pages/admin-page.php:702
+msgid "Show product item link"
+msgstr ""
+
+#: pages/admin-page.php:711 pages/admin-page.php:797 pages/admin-page.php:820
+msgid "SAVE"
+msgstr ""
+
+#: pages/admin-page.php:720
+msgid "Related Items Settings"
+msgstr ""
+
+#: pages/admin-page.php:730
+msgid "Columns"
+msgstr ""
+
+#: pages/admin-page.php:741
+msgid "Product count"
+msgstr ""
+
+#: pages/admin-page.php:752
+msgid "Products By"
+msgstr ""
+
+#: pages/admin-page.php:757
+msgid "Product Type"
+msgstr ""
+
+#: pages/admin-page.php:760
+msgid "Product Category"
+msgstr ""
+
+#: pages/admin-page.php:767
+msgid "Show name"
+msgstr ""
+
+#: pages/admin-page.php:777
+msgid "Show price"
+msgstr ""
+
+#: pages/admin-page.php:787
+msgid "Show image"
+msgstr ""
+
+#: pages/admin-page.php:806
+msgid "Custom CSS"
+msgstr ""
+
+#: pages/admin-page.php:841
+msgid "Content"
+msgstr ""
+
+#: pages/admin-page.php:849
+msgid "Style"
+msgstr ""
+
+#: pages/admin-page.php:2083
+msgid "Select an email type"
+msgstr ""
+
+#: pages/preview-page.php:58
+msgid "You'll need at least one order to preview all the email types correctly"
+msgstr ""
+
+#: pages/preview-page.php:60
+msgid ""
+"Simply follow your store's checkout process to create at least one order, "
+"then return here to preview all the possible email types."
+msgstr ""
+
+#: templates/ec-woo-mail-helper/bacs-info.php:14
+msgid "Sort code"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/bacs-info.php:18
+msgid "Our bank details"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/bacs-info.php:34
+msgid "Bank"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/bacs-info.php:35
+msgid "Account number"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/bacs-info.php:37
+msgid "IBAN"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/bacs-info.php:38
+msgid "BIC"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/order-items-1.php:48
+#: templates/ec-woo-mail-helper/order-items-1.php:56
+#: templates/ec-woo-mail-helper/order-items-2.php:46
+#: templates/ec-woo-mail-helper/order-items-2.php:55
+#: templates/ec-woo-mail-helper/order-items-3.php:47
+#: templates/ec-woo-mail-helper/order-items-3.php:55
+#: templates/ec-woo-mail-helper/order-items-4.php:47
+#: templates/ec-woo-mail-helper/order-items-4.php:57
+#: templates/ec-woo-mail-helper/order-items-5.php:69
+#: templates/ec-woo-mail-helper/order-items-5.php:77
+#: templates/ec-woo-mail-helper/order-items-6.php:48
+#: templates/ec-woo-mail-helper/order-items-6.php:54
+#: templates/ec-woo-mail-helper/order-items.php:53
+#: templates/ec-woo-mail-helper/order-items.php:61
+msgid "Product"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/order-items-1.php:50
+#: templates/ec-woo-mail-helper/order-items-1.php:58
+#: templates/ec-woo-mail-helper/order-items-2.php:48
+#: templates/ec-woo-mail-helper/order-items-2.php:57
+#: templates/ec-woo-mail-helper/order-items-3.php:49
+#: templates/ec-woo-mail-helper/order-items-3.php:57
+#: templates/ec-woo-mail-helper/order-items-4.php:50
+#: templates/ec-woo-mail-helper/order-items-4.php:59
+#: templates/ec-woo-mail-helper/order-items-5.php:71
+#: templates/ec-woo-mail-helper/order-items-5.php:79
+#: templates/ec-woo-mail-helper/order-items-rows-3.php:60
+#: templates/ec-woo-mail-helper/order-items-rows-3.php:110
+#: templates/ec-woo-mail-helper/order-items-rows-4.php:58
+#: templates/ec-woo-mail-helper/order-items-rows-4.php:107
+#: templates/ec-woo-mail-helper/order-items-rows-6.php:54
+#: templates/ec-woo-mail-helper/order-items-rows-6.php:106
+#: templates/ec-woo-mail-helper/order-items.php:55
+#: templates/ec-woo-mail-helper/order-items.php:63
+msgid "Quantity"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/order-items-1.php:52
+#: templates/ec-woo-mail-helper/order-items-1.php:60
+#: templates/ec-woo-mail-helper/order-items-2.php:50
+#: templates/ec-woo-mail-helper/order-items-2.php:59
+#: templates/ec-woo-mail-helper/order-items-3.php:51
+#: templates/ec-woo-mail-helper/order-items-3.php:59
+#: templates/ec-woo-mail-helper/order-items-4.php:52
+#: templates/ec-woo-mail-helper/order-items-4.php:61
+#: templates/ec-woo-mail-helper/order-items-5.php:73
+#: templates/ec-woo-mail-helper/order-items-5.php:81
+#: templates/ec-woo-mail-helper/order-items-6.php:50
+#: templates/ec-woo-mail-helper/order-items-6.php:56
+#: templates/ec-woo-mail-helper/order-items.php:57
+#: templates/ec-woo-mail-helper/order-items.php:65
+#: templates/ec-woo-mail-helper/wcs-info-1.php:41
+#: templates/ec-woo-mail-helper/wcs-info-2.php:68
+msgid "Price"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/order-items-5.php:46
+#: templates/ec-woo-mail-helper/order-items.php:39
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/order-totals.php:13
+msgid "Subtotal:"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/order-totals.php:20
+msgid "Discount:"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/order-totals.php:47
+msgid "Fee"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/order-totals.php:78
+msgid "Refund"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/order-totals.php:85
+msgid "Total:"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/wcs-info-1.php:17
+#: templates/ec-woo-mail-helper/wcs-info-2.php:18
+msgid "Subscription Information"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/wcs-info-1.php:29
+#: templates/ec-woo-mail-helper/wcs-info-2.php:28
+msgid "Subscription"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/wcs-info-1.php:32
+#: templates/ec-woo-mail-helper/wcs-info-2.php:36
+msgid "Status"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/wcs-info-1.php:35
+#: templates/ec-woo-mail-helper/wcs-info-2.php:44
+msgid "Start Date"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/wcs-info-1.php:38
+#: templates/ec-woo-mail-helper/wcs-info-2.php:60
+msgid "End Date"
+msgstr ""
+
+#: templates/ec-woo-mail-helper/wcs-info-1.php:65
+#: templates/ec-woo-mail-helper/wcs-info-2.php:73
+msgid " every "
+msgstr ""
+
+#: templates/ec-woo-mail-helper/wcs-info-2.php:52
+msgid "Next Payment Date"
+msgstr ""

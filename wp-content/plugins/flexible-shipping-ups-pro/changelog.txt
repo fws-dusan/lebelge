@@ -1,0 +1,179 @@
+*** Flexible Shipping UPS Pro Changelog ***
+
+## [1.10.0] - 2021-08-05
+### Added
+- US SurePost services
+- Delivery Confirmation
+
+## [1.9.0] - 2021-07-19
+### Added
+- Ability to get rates without pickup type (not set value)
+
+## [1.8.3] - 2021-06-07
+### Added
+- Conditional Shipping Methods cross-sell box
+### Changed
+- Composer libraries updated
+
+## [1.8.2] - 2021-05-17
+### Added
+- Support for WooCommerce 5.3
+
+## [1.8.1] - 2021-03-30
+### Fixed
+- fixed fatal error on some installations on shipping service initialisation
+
+## [1.8.0] - 2021-03-25
+### Added
+- caching for access points on session level
+### Fixed
+- access point support after changing country
+
+
+## [1.7.0] - 2021-03-02
+### Modified
+- pickup type moved between libraries
+
+## [1.6.0] - 2021-01-18
+### Added
+- Blackout Lead Days
+- Support for Free Shipping
+
+## [1.5.2] - 2020-12-07
+### Added
+- Support for WordPress 5.6
+
+## [1.5.1] - 2020-11-12
+### Added
+- Support for WooCommerce 4.7
+
+## [1.5.0] - 2020-08-31
+### Added
+- Active Payments plugin integration
+### Fixed
+- Fatal error when no collection point found for given address
+- Delivery dates displayed multiple times with other Live Rates plugins
+
+## [1.4.2] - 2020-08-20
+### Added
+- Support for Wordpress 5.5
+
+## [1.4.1] - 2020-07-29
+### Fixed
+- Search of nearest access point based on destination address
+
+## [1.4.0] - 2020-07-29
+### Added
+- Information about additional Pickup Type options
+- Support for WooCommerce 4.4
+
+### Fixed
+- Search of nearest access point
+
+## [1.3.14] - 2020-05-21
+### Added
+- Custom box dimensions to custom box name in order meta
+
+## [1.3.12] - 2020-05-18
+### Fixed
+- Warning on empty API response
+
+## [1.3.10] - 2020-04-28
+### Added
+- Integration with WooCommerce Multi-Currency plugin
+
+## [1.3.9] - 2020-04-20
+### Fixed
+- Multiple Access point flat rate methods in shipping zone
+- Fatal error when collection point not found
+
+## [1.3.8] - 2020-04-07
+### Fixed
+- Unhandled CollectionPointNotFoundException
+
+## [1.3.7] - 2020-03-19
+### Added
+- Support for WooCommerce 4.0
+
+## [1.3.6] - 2020-02-19
+### Added
+- More messages in debug mode
+
+### Changed
+- API Status field functionality moved to other WP Desk library
+
+## [1.3.5] - 2020-02-05
+### Added
+- Minimal package weight: 0.1
+
+### Fixed
+- Negotiated rates
+
+## [1.3.4] - 2020-01-27
+### Fixed
+- Conflicts with other shipping plugins
+- Services when Estimated Delivery is set to None
+
+## [1.3.2] - 2020-01-23
+### Fixed
+- Package dimensions for packed shipments
+
+## [1.3.1] - 2020-01-21
+### Fixed
+- Warnings
+
+## [1.3.0] - 2020-01-20
+### Added
+- WP Desk Abstract Shipping libraries
+
+## [1.2.3] - 2020-01-07
+### Added
+- Support for WooCommerce 3.9
+
+## [1.2.2] - 2019-10-25
+### Added
+- Password masking in debug messages
+
+## [1.2.1] - 2019-10-15
+### Fixed
+- Access point and flat rate configuration
+
+## [1.2.0] - 2019-10-01
+### Added
+- Packer separately
+- Pickup type
+- Cutoff time
+- Lead time functionality
+- Maximum time in transit
+- Install proposition when required plugins are not found
+
+## [1.1.4] - 2019-08-20
+- ShipmentTotalWeight should be sent only with time in transit request
+
+## [1.1.3] - 2019-08-12
+### Added
+- Support for WooCommerce 3.7
+
+## [1.1.2] - 2019-07-11
+### Fixed
+- Rare change for fatal error when activating plugin
+
+## [1.1.1] - 2019-07-02
+### Fixed
+- Fatal error in order meta.
+
+## [1.1.0] - 2019-06-27
+### Added
+- Multi currency support
+
+### Fixed
+- Too many notices in checkout
+
+### Removed
+- Subscription enforce
+
+## [1.0] - 2019-05-21
+### Added
+- First Release!
+
+##### Added,Fixed

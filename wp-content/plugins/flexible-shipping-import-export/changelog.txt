@@ -1,0 +1,17 @@
+*** Flexible Shipping Import Export ***
+
+## [1.1.0] - 2021-03-31
+### Added
+- Data verification functionality
+
+## [1.0.1] - 2021-02-22
+### Fixed
+- Exported data if FS Pro has been deactivated
+### Changed
+- Plugin description
+
+## [1.0.0] - 2021-03-01
+### Added
+- First Release!
+
+##### Added,Fixed

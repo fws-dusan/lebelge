@@ -1,0 +1,7 @@
+*** Flexible Shipping Conditional Methods ***
+
+## [1.0.0] - 2021-05-27
+### Added
+- First Release!
+
+##### Added,Fixed

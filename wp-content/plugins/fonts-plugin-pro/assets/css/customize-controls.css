@@ -1,0 +1,189 @@
+.typography-font-size,
+.typography-line-height,
+.typography-font-color,
+.typography-text-transform,
+.typography-letter-spacing {
+	display: block;
+}
+
+.customize-control-toggle .toggle--wrapper {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	flex-direction: row;
+
+	-webkit-box-direction: normal;
+	-webkit-box-orient: horizontal;
+	-webkit-box-pack: start;
+	-webkit-flex-direction: row;
+	-ms-flex-direction: row;
+	-ms-flex-pack: start;
+	-webkit-justify-content: flex-start;
+	justify-content: flex-start;
+}
+
+.customize-control-toggle .toggle--wrapper .customize-control-title {
+	vertical-align: middle;
+	-webkit-box-flex: 2;
+	-webkit-flex: 2 0 0;
+	-ms-flex: 2 0 0;
+	flex: 2 0 0;
+}
+
+.customize-control-toggle .toggle--wrapper input[type=checkbox] {
+	display: none;
+}
+
+.customize-control-toggle .toggle--wrapper label {
+	background-color: #555d66;
+	border-radius: 14px;
+	cursor: pointer;
+	display: inline-block;
+	height: 20px;
+	outline: none;
+	position: relative;
+	right: 0px;
+	top: 2px;
+	-webkit-transition: background 0.2s ease;
+	transition: background 0.2s ease;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	width: 34px;
+}
+
+.customize-control-toggle .toggle--wrapper label::after,
+.customize-control-toggle .toggle--wrapper label::before {
+	content: "";
+	display: block;
+	position: absolute;
+}
+
+.customize-control-toggle .toggle--wrapper label::after {
+	border: 2px solid #555d66;
+	border-radius: 50%;
+	box-sizing: border-box;
+	height: 12px;
+	left: 4px;
+	top: 4px;
+	-webkit-transition: background 0.2s ease, -webkit-transform 0.2s ease;
+	transition: background 0.2s ease, -webkit-transform 0.2s ease;
+	transition: transform 0.2s ease, background 0.2s ease;
+	transition: transform 0.2s ease, background 0.2s ease, -webkit-transform 0.2s ease;
+	width: 12px;
+}
+
+.customize-control-toggle .toggle--wrapper label::before {
+	background-color: #eee;
+	border-radius: 60px;
+	bottom: 2px;
+	left: 2px;
+	right: 2px;
+	top: 2px;
+	-webkit-transition: background 0.2s ease;
+	transition: background 0.2s ease;
+}
+
+.customize-control-toggle .toggle--wrapper input[type=checkbox]:checked + label {
+	background-color: #0085ba;
+}
+
+.customize-control-toggle .toggle--wrapper input[type=checkbox]:checked + label::after {
+	background-color: #0085ba;
+	border: 2px solid #fff;
+	-webkit-transform: translateX(14px);
+	-ms-transform: translateX(14px);
+	transform: translateX(14px);
+}
+
+.customize-control-toggle .toggle--wrapper input[type=checkbox]:checked + label::before {
+	background-color: #0085ba;
+}
+
+.customize-control-toggle:hover .toggle--wrapper label::before {
+	background-color: #d9dcdf;
+}
+
+.ogf-device-controls {
+	display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
+}
+
+.ogf-device-controls div {
+	padding: 8px;
+  text-align: center;
+  background: #e7e7e7;
+  border-color: #dadada;
+  font-weight: bold;
+  border-width: 1px 1px 1px 0;
+  border-style: solid;
+	cursor: pointer;
+}
+
+.ogf-device-controls div:nth-child(1) {
+	border-left: 1px solid #dadada;
+}
+
+.ogf-device-controls .selected {
+  background: #dadada;
+	border-bottom: 0;
+}
+
+.typography-font-size--desktop,
+.typography-font-size--tablet,
+.typography-font-size--mobile,
+.typography-line-height--desktop,
+.typography-line-height--tablet,
+.typography-line-height--mobile {
+	display: none;
+}
+
+.preview-mobile .typography-font-weight,
+.preview-mobile .typography-font-style,
+.preview-mobile .typography-font-color,
+.preview-mobile .typography-letter-spacing,
+.preview-mobile .typography-text-transform {
+	display: none;
+}
+
+.preview-tablet .typography-font-weight,
+.preview-tablet .typography-font-style,
+.preview-tablet .typography-font-color,
+.preview-tablet .typography-letter-spacing,
+.preview-tablet .typography-text-transform {
+	display: none;
+}
+
+/* The general 'Headings' setting doesn't have responsive options
+but the individual (h1, h2, etc) do. */
+#customize-control-ogf_headings_typography .typography-font-weight,
+#customize-control-ogf_headings_typography .typography-font-style,
+#customize-control-ogf_headings_typography .typography-font-color,
+#customize-control-ogf_headings_typography .typography-letter-spacing,
+#customize-control-ogf_headings_typography .typography-text-transform {
+	display: block;
+}
+
+.preview-desktop .typography-font-size--desktop {
+	display: block;
+}
+
+.preview-tablet .typography-font-size--tablet {
+	display: block;
+}
+
+.preview-mobile .typography-font-size--mobile {
+	display: block;
+}
+
+.preview-desktop .typography-line-height--desktop {
+	display: block;
+}
+.preview-tablet .typography-line-height--tablet {
+	display: block;
+}
+.preview-mobile .typography-line-height--mobile {
+	display: block;
+}

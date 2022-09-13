@@ -1,0 +1,90 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "General Elements"
+    },
+    {
+      "id": 2,
+      "name": "Special Elements"
+    },
+    {
+      "id": 3,
+      "name": "WooCommerce Elements"
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "order": 1,
+      "category": 1,
+      "name": "Button",
+      "icon": "fa fa-square-o",
+      "preview": "/library/elements/preview/button.html",
+      "type": "button"
+    },
+    {
+      "id": 2,
+      "order": 2,
+      "category": 1,
+      "name": "Text",
+      "icon": "fa fa-font",
+      "preview": "/library/elements/preview/paragraph.html",
+      "type": "text"
+    },
+    {
+      "id": 3,
+      "order": 3,
+      "category": 2,
+      "name": "Social",
+      "icon": "fa fa-share-alt",
+      "preview": "/library/elements/preview/social.html",
+      "type": "social"
+    },
+    {
+      "id": 4,
+      "order": 4,
+      "category": 1,
+      "name": "Video",
+      "icon": "fa fa-video-camera",
+      "preview": "/library/elements/preview/video.html",
+      "type": "video"
+    },
+    {
+      "id": 5,
+      "order": 5,
+      "category": 1,
+      "name": "Image",
+      "icon": "fa fa-picture-o",
+      "preview": "/library/elements/preview/image.html",
+      "type": "image"
+    },
+    {
+      "id": 6,
+      "order": 5,
+      "category": 1,
+      "name": "Divider",
+      "icon": "fa fa-minus",
+      "preview": "/library/elements/preview/divider.html",
+      "type": "divider"
+    },
+    {
+      "id": 7,
+      "order": 2,
+      "category": 1,
+      "name": "Spacer",
+      "icon": "fa fa-arrows-v",
+      "preview": "/library/elements/preview/spacer.html",
+      "type": "spacer"
+    },
+    {
+      "id": 8,
+      "order": 2,
+      "category": 2,
+      "name": "Menu",
+      "icon": "fa fa-bars",
+      "preview": "/library/elements/preview/menu.html",
+      "type": "text"
+    }
+  ]
+}

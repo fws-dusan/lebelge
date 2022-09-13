@@ -1,0 +1,369 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "General"
+    },
+    {
+      "id": 5,
+      "name": "User"
+    },
+    {
+      "id": 2,
+      "name": "Order"
+    },
+    {
+      "id": 3,
+      "name": "Shipping"
+    },
+    {
+      "id": 4,
+      "name": "Billing"
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "category": 4,
+      "name": "ec_woo_billing_address",
+      "desc": "Get Billing Address"
+    },
+    {
+      "id": 2,
+      "category": 4,
+      "name": "ec_woo_billing_address_1",
+      "desc": "Get Billing Address 1"
+    },
+    {
+      "id": 3,
+      "category": 4,
+      "name": "ec_woo_billing_address_2",
+      "desc": "Get Billing Address 2"
+    },
+    {
+      "id": 4,
+      "category": 4,
+      "name": "ec_woo_billing_city",
+      "desc": "Get Billing City"
+    },
+    {
+      "id": 5,
+      "category": 4,
+      "name": "ec_woo_billing_company",
+      "desc": "Get Billing Company"
+    },
+    {
+      "id": 6,
+      "category": 4,
+      "name": "ec_woo_billing_country",
+      "desc": "Get Billing Country"
+    },
+    {
+      "id": 7,
+      "category": 4,
+      "name": "ec_woo_billing_email",
+      "desc": "Get Billing Email"
+    },
+    {
+      "id": 8,
+      "category": 4,
+      "name": "ec_woo_billing_first_name",
+      "desc": "Get Billing First Name"
+    },
+    {
+      "id": 9,
+      "category": 4,
+      "name": "ec_woo_billing_last_name",
+      "desc": "Get Billing Last Name"
+    },
+    {
+      "id": 10,
+      "category": 4,
+      "name": "ec_woo_billing_phone",
+      "desc": "Get Billing Phone"
+    },
+    {
+      "id": 11,
+      "category": 4,
+      "name": "ec_woo_billing_postcode",
+      "desc": "Get Billing Post Code"
+    },
+    {
+      "id": 12,
+      "category": 4,
+      "name": "ec_woo_billing_state",
+      "desc": "Get Billing State"
+    },
+    {
+      "id": 13,
+      "category": 2,
+      "name": "ec_woo_customer_notes",
+      "desc": "Get Order Customer Notes"
+    },
+    {
+      "id": 14,
+      "category": 2,
+      "name": "ec_woo_customer_provided_note",
+      "desc": "Get Order Customer Provided Note"
+    },
+    {
+      "id": 15,
+      "category": 2,
+      "name": "ec_woo_items",
+      "desc": "Get Order Items with basic style"
+    },
+    {
+      "id": 16,
+      "category": 2,
+      "name": "ec_woo_items_1",
+      "desc": "Get Order Items with modern style 1"
+    },
+    {
+      "id": 17,
+      "category": 2,
+      "name": "ec_woo_items_2",
+      "desc": "Get Order Items with modern style 2"
+    },
+    {
+      "id": 18,
+      "category": 2,
+      "name": "ec_woo_items_3",
+      "desc": "Get Order Items with modern style 3"
+    },
+    {
+      "id": 19,
+      "category": 2,
+      "name": "ec_woo_items_4",
+      "desc": "Get Order Items with modern style 4"
+    },
+    {
+      "id": 20,
+      "category": 2,
+      "name": "ec_woo_items_5",
+      "desc": "Get Order Items with modern style 5"
+    },
+    {
+      "id": 21,
+      "category": 2,
+      "name": "ec_woo_order_date",
+      "desc": "Get Order Date (ex:Jul 25, 2018)"
+    },
+    {
+      "id": 22,
+      "category": 2,
+      "name": "ec_woo_order_datetime",
+      "desc": "Get Order Datetime (ex:2018-07-25 05:48:07)"
+    },
+    {
+      "id": 23,
+      "category": 2,
+      "name": "ec_woo_order_fee",
+      "desc": "Get Order Fee"
+    },
+    {
+      "id": 24,
+      "category": 2,
+      "name": "ec_woo_order_id",
+      "desc": "Get Order ID"
+    },
+    {
+      "id": 25,
+      "category": 2,
+      "name": "ec_woo_order_link",
+      "desc": "Get Order Link"
+    },
+    {
+      "id": 26,
+      "category": 2,
+      "name": "ec_woo_order_payment_method",
+      "desc": "Get Order Payment Method"
+    },
+    {
+      "id": 27,
+      "category": 2,
+      "name": "ec_woo_order_payment_url",
+      "desc": "Get Order Payment URL"
+    },
+    {
+      "id": 28,
+      "category": 2,
+      "name": "ec_woo_order_refund",
+      "desc": "Get Order Refund"
+    },
+    {
+      "id": 29,
+      "category": 2,
+      "name": "ec_woo_order_sub_total",
+      "desc": "Get Order Sub Total"
+    },
+    {
+      "id": 30,
+      "category": 2,
+      "name": "ec_woo_order_shipping",
+      "desc": "Get Order Shipping"
+    },
+    {
+      "id": 31,
+      "category": 2,
+      "name": "ec_woo_order_time",
+      "desc": "Get Order Time (ex:05:48:07) "
+    },
+    {
+      "id": 32,
+      "category": 2,
+      "name": "ec_woo_order_total",
+      "desc": "Get Order Total"
+    },
+    {
+      "id": 33,
+      "category": 1,
+      "name": "ec_woo_payment_method",
+      "desc": "Get Payment method"
+    }
+    ,
+    {
+      "id": 34,
+      "category": 3,
+      "name": "ec_woo_shipping_address",
+      "desc": "Get Shipping Address"
+    },
+    {
+      "id": 35,
+      "category": 3,
+      "name": "ec_woo_shipping_address_1",
+      "desc": "Get Shipping Address 1"
+    },
+    {
+      "id": 36,
+      "category": 3,
+      "name": "ec_woo_shipping_address_2",
+      "desc": "Get Shipping Address 2"
+    },
+    {
+      "id": 37,
+      "category": 3,
+      "name": "ec_woo_shipping_city",
+      "desc": "Get Shipping City"
+    },
+    {
+      "id": 38,
+      "category": 3,
+      "name": "ec_woo_shipping_company",
+      "desc": "Get Shipping Company"
+    },
+    {
+      "id": 39,
+      "category": 3,
+      "name": "ec_woo_shipping_country",
+      "desc": "Get Shipping Country"
+    },
+    {
+      "id": 40,
+      "category": 3,
+      "name": "ec_woo_shipping_first_name",
+      "desc": "Get Shipping First Name"
+    },
+    {
+      "id": 41,
+      "category": 3,
+      "name": "ec_woo_shipping_last_name",
+      "desc": "Get Shipping Last Name"
+    },
+    {
+      "id": 42,
+      "category": 3,
+      "name": "ec_woo_shipping_method",
+      "desc": "Get Shipping Method"
+    },
+    {
+      "id": 43,
+      "category": 3,
+      "name": "ec_woo_shipping_postcode",
+      "desc": "Get Shipping Post Code"
+    },
+    {
+      "id": 44,
+      "category": 3,
+      "name": "ec_woo_shipping_state",
+      "desc": "Get Shipping State"
+    },
+    {
+      "id": 45,
+      "category": 1,
+      "name": "ec_woo_site_name",
+      "desc": "Get Website Name"
+    },
+    {
+      "id": 46,
+      "category": 1,
+      "name": "ec_woo_site_url",
+      "desc": "Get Website URL"
+    },
+    {
+      "id": 47,
+      "category": 2,
+      "name": "ec_woo_transaction_id",
+      "desc": "Get Transaction ID"
+    },
+    {
+      "id": 48,
+      "category": 5,
+      "name": "ec_woo_user_email",
+      "desc": "Get User Email"
+    },
+    {
+      "id": 49,
+      "category": 5,
+      "name": "ec_woo_user_name",
+      "desc": "Get User Name"
+    }
+    ,
+    {
+      "id": 50,
+      "category": 2,
+      "name": "ec_woo_view_order_url",
+      "desc": "Get View Order URL"
+    }
+    ,
+    {
+      "id": 51,
+      "category": 5,
+      "name": "ec_woo_user_id",
+      "desc": "Get User Id"
+    }
+    ,
+    {
+      "id": 52,
+      "category": 5,
+      "name": "ec_woo_user_activation_link",
+      "desc": "Get User Activation URL"
+    }
+    ,
+    {
+      "id": 53,
+      "category": 5,
+      "name": "ec_woo_user_password_reset_url",
+      "desc": "Get User Password Reset URL"
+    }
+    ,
+    {
+      "id": 54,
+      "category": 5,
+      "name": "ec_woo_user_account_url",
+      "desc": "Get User Account URL ( My account )"
+    }
+    ,
+    {
+      "id": 55,
+      "category": 5,
+      "name": "ec_woo_user_password",
+      "desc": "Get User Password"
+    },
+    {
+      "id": 56,
+      "category": 2,
+      "name": "ec_woo_items_6",
+      "desc": "Get Order Items with modern style 6"
+    }
+  ]
+}

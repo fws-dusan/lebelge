@@ -1,0 +1,4160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Ultimate Reports\n"
+"POT-Creation-Date: 2017-06-19 15:15+0530\n"
+"PO-Revision-Date: 2017-06-19 18:39+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woocommerce-ultimate-report.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:65
+#: includes/ic_commerce_ultimate_report_cross_tab.php:152
+#: includes/ic_commerce_ultimate_report_custom_report.php:49
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:41
+#: includes/ic_commerce_ultimate_report_projected_actual_sales.php:44
+#: includes/ic_commerce_ultimate_report_tax_report.php:60
+#: includes/ic_commerce_ultimate_report_variation.php:51
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Нямате достатъчно права за достъп до тази страница."
+
+#: includes/ic_commerce_ultimate_report_all_report.php:150
+#: includes/ic_commerce_ultimate_report_cross_tab.php:283
+#: includes/ic_commerce_ultimate_report_custom_report.php:304
+#: includes/ic_commerce_ultimate_report_group_simple_product_analysis.php:43
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:44
+#: includes/ic_commerce_ultimate_report_product_analysis.php:41
+#: includes/ic_commerce_ultimate_report_projected_actual_sales.php:92
+#: includes/ic_commerce_ultimate_report_stock_list.php:74
+#: includes/ic_commerce_ultimate_report_tax_report.php:148
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:38
+#: includes/ic_commerce_ultimate_report_variation.php:145
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:86
+msgid "Custom Search"
+msgstr "Персонализирано търсене"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:163
+#: includes/ic_commerce_ultimate_report_custom_report.php:313
+#: includes/ic_commerce_ultimate_report_tax_report.php:157
+#: includes/ic_commerce_ultimate_report_variation.php:154
+msgid "From Date:"
+msgstr "От дата:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:167
+#: includes/ic_commerce_ultimate_report_custom_report.php:317
+#: includes/ic_commerce_ultimate_report_tax_report.php:161
+#: includes/ic_commerce_ultimate_report_variation.php:158
+msgid "To Date:"
+msgstr "Към днешна дата:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:178
+#: includes/ic_commerce_ultimate_report_cross_tab.php:317
+#: includes/ic_commerce_ultimate_report_cross_tab.php:439
+#: includes/ic_commerce_ultimate_report_custom_report.php:337
+#: includes/ic_commerce_ultimate_report_stock_list.php:152
+#: includes/ic_commerce_ultimate_report_variation.php:166
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:164
+msgid "Category:"
+msgstr "Категория:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:187
+#: includes/ic_commerce_ultimate_report_cross_tab.php:399
+#: includes/ic_commerce_ultimate_report_cross_tab.php:472
+#: includes/ic_commerce_ultimate_report_custom_report.php:347
+#: includes/ic_commerce_ultimate_report_product_analysis.php:59
+#: includes/ic_commerce_ultimate_report_stock_list.php:143
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:56
+#: includes/ic_commerce_ultimate_report_variation.php:175
+msgid "Product:"
+msgstr "Продукт:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:203
+#: includes/ic_commerce_ultimate_report_cross_tab.php:373
+#: includes/ic_commerce_ultimate_report_cross_tab.php:448
+#: includes/ic_commerce_ultimate_report_custom_report.php:370
+#: includes/ic_commerce_ultimate_report_tax_report.php:226
+#: includes/ic_commerce_ultimate_report_variation.php:204
+msgid "Status:"
+msgstr "Състояние:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:240
+msgid "Parent Category:"
+msgstr "Родителска категория:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:254
+msgid "Refund Type:"
+msgstr "Вид на възстановяването:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:259
+msgid "Part Refund - Order status not refunded"
+msgstr "Възстановяване на части - статусът на поръчката не е възстановен"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:260
+msgid "Order Status Refunded"
+msgstr "Статус на поръчката възстановен"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:270
+msgid "Show Refund Note:"
+msgstr "Показване на възстановяването Забележка:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:275
+#: includes/ic_commerce_ultimate_report_variation.php:337
+msgid "Group By:"
+msgstr "Групирай по:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:280
+#: includes/ic_commerce_ultimate_report_columns.php:516
+msgid "Refund ID"
+msgstr "Идент. № на възстановяване на средства"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:281
+#: includes/ic_commerce_ultimate_report_columns.php:41
+#: includes/ic_commerce_ultimate_report_columns.php:60
+#: includes/ic_commerce_ultimate_report_columns.php:244
+#: includes/ic_commerce_ultimate_report_columns.php:271
+#: includes/ic_commerce_ultimate_report_columns.php:315
+#: includes/ic_commerce_ultimate_report_columns.php:415
+#: includes/ic_commerce_ultimate_report_columns.php:483
+#: includes/ic_commerce_ultimate_report_columns.php:520
+#: includes/ic_commerce_ultimate_report_custom_report.php:406
+msgid "Order ID"
+msgstr "Номер на поръчка *задължително"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:282
+msgid "Refunded"
+msgstr "Възстановени средства"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:283
+msgid "Daily"
+msgstr "Ежедневно"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:284
+msgid "Monthly"
+msgstr "Ежемесечно"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:285
+msgid "Yearly"
+msgstr "Ежегодно"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:298
+msgid "Coupon Codes:"
+msgstr "Кодове на купоните:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:307
+msgid "Discount Type:"
+msgstr "Тип на отстъпката"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:353
+#: includes/ic_commerce_ultimate_report_cross_tab.php:540
+#: includes/ic_commerce_ultimate_report_custom_report.php:472
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:654
+#: includes/ic_commerce_ultimate_report_tax_report.php:266
+#: includes/ic_commerce_ultimate_report_variation.php:368
+msgid "Reset"
+msgstr "Нулиране"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:355
+#: includes/ic_commerce_ultimate_report_cross_tab.php:541
+#: includes/ic_commerce_ultimate_report_custom_report.php:474
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:95
+#: includes/ic_commerce_ultimate_report_product_analysis.php:92
+#: includes/ic_commerce_ultimate_report_projected_actual_sales.php:129
+#: includes/ic_commerce_ultimate_report_tax_report.php:267
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:92
+#: includes/ic_commerce_ultimate_report_variation.php:370
+msgid "Search"
+msgstr "Потърси"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:400
+#: includes/ic_commerce_ultimate_report_cross_tab.php:555
+#: includes/ic_commerce_ultimate_report_custom_report.php:545
+#: includes/ic_commerce_ultimate_report_tax_report.php:280
+#: includes/ic_commerce_ultimate_report_variation.php:396
+msgid ""
+"In order to view the results please hit \"<strong>Search</strong>\" button."
+msgstr ""
+"За да видите резултатите, натиснете бутона \" <strong>Търсене</strong> \"."
+
+#: includes/ic_commerce_ultimate_report_all_report.php:423
+#: includes/ic_commerce_ultimate_report_all_report.php:2821
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3340
+#: includes/ic_commerce_ultimate_report_custom_report.php:575
+#: includes/ic_commerce_ultimate_report_custom_report.php:1364
+#: includes/ic_commerce_ultimate_report_tax_report.php:3774
+#: includes/ic_commerce_ultimate_report_variation.php:1530
+msgid "Export to CSV - Additional Information"
+msgstr "Експортиране в CSV - Допълнителна информация"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:431
+#: includes/ic_commerce_ultimate_report_custom_report.php:583
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:541
+msgid "Billing Information:"
+msgstr "Данни за плащане:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:435
+#: includes/ic_commerce_ultimate_report_custom_report.php:587
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:543
+msgid "Shipping Information:"
+msgstr "Информация за доставка"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:440
+#: includes/ic_commerce_ultimate_report_all_report.php:2821
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3340
+#: includes/ic_commerce_ultimate_report_custom_report.php:592
+#: includes/ic_commerce_ultimate_report_custom_report.php:1364
+#: includes/ic_commerce_ultimate_report_stock_list.php:998
+#: includes/ic_commerce_ultimate_report_tax_report.php:3774
+#: includes/ic_commerce_ultimate_report_variation.php:1530
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1151
+msgid "Export to CSV"
+msgstr "Експорт към CSV"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:456
+#: includes/ic_commerce_ultimate_report_all_report.php:492
+#: includes/ic_commerce_ultimate_report_cross_tab.php:580
+#: includes/ic_commerce_ultimate_report_cross_tab.php:635
+#: includes/ic_commerce_ultimate_report_custom_report.php:607
+#: includes/ic_commerce_ultimate_report_custom_report.php:661
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:539
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:619
+#: includes/ic_commerce_ultimate_report_stock_list.php:273
+#: includes/ic_commerce_ultimate_report_tax_report.php:309
+#: includes/ic_commerce_ultimate_report_tax_report.php:367
+#: includes/ic_commerce_ultimate_report_variation.php:428
+#: includes/ic_commerce_ultimate_report_variation.php:484
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:312
+msgid "Company Name:"
+msgstr "Име на фирма:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:460
+#: includes/ic_commerce_ultimate_report_all_report.php:496
+#: includes/ic_commerce_ultimate_report_cross_tab.php:584
+#: includes/ic_commerce_ultimate_report_cross_tab.php:639
+#: includes/ic_commerce_ultimate_report_custom_report.php:611
+#: includes/ic_commerce_ultimate_report_custom_report.php:665
+#: includes/ic_commerce_ultimate_report_fuctions.php:2560
+#: includes/ic_commerce_ultimate_report_stock_list.php:277
+#: includes/ic_commerce_ultimate_report_tax_report.php:313
+#: includes/ic_commerce_ultimate_report_tax_report.php:371
+#: includes/ic_commerce_ultimate_report_variation.php:432
+#: includes/ic_commerce_ultimate_report_variation.php:488
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:316
+msgid "Report Title:"
+msgstr "Заглавие на отчета:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:465
+#: includes/ic_commerce_ultimate_report_cross_tab.php:644
+#: includes/ic_commerce_ultimate_report_custom_report.php:670
+#: includes/ic_commerce_ultimate_report_tax_report.php:376
+#: includes/ic_commerce_ultimate_report_variation.php:493
+msgid "Print Logo:"
+msgstr "Печат на лого:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:470
+#: includes/ic_commerce_ultimate_report_cross_tab.php:650
+#: includes/ic_commerce_ultimate_report_custom_report.php:675
+#: includes/ic_commerce_ultimate_report_tax_report.php:381
+#: includes/ic_commerce_ultimate_report_variation.php:498
+msgid "Print Date:"
+msgstr "Дата на печат:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:475
+#: includes/ic_commerce_ultimate_report_all_report.php:2824
+#: includes/ic_commerce_ultimate_report_all_report.php:2877
+#: includes/ic_commerce_ultimate_report_cross_tab.php:655
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3343
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3393
+#: includes/ic_commerce_ultimate_report_custom_report.php:680
+#: includes/ic_commerce_ultimate_report_custom_report.php:1367
+#: includes/ic_commerce_ultimate_report_custom_report.php:1403
+#: includes/ic_commerce_ultimate_report_tax_report.php:385
+#: includes/ic_commerce_ultimate_report_tax_report.php:3777
+#: includes/ic_commerce_ultimate_report_tax_report.php:3820
+#: includes/ic_commerce_ultimate_report_variation.php:503
+#: includes/ic_commerce_ultimate_report_variation.php:1533
+#: includes/ic_commerce_ultimate_report_variation.php:1582
+msgid "Print"
+msgstr "Отпечатай"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:486
+#: includes/ic_commerce_ultimate_report_all_report.php:2823
+#: includes/ic_commerce_ultimate_report_cross_tab.php:574
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3342
+#: includes/ic_commerce_ultimate_report_custom_report.php:601
+#: includes/ic_commerce_ultimate_report_custom_report.php:1366
+#: includes/ic_commerce_ultimate_report_stock_list.php:267
+#: includes/ic_commerce_ultimate_report_stock_list.php:999
+#: includes/ic_commerce_ultimate_report_tax_report.php:303
+#: includes/ic_commerce_ultimate_report_tax_report.php:3776
+#: includes/ic_commerce_ultimate_report_variation.php:422
+#: includes/ic_commerce_ultimate_report_variation.php:1532
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:306
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1152
+msgid "Export to PDF"
+msgstr "Експортиране в PDF"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:501
+#: includes/ic_commerce_ultimate_report_cross_tab.php:589
+#: includes/ic_commerce_ultimate_report_custom_report.php:616
+#: includes/ic_commerce_ultimate_report_stock_list.php:282
+#: includes/ic_commerce_ultimate_report_tax_report.php:318
+#: includes/ic_commerce_ultimate_report_variation.php:437
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:321
+msgid "Show Logo:"
+msgstr "Покажи лого:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:506
+#: includes/ic_commerce_ultimate_report_cross_tab.php:594
+#: includes/ic_commerce_ultimate_report_custom_report.php:621
+#: includes/ic_commerce_ultimate_report_stock_list.php:287
+#: includes/ic_commerce_ultimate_report_tax_report.php:323
+#: includes/ic_commerce_ultimate_report_variation.php:442
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:326
+msgid "Show Date:"
+msgstr "Показване на Датата:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:511
+#: includes/ic_commerce_ultimate_report_cross_tab.php:599
+#: includes/ic_commerce_ultimate_report_custom_report.php:626
+#: includes/ic_commerce_ultimate_report_stock_list.php:291
+#: includes/ic_commerce_ultimate_report_tax_report.php:327
+#: includes/ic_commerce_ultimate_report_variation.php:448
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:330
+msgid "PDF Orientation:"
+msgstr "PDF Ориентация:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:513
+#: includes/ic_commerce_ultimate_report_cross_tab.php:601
+#: includes/ic_commerce_ultimate_report_custom_report.php:628
+#: includes/ic_commerce_ultimate_report_stock_list.php:293
+#: includes/ic_commerce_ultimate_report_tax_report.php:329
+#: includes/ic_commerce_ultimate_report_variation.php:450
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:332
+msgid "Portrait"
+msgstr "Портрет"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:514
+#: includes/ic_commerce_ultimate_report_cross_tab.php:602
+#: includes/ic_commerce_ultimate_report_custom_report.php:629
+#: includes/ic_commerce_ultimate_report_stock_list.php:294
+#: includes/ic_commerce_ultimate_report_tax_report.php:330
+#: includes/ic_commerce_ultimate_report_variation.php:451
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:333
+msgid "Landscape"
+msgstr "Пейзаж"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:519
+#: includes/ic_commerce_ultimate_report_cross_tab.php:607
+#: includes/ic_commerce_ultimate_report_custom_report.php:634
+#: includes/ic_commerce_ultimate_report_stock_list.php:299
+#: includes/ic_commerce_ultimate_report_tax_report.php:335
+#: includes/ic_commerce_ultimate_report_variation.php:456
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:338
+msgid "Paper Size:"
+msgstr "Размер на хартията:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:528
+#: includes/ic_commerce_ultimate_report_cross_tab.php:616
+#: includes/ic_commerce_ultimate_report_custom_report.php:643
+#: includes/ic_commerce_ultimate_report_stock_list.php:308
+#: includes/ic_commerce_ultimate_report_tax_report.php:344
+#: includes/ic_commerce_ultimate_report_variation.php:465
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:347
+msgid "Export to PDF:"
+msgstr "Експортиране в PDF:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:807
+msgid ""
+"Some thing going wrong on creating result data in \"add_filter\" or "
+"\"create_grid_items\""
+msgstr ""
+"Някои неща се объркват при създаването на данни за резултатите в \"add_filter"
+"\" или \"create_grid_items\""
+
+#: includes/ic_commerce_ultimate_report_all_report.php:1073
+msgid "No Orders found"
+msgstr "Няма намерени поръчки"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:1226
+#: includes/ic_commerce_ultimate_report_variation.php:1019
+#: includes/ic_commerce_ultimate_report_variation.php:1371
+msgid "Not Set"
+msgstr "Не е зададено"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:2745
+#, php-format
+msgid "Result: <strong>%s/%s</strong>"
+msgstr "Резултат: <strong>%s /%s</strong>"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:2748
+#, php-format
+msgid ", Amount: <strong>%s</strong><br />"
+msgstr ", Сума: <strong>%s</strong> <br />"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:2822
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3341
+#: includes/ic_commerce_ultimate_report_custom_report.php:1365
+#: includes/ic_commerce_ultimate_report_tax_report.php:3775
+#: includes/ic_commerce_ultimate_report_variation.php:1531
+msgid "Export to Excel"
+msgstr "Експортиране в Excel"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:2822
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3341
+#: includes/ic_commerce_ultimate_report_custom_report.php:1365
+#: includes/ic_commerce_ultimate_report_tax_report.php:3775
+#: includes/ic_commerce_ultimate_report_variation.php:1531
+msgid "Export to Excel - Additional Information"
+msgstr "Експортиране в Excel - Допълнителна информация"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:2849
+#: includes/ic_commerce_ultimate_report_all_report.php:2876
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3370
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3392
+#: includes/ic_commerce_ultimate_report_custom_report.php:1390
+#: includes/ic_commerce_ultimate_report_custom_report.php:1402
+#: includes/ic_commerce_ultimate_report_stock_list.php:1024
+#: includes/ic_commerce_ultimate_report_tax_report.php:3805
+#: includes/ic_commerce_ultimate_report_tax_report.php:3819
+#: includes/ic_commerce_ultimate_report_variation.php:1558
+#: includes/ic_commerce_ultimate_report_variation.php:1581
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1172
+msgid "Back to Previous"
+msgstr "Назад към предишния"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:2900
+#: includes/ic_commerce_ultimate_report_custom_report.php:2228
+#: includes/ic_commerce_ultimate_report_custom_report.php:2267
+#: includes/ic_commerce_ultimate_report_variation.php:1602
+msgid "Something going wrong, contact to developer"
+msgstr "Нещо се обърка, свържете се с разработчика"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:2923
+msgid "Purchased product not found in selected categroy"
+msgstr "Закупеният продукт не е намерен в избраната категория"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:2932
+msgid "Some thing going wrong, contact to developer"
+msgstr "Едно нещо се обърка, свържете се с разработчика"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:3550
+#: includes/ic_commerce_ultimate_report_custom_report.php:2868
+#: includes/ic_commerce_ultimate_report_fuctions.php:2564
+#: includes/ic_commerce_ultimate_report_stock_list.php:1349
+#: includes/ic_commerce_ultimate_report_variation.php:2108
+msgid "Date:"
+msgstr "Дата:"
+
+#: includes/ic_commerce_ultimate_report_all_report.php:3597
+#: includes/ic_commerce_ultimate_report_fuctions.php:2612
+msgid "Summary Total:"
+msgstr "Обобщение Общо:"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:39
+msgid "Product Summary"
+msgstr "Обобщение на продуктите"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:40
+#: includes/ic_commerce_ultimate_report_dashboard.php:860
+#: includes/ic_commerce_ultimate_report_dashboard.php:1122
+msgid "Order Summary"
+msgstr "Резюме на поръчката"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:41
+msgid "Customer Summary"
+msgstr "Резюме на клиента"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:42
+msgid "Stock Report"
+msgstr "Доклад за запасите"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:43
+msgid "Profit/Cost of Goods"
+msgstr "Печалба / Стойност на стоките"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:44
+#: includes/ic_commerce_ultimate_report_dashboard.php:335
+msgid "Other Summary"
+msgstr "Друго резюме"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:66
+#: includes/ic_commerce_ultimate_report_product_analysis.php:256
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:255
+msgid "Product"
+msgstr "Продукт:"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:67
+#: includes/ic_commerce_ultimate_report_columns.php:335
+#: includes/ic_commerce_ultimate_report_product_analysis.php:255
+#: includes/ic_commerce_ultimate_report_stock_list.php:1410
+#: includes/ic_commerce_ultimate_report_stock_list.php:1418
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:254
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1411
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1418
+msgid "Category"
+msgstr "Категория:"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:68
+msgid "Tag"
+msgstr "кги"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:71
+msgid "Recent Order"
+msgstr "Последна поръчка"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:72
+msgid "Payment Gateway"
+msgstr "Портал за плащане"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:73
+msgid "Coupon"
+msgstr "Купон"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:74
+#: includes/ic_commerce_ultimate_report_columns.php:399
+#: includes/ic_commerce_ultimate_report_columns.php:485
+#: includes/ic_commerce_ultimate_report_columns.php:522
+#: includes/ic_commerce_ultimate_report_dashboard.php:2222
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:927
+msgid "Order Status"
+msgstr "Статус на поръчка"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:75
+msgid "Refund Details"
+msgstr "Данни за възстановяването"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:76
+msgid "Tax Report"
+msgstr "Данъчен отчет"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:77
+msgid "Monthly Sales Report"
+msgstr "Месечен отчет за продажбите"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:80
+msgid "Customer"
+msgstr "Клиент"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:81
+#: includes/ic_commerce_ultimate_report_columns.php:445
+#: includes/ic_commerce_ultimate_report_custom_report.php:2307
+#: includes/ic_commerce_ultimate_report_customization.php:1521
+#: includes/ic_commerce_ultimate_report_customization.php:1534
+#: includes/ic_commerce_ultimate_report_dashboard.php:2448
+msgid "Billing Country"
+msgstr "Държава за фактуриране"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:82
+#: includes/ic_commerce_ultimate_report_custom_report.php:2308
+#: includes/ic_commerce_ultimate_report_customization.php:1520
+#: includes/ic_commerce_ultimate_report_customization.php:1533
+#: includes/ic_commerce_ultimate_report_dashboard.php:2575
+msgid "Billing State"
+msgstr "Държава на фактуриране"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:83
+#: includes/ic_commerce_ultimate_report_custom_report.php:2305
+#: includes/ic_commerce_ultimate_report_customization.php:1532
+#: includes/ic_commerce_ultimate_report_customization.php:1600
+msgid "Billing City"
+msgstr "Град за фактуриране"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:84
+msgid "Customer Wise Products"
+msgstr "Потребителски продукти"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:87
+msgid "Zero Level Stock"
+msgstr "Склад за нулево ниво"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:88
+msgid "Minimum Level Stock"
+msgstr "Склад за минимални нива"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:89
+msgid "Most Stocked"
+msgstr "Най-зареждани"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:90
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:91
+msgid "Summary Stock Planner"
+msgstr "Резюме на борсовия план"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:92
+msgid "Stock Valuation"
+msgstr "Оценка на запасите"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:95
+msgid "Product Cost of Goods"
+msgstr "Стойност на продукцията"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:96
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:115
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:116
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:117
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:166
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:167
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:168
+msgid "Monthly Profit Center"
+msgstr "Месечен център за печалби"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:99
+msgid "Coupon Discount Type Wise Reporting"
+msgstr "Отстъпка тип купон"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:100
+msgid "New/Repeat Customer Analysis"
+msgstr "Нов / повторен анализ на клиентите"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:101
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:151
+msgid "Frequently Order Customer"
+msgstr "Често поръчвайте клиент"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:102
+msgid "Customer In Price Point"
+msgstr "Клиент в ценова точка"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:103
+msgid "Customer/Non Purchase"
+msgstr "Клиент / Незакупуване"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:137
+msgid "Other Reports"
+msgstr "Други отчети"
+
+#: includes/ic_commerce_ultimate_report_all_report_tabs.php:140
+msgid "Coupon Discount Reporting"
+msgstr "Отчет за отстъпката на купоните"
+
+#: includes/ic_commerce_ultimate_report_cog.php:156
+#: includes/ic_commerce_ultimate_report_cog.php:262
+#: includes/ic_commerce_ultimate_report_cog.php:325
+#: includes/ic_commerce_ultimate_report_cog.php:358
+#: includes/ic_commerce_ultimate_report_cog.php:445
+msgid "Cost Of Goods"
+msgstr "Разходи за стоки"
+
+#: includes/ic_commerce_ultimate_report_cog.php:159
+#: includes/ic_commerce_ultimate_report_cog.php:789
+msgid "Total Cost Of Goods"
+msgstr "Общо разходи за стоки"
+
+#: includes/ic_commerce_ultimate_report_cog.php:194
+msgid "COGs"
+msgstr "Зъби"
+
+#: includes/ic_commerce_ultimate_report_cog.php:195
+msgid "Total COGs"
+msgstr "Общо COG"
+
+#: includes/ic_commerce_ultimate_report_cog.php:263
+#: includes/ic_commerce_ultimate_report_cog.php:326
+#: includes/ic_commerce_ultimate_report_cog.php:359
+#: includes/ic_commerce_ultimate_report_cog.php:462
+msgid "Enter Cost Of Goods"
+msgstr "Въведете цената на стоките"
+
+#: includes/ic_commerce_ultimate_report_cog.php:264
+msgid "Enter the custom value here."
+msgstr "Въведете персонализираната стойност тук."
+
+#: includes/ic_commerce_ultimate_report_cog.php:291
+msgid "Default Cost Of Goods"
+msgstr "Стойност по подразбиране за стоки"
+
+#: includes/ic_commerce_ultimate_report_cog.php:292
+msgid "Enter default cost of goods"
+msgstr "Въведете стандартната цена на стоките"
+
+#: includes/ic_commerce_ultimate_report_cog.php:293
+msgid "Enter default the custom value here."
+msgstr "Въведете по подразбиране персонализираната стойност тук."
+
+#: includes/ic_commerce_ultimate_report_cog.php:327
+#: includes/ic_commerce_ultimate_report_cog.php:360
+msgid "Enter the Cost Of Goods."
+msgstr "Въведете цената на стоките."
+
+#: includes/ic_commerce_ultimate_report_cog.php:624
+msgid "Cost of Goods:"
+msgstr "Стойност на стоките:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:625
+msgid "Enable Cost of Goods:"
+msgstr "Активиране на разходите за стоки:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:626
+msgid "Enable Reporting:"
+msgstr "Активиране на отчитането:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:627
+msgid "Enable Dashboard Summary:"
+msgstr "Активиране на резюме на таблото за управление:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:628
+msgid "Enable Reporting Set Cogs:"
+msgstr "Активиране на комплекта за отчитане:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:628
+msgid "Show items with Cost of Goods Only."
+msgstr "Показване на елементи само с разходи за стоки."
+
+#: includes/ic_commerce_ultimate_report_cog.php:629
+msgid "Dashboard Monthly Profit:"
+msgstr "Табло Месечна печалба:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:630
+msgid "Dashboard Top Profit Product:"
+msgstr "Табло за топ печалба Продукт:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:796
+#: includes/ic_commerce_ultimate_report_cog.php:1028
+#: includes/ic_commerce_ultimate_report_cog.php:1060
+#: includes/ic_commerce_ultimate_report_cog.php:1645
+#: includes/ic_commerce_ultimate_report_cog.php:1705
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:320
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:370
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:375
+#: includes/ic_commerce_ultimate_report_summary_sales_reports.php:86
+#: includes/ic_commerce_ultimate_report_summary_sales_reports.php:105
+msgid "Sales Amount"
+msgstr "Размер на продажбите"
+
+#: includes/ic_commerce_ultimate_report_cog.php:803
+msgid "Total Profit/Margin"
+msgstr "Обща печалба / маржин"
+
+#: includes/ic_commerce_ultimate_report_cog.php:809
+msgid "Profit Percentage"
+msgstr "Процент печалба"
+
+#: includes/ic_commerce_ultimate_report_cog.php:817
+msgid "Profit Summary"
+msgstr "Резюме на печалбата"
+
+#: includes/ic_commerce_ultimate_report_cog.php:899
+#: includes/ic_commerce_ultimate_report_dashboard.php:350
+#: includes/ic_commerce_ultimate_report_dashboard.php:366
+#: includes/ic_commerce_ultimate_report_dashboard.php:380
+#: includes/ic_commerce_ultimate_report_dashboard.php:381
+#: includes/ic_commerce_ultimate_report_dashboard.php:396
+#: includes/ic_commerce_ultimate_report_dashboard.php:397
+#: includes/ic_commerce_ultimate_report_dashboard.php:413
+#: includes/ic_commerce_ultimate_report_dashboard.php:414
+#: includes/ic_commerce_ultimate_report_dashboard.php:431
+#: includes/ic_commerce_ultimate_report_dashboard.php:432
+#: includes/ic_commerce_ultimate_report_dashboard.php:449
+#: includes/ic_commerce_ultimate_report_dashboard.php:515
+#: includes/ic_commerce_ultimate_report_dashboard.php:516
+#: includes/ic_commerce_ultimate_report_dashboard.php:531
+#: includes/ic_commerce_ultimate_report_dashboard.php:532
+#: includes/ic_commerce_ultimate_report_dashboard.php:546
+#: includes/ic_commerce_ultimate_report_dashboard.php:561
+#: includes/ic_commerce_ultimate_report_dashboard.php:562
+#: includes/ic_commerce_ultimate_report_dashboard.php:576
+#: includes/ic_commerce_ultimate_report_dashboard.php:577
+#: includes/ic_commerce_ultimate_report_dashboard.php:592
+#: includes/ic_commerce_ultimate_report_dashboard.php:605
+#: includes/ic_commerce_ultimate_report_dashboard.php:606
+#: includes/ic_commerce_ultimate_report_dashboard.php:619
+#: includes/ic_commerce_ultimate_report_dashboard.php:631
+#: includes/ic_commerce_ultimate_report_dashboard.php:655
+#: includes/ic_commerce_ultimate_report_dashboard.php:667
+#: includes/ic_commerce_ultimate_report_dashboard.php:680
+#: includes/ic_commerce_ultimate_report_dashboard.php:681
+#: includes/ic_commerce_ultimate_report_dashboard.php:696
+#: includes/ic_commerce_ultimate_report_dashboard.php:712
+#: includes/ic_commerce_ultimate_report_dashboard.php:713
+#: includes/ic_commerce_ultimate_report_dashboard.php:728
+#: includes/ic_commerce_ultimate_report_dashboard.php:729
+#: includes/ic_commerce_ultimate_report_dashboard.php:743
+#: includes/ic_commerce_ultimate_report_dashboard.php:758
+#: includes/ic_commerce_ultimate_report_dashboard.php:772
+msgid "0"
+msgstr "0"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1009
+#: includes/ic_commerce_ultimate_report_stock_list.php:167
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:194
+msgid "Product Type:"
+msgstr "Вид на възстановяването:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1013
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:138
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:147
+msgid "All"
+msgstr "Всички"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1014
+msgid "Simple Product"
+msgstr "Опростен продукт"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1015
+msgid "Variable Product"
+msgstr "Променлив продукт"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1016
+msgid "Variation Product"
+msgstr "Продукт на вариация"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1024
+#: includes/ic_commerce_ultimate_report_cog.php:1056
+#: includes/ic_commerce_ultimate_report_custom_report.php:402
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:65
+#: includes/ic_commerce_ultimate_report_product_analysis.php:68
+#: includes/ic_commerce_ultimate_report_stock_list.php:194
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:168
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:69
+#: includes/ic_commerce_ultimate_report_variation.php:325
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:218
+msgid "Order By:"
+msgstr "Подреждане по:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1029
+#: includes/ic_commerce_ultimate_report_cog.php:1061
+#: includes/ic_commerce_ultimate_report_cog.php:1644
+#: includes/ic_commerce_ultimate_report_cog.php:1675
+#: includes/ic_commerce_ultimate_report_cog.php:1704
+#: includes/ic_commerce_ultimate_report_cog.php:1721
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:81
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:91
+msgid "Total Cost of Goods"
+msgstr "Общо разходи за стоки"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1030
+#: includes/ic_commerce_ultimate_report_cog.php:1062
+#: includes/ic_commerce_ultimate_report_cog.php:1646
+#: includes/ic_commerce_ultimate_report_cog.php:1677
+#: includes/ic_commerce_ultimate_report_cog.php:1706
+#: includes/ic_commerce_ultimate_report_cog.php:1722
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:82
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:92
+msgid "Margin/Profit"
+msgstr "Margin / Печалба"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1035
+#: includes/ic_commerce_ultimate_report_cog.php:1068
+#: includes/ic_commerce_ultimate_report_custom_report.php:410
+#: includes/ic_commerce_ultimate_report_stock_list.php:199
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:185
+#: includes/ic_commerce_ultimate_report_variation.php:330
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:229
+msgid "Ascending"
+msgstr "Възходящо"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1035
+#: includes/ic_commerce_ultimate_report_cog.php:1068
+#: includes/ic_commerce_ultimate_report_custom_report.php:410
+#: includes/ic_commerce_ultimate_report_stock_list.php:199
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:185
+#: includes/ic_commerce_ultimate_report_variation.php:330
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:229
+msgid "Descending"
+msgstr "Низходящо"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1045
+msgid "Show items with Cost of Goods Only:"
+msgstr "Показване на елементи само с разходи за стоки."
+
+#: includes/ic_commerce_ultimate_report_cog.php:1063
+#: includes/ic_commerce_ultimate_report_cog.php:1672
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:79
+#: includes/ic_commerce_ultimate_report_summary_sales_reports.php:83
+msgid "Month Name"
+msgstr "Име на месец"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1636
+#: includes/ic_commerce_ultimate_report_cog_crosstab.php:149
+#: includes/ic_commerce_ultimate_report_columns.php:110
+#: includes/ic_commerce_ultimate_report_columns.php:130
+#: includes/ic_commerce_ultimate_report_columns.php:144
+#: includes/ic_commerce_ultimate_report_columns.php:368
+#: includes/ic_commerce_ultimate_report_cross_tab.php:838
+#: includes/ic_commerce_ultimate_report_cross_tab.php:860
+#: includes/ic_commerce_ultimate_report_customization.php:1511
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:117
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:113
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:124
+msgid "Product SKU"
+msgstr "Продукт SKU:"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1637
+#: includes/ic_commerce_ultimate_report_cog.php:1661
+#: includes/ic_commerce_ultimate_report_cog_crosstab.php:149
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:88
+#: includes/ic_commerce_ultimate_report_columns.php:111
+#: includes/ic_commerce_ultimate_report_columns.php:131
+#: includes/ic_commerce_ultimate_report_columns.php:145
+#: includes/ic_commerce_ultimate_report_columns.php:369
+#: includes/ic_commerce_ultimate_report_cross_tab.php:838
+#: includes/ic_commerce_ultimate_report_cross_tab.php:853
+#: includes/ic_commerce_ultimate_report_cross_tab.php:860
+#: includes/ic_commerce_ultimate_report_customization.php:1512
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:69
+#: includes/ic_commerce_ultimate_report_product_analysis.php:72
+#: includes/ic_commerce_ultimate_report_stock_list.php:197
+#: includes/ic_commerce_ultimate_report_stock_list.php:1409
+#: includes/ic_commerce_ultimate_report_stock_list.php:1416
+#: includes/ic_commerce_ultimate_report_summary_coupon_discount_type.php:66
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:118
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:114
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:125
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:173
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:73
+#: includes/ic_commerce_ultimate_report_variation.php:328
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:222
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1410
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1417
+msgid "Product Name"
+msgstr "Име на продукта"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1638
+msgid "Varation"
+msgstr "вариация"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1639
+msgid "order date"
+msgstr "Дата на поръчка"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1640
+#: includes/ic_commerce_ultimate_report_cog.php:1703
+msgid "Sales Qty"
+msgstr "Количество продадени"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1641
+msgid "Avg. Prod. Rate"
+msgstr "Ср. Prod. скорост"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1642
+msgid "Avg. COGs"
+msgstr "Ср. Зъби"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1643
+msgid "Avg. Sales Rate"
+msgstr "Средна ставка на продажбите"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1647
+#: includes/ic_commerce_ultimate_report_cog.php:1707
+msgid "Profit %"
+msgstr "Печалба%"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1648
+#: includes/ic_commerce_ultimate_report_columns.php:119
+#: includes/ic_commerce_ultimate_report_columns.php:134
+#: includes/ic_commerce_ultimate_report_columns.php:147
+#: includes/ic_commerce_ultimate_report_columns.php:372
+msgid "Current Stock"
+msgstr "Текущ запас"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1649
+#: includes/ic_commerce_ultimate_report_stock_list.php:573
+#: includes/ic_commerce_ultimate_report_variation.php:1018
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:731
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:913
+msgid "Edit"
+msgstr "Редактирай"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1662
+msgid "In Stock"
+msgstr "В наличност"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1663
+msgid "Cost of Good"
+msgstr "Цена на доброто"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1664
+msgid "Sales Price"
+msgstr "Продажна цена"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1665
+msgid "Valuation at Cost"
+msgstr "Оценка на стойността"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1666
+msgid "Valuation at Retail"
+msgstr "Оценка на търговията на дребно"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1673
+#: includes/ic_commerce_ultimate_report_columns.php:510
+msgid "Year"
+msgstr "Година"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1674
+#: includes/ic_commerce_ultimate_report_cog.php:1720
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:80
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:90
+msgid "Quantity Sold"
+msgstr "Продаденото количество"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1676
+#: includes/ic_commerce_ultimate_report_cog.php:1723
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:83
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:93
+msgid "Sales Amount\t"
+msgstr "Размер на продажбите"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1702
+#: includes/ic_commerce_ultimate_report_columns.php:174
+#: includes/ic_commerce_ultimate_report_columns.php:196
+#: includes/ic_commerce_ultimate_report_columns.php:567
+#: includes/ic_commerce_ultimate_report_customization.php:1577
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:399
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:136
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:149
+msgid "Product Count"
+msgstr "Брой на продуктите"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1712
+#: includes/ic_commerce_ultimate_report_stock_list.php:197
+#: includes/ic_commerce_ultimate_report_stock_list.php:1411
+#: includes/ic_commerce_ultimate_report_stock_list.php:1421
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1435
+msgid "Stock"
+msgstr "Наличност"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1713
+msgid "Valuation"
+msgstr "Оценка"
+
+#: includes/ic_commerce_ultimate_report_cog.php:1714
+msgid "Return"
+msgstr "Връщане"
+
+#: includes/ic_commerce_ultimate_report_cog_crosstab.php:59
+msgid "Product Profit/Month"
+msgstr "Продукт печалба/месец"
+
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:89
+#: includes/ic_commerce_ultimate_report_columns.php:338
+#: includes/ic_commerce_ultimate_report_columns.php:455
+#: includes/ic_commerce_ultimate_report_product_analysis.php:254
+#: includes/ic_commerce_ultimate_report_stock_list.php:1408
+#: includes/ic_commerce_ultimate_report_stock_list.php:1415
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:253
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1409
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1416
+msgid "SKU"
+msgstr "Код"
+
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:97
+#: includes/ic_commerce_ultimate_report_dashboard.php:2240
+#: includes/ic_commerce_ultimate_report_dashboard.php:2358
+#: includes/ic_commerce_ultimate_report_dashboard.php:2466
+#: includes/ic_commerce_ultimate_report_dashboard.php:2595
+#: includes/ic_commerce_ultimate_report_dashboard.php:2700
+#: includes/ic_commerce_ultimate_report_dashboard.php:2937
+#: includes/ic_commerce_ultimate_report_dashboard.php:3089
+#: includes/ic_commerce_ultimate_report_dashboard.php:3198
+#: includes/ic_commerce_ultimate_report_dashboard.php:3324
+msgid "View All"
+msgstr "Виж всички"
+
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:111
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:162
+#, php-format
+msgid "Monthly Profit Center (Last %s Month)"
+msgstr "Месечна печалба център (%s през последния месец)"
+
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:136
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:185
+#, php-format
+msgid "Top %s Profit Product"
+msgstr "Топ %s печалба продукт"
+
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:140
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:141
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:142
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:189
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:190
+#: includes/ic_commerce_ultimate_report_cog_dashboard.php:191
+msgid "Top Profit Product"
+msgstr "Топ печалба продукт"
+
+#: includes/ic_commerce_ultimate_report_columns.php:42
+#: includes/ic_commerce_ultimate_report_columns.php:61
+#: includes/ic_commerce_ultimate_report_columns.php:245
+#: includes/ic_commerce_ultimate_report_columns.php:272
+#: includes/ic_commerce_ultimate_report_columns.php:316
+#: includes/ic_commerce_ultimate_report_columns.php:416
+#: includes/ic_commerce_ultimate_report_custom_report.php:406
+msgid "Name"
+msgstr "Име"
+
+#: includes/ic_commerce_ultimate_report_columns.php:43
+#: includes/ic_commerce_ultimate_report_columns.php:62
+#: includes/ic_commerce_ultimate_report_columns.php:246
+#: includes/ic_commerce_ultimate_report_columns.php:273
+#: includes/ic_commerce_ultimate_report_columns.php:317
+#: includes/ic_commerce_ultimate_report_columns.php:417
+#: includes/ic_commerce_ultimate_report_custom_report.php:406
+#: includes/ic_commerce_ultimate_report_customization.php:1510
+msgid "Email"
+msgstr "Имейл"
+
+#: includes/ic_commerce_ultimate_report_columns.php:44
+#: includes/ic_commerce_ultimate_report_columns.php:63
+#: includes/ic_commerce_ultimate_report_columns.php:248
+#: includes/ic_commerce_ultimate_report_columns.php:275
+#: includes/ic_commerce_ultimate_report_columns.php:319
+#: includes/ic_commerce_ultimate_report_columns.php:418
+#: includes/ic_commerce_ultimate_report_columns.php:458
+#: includes/ic_commerce_ultimate_report_custom_report.php:406
+msgid "Date"
+msgstr "Дата:"
+
+#: includes/ic_commerce_ultimate_report_columns.php:46
+#: includes/ic_commerce_ultimate_report_columns.php:64
+#: includes/ic_commerce_ultimate_report_columns.php:249
+#: includes/ic_commerce_ultimate_report_columns.php:276
+#: includes/ic_commerce_ultimate_report_columns.php:327
+#: includes/ic_commerce_ultimate_report_columns.php:329
+#: includes/ic_commerce_ultimate_report_columns.php:419
+#: includes/ic_commerce_ultimate_report_custom_report.php:406
+msgid "Status"
+msgstr "Статус"
+
+#: includes/ic_commerce_ultimate_report_columns.php:48
+#: includes/ic_commerce_ultimate_report_columns.php:66
+#: includes/ic_commerce_ultimate_report_columns.php:255
+#: includes/ic_commerce_ultimate_report_columns.php:282
+#: includes/ic_commerce_ultimate_report_columns.php:423
+msgid "Items"
+msgstr "Продукти"
+
+#: includes/ic_commerce_ultimate_report_columns.php:49
+#: includes/ic_commerce_ultimate_report_columns.php:67
+#: includes/ic_commerce_ultimate_report_columns.php:206
+#: includes/ic_commerce_ultimate_report_columns.php:256
+#: includes/ic_commerce_ultimate_report_columns.php:283
+#: includes/ic_commerce_ultimate_report_columns.php:424
+#: includes/ic_commerce_ultimate_report_columns.php:614
+#: includes/ic_commerce_ultimate_report_customization.php:1500
+#: includes/ic_commerce_ultimate_report_customization.php:1560
+#: includes/ic_commerce_ultimate_report_tax_report.php:467
+#: includes/ic_commerce_ultimate_report_tax_report.php:484
+#: includes/ic_commerce_ultimate_report_tax_report.php:502
+#: includes/ic_commerce_ultimate_report_tax_report.php:519
+#: includes/ic_commerce_ultimate_report_tax_report.php:535
+#: includes/ic_commerce_ultimate_report_tax_report.php:549
+#: includes/ic_commerce_ultimate_report_tax_report.php:564
+#: includes/ic_commerce_ultimate_report_tax_report.php:578
+#: includes/ic_commerce_ultimate_report_tax_report.php:591
+msgid "Gross Amt."
+msgstr "Брутна сума"
+
+#: includes/ic_commerce_ultimate_report_columns.php:50
+#: includes/ic_commerce_ultimate_report_columns.php:68
+#: includes/ic_commerce_ultimate_report_columns.php:209
+#: includes/ic_commerce_ultimate_report_columns.php:259
+#: includes/ic_commerce_ultimate_report_columns.php:286
+#: includes/ic_commerce_ultimate_report_columns.php:427
+#: includes/ic_commerce_ultimate_report_columns.php:617
+msgid "Discount Amt."
+msgstr "Отстъпка Amt."
+
+#: includes/ic_commerce_ultimate_report_columns.php:51
+#: includes/ic_commerce_ultimate_report_columns.php:69
+#: includes/ic_commerce_ultimate_report_columns.php:210
+#: includes/ic_commerce_ultimate_report_columns.php:260
+#: includes/ic_commerce_ultimate_report_columns.php:287
+#: includes/ic_commerce_ultimate_report_columns.php:428
+#: includes/ic_commerce_ultimate_report_columns.php:618
+#: includes/ic_commerce_ultimate_report_customization.php:1499
+#: includes/ic_commerce_ultimate_report_customization.php:1559
+#: includes/ic_commerce_ultimate_report_tax_report.php:466
+#: includes/ic_commerce_ultimate_report_tax_report.php:483
+#: includes/ic_commerce_ultimate_report_tax_report.php:501
+#: includes/ic_commerce_ultimate_report_tax_report.php:518
+#: includes/ic_commerce_ultimate_report_tax_report.php:534
+#: includes/ic_commerce_ultimate_report_tax_report.php:548
+#: includes/ic_commerce_ultimate_report_tax_report.php:563
+#: includes/ic_commerce_ultimate_report_tax_report.php:577
+#: includes/ic_commerce_ultimate_report_tax_report.php:590
+msgid "Shipping Amt."
+msgstr "Доставка Amt."
+
+#: includes/ic_commerce_ultimate_report_columns.php:52
+#: includes/ic_commerce_ultimate_report_columns.php:70
+#: includes/ic_commerce_ultimate_report_columns.php:211
+#: includes/ic_commerce_ultimate_report_columns.php:261
+#: includes/ic_commerce_ultimate_report_columns.php:288
+#: includes/ic_commerce_ultimate_report_columns.php:429
+#: includes/ic_commerce_ultimate_report_columns.php:619
+msgid "Shipping Tax Amt."
+msgstr "Спедиция данък Amt."
+
+#: includes/ic_commerce_ultimate_report_columns.php:53
+#: includes/ic_commerce_ultimate_report_columns.php:71
+#: includes/ic_commerce_ultimate_report_columns.php:212
+#: includes/ic_commerce_ultimate_report_columns.php:262
+#: includes/ic_commerce_ultimate_report_columns.php:289
+#: includes/ic_commerce_ultimate_report_columns.php:430
+#: includes/ic_commerce_ultimate_report_columns.php:620
+msgid "Order Tax Amt."
+msgstr "Спедиция данък Amt."
+
+#: includes/ic_commerce_ultimate_report_columns.php:54
+#: includes/ic_commerce_ultimate_report_columns.php:73
+#: includes/ic_commerce_ultimate_report_columns.php:213
+#: includes/ic_commerce_ultimate_report_columns.php:263
+#: includes/ic_commerce_ultimate_report_columns.php:290
+#: includes/ic_commerce_ultimate_report_columns.php:431
+#: includes/ic_commerce_ultimate_report_columns.php:621
+msgid "Total Tax Amt."
+msgstr "Обща данъчна ставка"
+
+#: includes/ic_commerce_ultimate_report_columns.php:55
+#: includes/ic_commerce_ultimate_report_columns.php:72
+#: includes/ic_commerce_ultimate_report_columns.php:214
+#: includes/ic_commerce_ultimate_report_columns.php:264
+#: includes/ic_commerce_ultimate_report_columns.php:291
+#: includes/ic_commerce_ultimate_report_columns.php:432
+#: includes/ic_commerce_ultimate_report_columns.php:622
+msgid "Part Refund Amt."
+msgstr "Възстановяване на части Amt."
+
+#: includes/ic_commerce_ultimate_report_columns.php:56
+#: includes/ic_commerce_ultimate_report_columns.php:74
+#: includes/ic_commerce_ultimate_report_columns.php:201
+#: includes/ic_commerce_ultimate_report_columns.php:215
+#: includes/ic_commerce_ultimate_report_columns.php:265
+#: includes/ic_commerce_ultimate_report_columns.php:292
+#: includes/ic_commerce_ultimate_report_columns.php:344
+#: includes/ic_commerce_ultimate_report_columns.php:433
+#: includes/ic_commerce_ultimate_report_columns.php:623
+#: includes/ic_commerce_ultimate_report_customization.php:1501
+#: includes/ic_commerce_ultimate_report_customization.php:1561
+#: includes/ic_commerce_ultimate_report_tax_report.php:468
+#: includes/ic_commerce_ultimate_report_tax_report.php:485
+#: includes/ic_commerce_ultimate_report_tax_report.php:503
+#: includes/ic_commerce_ultimate_report_tax_report.php:520
+#: includes/ic_commerce_ultimate_report_tax_report.php:536
+#: includes/ic_commerce_ultimate_report_tax_report.php:550
+#: includes/ic_commerce_ultimate_report_tax_report.php:565
+#: includes/ic_commerce_ultimate_report_tax_report.php:579
+#: includes/ic_commerce_ultimate_report_tax_report.php:592
+msgid "Net Amt."
+msgstr "Нетна сума"
+
+#: includes/ic_commerce_ultimate_report_columns.php:102
+#: includes/ic_commerce_ultimate_report_columns.php:143
+#: includes/ic_commerce_ultimate_report_variation.php:328
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:223
+msgid "Product ID"
+msgstr "Идентификационен код на продукта"
+
+#: includes/ic_commerce_ultimate_report_columns.php:105
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:115
+#: includes/ic_commerce_ultimate_report_variation.php:328
+#: includes/ic_commerce_ultimate_report_variation.php:340
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:225
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1408
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1415
+msgid "Variation ID"
+msgstr "Вариант ИД №:"
+
+#: includes/ic_commerce_ultimate_report_columns.php:108
+#: includes/ic_commerce_ultimate_report_variation.php:340
+msgid "Order Item ID"
+msgstr "Идент. Номер на поръчката"
+
+#: includes/ic_commerce_ultimate_report_columns.php:118
+#: includes/ic_commerce_ultimate_report_columns.php:133
+#: includes/ic_commerce_ultimate_report_columns.php:146
+#: includes/ic_commerce_ultimate_report_columns.php:371
+#: includes/ic_commerce_ultimate_report_customization.php:1513
+msgid "Sales Qty."
+msgstr "Количество продадени"
+
+#: includes/ic_commerce_ultimate_report_columns.php:120
+#: includes/ic_commerce_ultimate_report_columns.php:135
+#: includes/ic_commerce_ultimate_report_columns.php:148
+#: includes/ic_commerce_ultimate_report_columns.php:170
+#: includes/ic_commerce_ultimate_report_columns.php:176
+#: includes/ic_commerce_ultimate_report_columns.php:373
+#: includes/ic_commerce_ultimate_report_columns.php:384
+#: includes/ic_commerce_ultimate_report_columns.php:394
+#: includes/ic_commerce_ultimate_report_columns.php:401
+#: includes/ic_commerce_ultimate_report_columns.php:447
+#: includes/ic_commerce_ultimate_report_columns.php:647
+#: includes/ic_commerce_ultimate_report_customization.php:1486
+#: includes/ic_commerce_ultimate_report_customization.php:1515
+#: includes/ic_commerce_ultimate_report_customization.php:1523
+#: includes/ic_commerce_ultimate_report_customization.php:1536
+#: includes/ic_commerce_ultimate_report_dashboard.php:2084
+#: includes/ic_commerce_ultimate_report_dashboard.php:2224
+#: includes/ic_commerce_ultimate_report_dashboard.php:2341
+#: includes/ic_commerce_ultimate_report_dashboard.php:2450
+#: includes/ic_commerce_ultimate_report_dashboard.php:2577
+#: includes/ic_commerce_ultimate_report_dashboard.php:2684
+#: includes/ic_commerce_ultimate_report_dashboard.php:3052
+#: includes/ic_commerce_ultimate_report_dashboard.php:3181
+#: includes/ic_commerce_ultimate_report_dashboard.php:3308
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:166
+#: includes/ic_commerce_ultimate_report_summary_tag_based.php:97
+#: includes/ic_commerce_ultimate_report_summary_tag_based.php:117
+#: includes/ic_commerce_ultimate_report_variation.php:328
+msgid "Amount"
+msgstr "Количество"
+
+#: includes/ic_commerce_ultimate_report_columns.php:129
+#: includes/ic_commerce_ultimate_report_product_analysis.php:253
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:252
+msgid "ID"
+msgstr "ID"
+
+#: includes/ic_commerce_ultimate_report_columns.php:132
+#: includes/ic_commerce_ultimate_report_columns.php:339
+#: includes/ic_commerce_ultimate_report_init.php:391
+#: includes/ic_commerce_ultimate_report_init.php:491
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:256
+msgid "Variation"
+msgstr "вариация"
+
+#: includes/ic_commerce_ultimate_report_columns.php:168
+msgid "Variation Count"
+msgstr "Брой на вариация"
+
+#: includes/ic_commerce_ultimate_report_columns.php:169
+#: includes/ic_commerce_ultimate_report_columns.php:175
+#: includes/ic_commerce_ultimate_report_columns.php:568
+#: includes/ic_commerce_ultimate_report_customization.php:1584
+#: includes/ic_commerce_ultimate_report_summary_tag_based.php:96
+#: includes/ic_commerce_ultimate_report_summary_tag_based.php:116
+msgid "Sales Quantity"
+msgstr "Продажна сума"
+
+#: includes/ic_commerce_ultimate_report_columns.php:195
+#: includes/ic_commerce_ultimate_report_columns.php:205
+#: includes/ic_commerce_ultimate_report_columns.php:383
+#: includes/ic_commerce_ultimate_report_columns.php:393
+#: includes/ic_commerce_ultimate_report_columns.php:400
+#: includes/ic_commerce_ultimate_report_columns.php:446
+#: includes/ic_commerce_ultimate_report_columns.php:579
+#: includes/ic_commerce_ultimate_report_columns.php:586
+#: includes/ic_commerce_ultimate_report_columns.php:597
+#: includes/ic_commerce_ultimate_report_columns.php:605
+#: includes/ic_commerce_ultimate_report_columns.php:611
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:105
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:124
+#: includes/ic_commerce_ultimate_report_customization.php:1498
+#: includes/ic_commerce_ultimate_report_customization.php:1522
+#: includes/ic_commerce_ultimate_report_customization.php:1535
+#: includes/ic_commerce_ultimate_report_customization.php:1558
+#: includes/ic_commerce_ultimate_report_customization.php:1591
+#: includes/ic_commerce_ultimate_report_customization.php:1601
+#: includes/ic_commerce_ultimate_report_dashboard.php:2083
+#: includes/ic_commerce_ultimate_report_dashboard.php:2223
+#: includes/ic_commerce_ultimate_report_dashboard.php:2449
+#: includes/ic_commerce_ultimate_report_dashboard.php:2576
+#: includes/ic_commerce_ultimate_report_dashboard.php:2683
+#: includes/ic_commerce_ultimate_report_dashboard.php:3051
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:398
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:165
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:184
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:319
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:369
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:374
+#: includes/ic_commerce_ultimate_report_summary_sales_reports.php:85
+#: includes/ic_commerce_ultimate_report_summary_sales_reports.php:104
+#: includes/ic_commerce_ultimate_report_tax_report.php:465
+#: includes/ic_commerce_ultimate_report_tax_report.php:482
+#: includes/ic_commerce_ultimate_report_tax_report.php:500
+#: includes/ic_commerce_ultimate_report_tax_report.php:517
+#: includes/ic_commerce_ultimate_report_tax_report.php:533
+#: includes/ic_commerce_ultimate_report_tax_report.php:547
+#: includes/ic_commerce_ultimate_report_tax_report.php:562
+#: includes/ic_commerce_ultimate_report_tax_report.php:576
+#: includes/ic_commerce_ultimate_report_tax_report.php:589
+msgid "Order Count"
+msgstr "Брой на поръчка"
+
+#: includes/ic_commerce_ultimate_report_columns.php:197
+#: includes/ic_commerce_ultimate_report_columns.php:340
+#: includes/ic_commerce_ultimate_report_summary_coupon_discount_type.php:69
+msgid "Qty."
+msgstr "Количество"
+
+#: includes/ic_commerce_ultimate_report_columns.php:198
+#: includes/ic_commerce_ultimate_report_columns.php:341
+msgid "Rate"
+msgstr "скорост"
+
+#: includes/ic_commerce_ultimate_report_columns.php:199
+#: includes/ic_commerce_ultimate_report_columns.php:342
+msgid "Prod. Amt."
+msgstr "Prod. Сума"
+
+#: includes/ic_commerce_ultimate_report_columns.php:200
+#: includes/ic_commerce_ultimate_report_columns.php:343
+msgid "Prod. Discount"
+msgstr "Prod. Отстъпка"
+
+#: includes/ic_commerce_ultimate_report_columns.php:247
+#: includes/ic_commerce_ultimate_report_columns.php:274
+#: includes/ic_commerce_ultimate_report_columns.php:318
+#: includes/ic_commerce_ultimate_report_tax_report.php:210
+msgid "City"
+msgstr "Град"
+
+#: includes/ic_commerce_ultimate_report_columns.php:250
+#: includes/ic_commerce_ultimate_report_columns.php:277
+#: includes/ic_commerce_ultimate_report_customization.php:1496
+#: includes/ic_commerce_ultimate_report_tax_report.php:214
+#: includes/ic_commerce_ultimate_report_tax_report.php:462
+#: includes/ic_commerce_ultimate_report_tax_report.php:479
+#: includes/ic_commerce_ultimate_report_tax_report.php:497
+#: includes/ic_commerce_ultimate_report_tax_report.php:514
+#: includes/ic_commerce_ultimate_report_tax_report.php:529
+#: includes/ic_commerce_ultimate_report_tax_report.php:545
+msgid "Tax Name"
+msgstr "Данъчно име"
+
+#: includes/ic_commerce_ultimate_report_columns.php:251
+#: includes/ic_commerce_ultimate_report_columns.php:278
+msgid "Shipping Method"
+msgstr "Начин на доставка"
+
+#: includes/ic_commerce_ultimate_report_columns.php:252
+#: includes/ic_commerce_ultimate_report_columns.php:279
+#: includes/ic_commerce_ultimate_report_columns.php:392
+#: includes/ic_commerce_ultimate_report_dashboard.php:2682
+msgid "Payment Method"
+msgstr "Начин на плащане"
+
+#: includes/ic_commerce_ultimate_report_columns.php:253
+#: includes/ic_commerce_ultimate_report_columns.php:280
+msgid "Order Currency"
+msgstr "Поръчка валута"
+
+#: includes/ic_commerce_ultimate_report_columns.php:254
+#: includes/ic_commerce_ultimate_report_columns.php:281
+#: includes/ic_commerce_ultimate_report_columns.php:332
+#: includes/ic_commerce_ultimate_report_columns.php:438
+#: includes/ic_commerce_ultimate_report_dashboard.php:3178
+#: includes/ic_commerce_ultimate_report_summary_coupon_discount_type.php:67
+msgid "Coupon Code"
+msgstr "Код на купон"
+
+#: includes/ic_commerce_ultimate_report_columns.php:266
+#: includes/ic_commerce_ultimate_report_columns.php:293
+#: includes/ic_commerce_ultimate_report_columns.php:345
+msgid "Invoice Action"
+msgstr "Фактура за действие"
+
+#: includes/ic_commerce_ultimate_report_columns.php:337
+#: includes/ic_commerce_ultimate_report_columns.php:457
+msgid "Products"
+msgstr "Продукти"
+
+#: includes/ic_commerce_ultimate_report_columns.php:370
+msgid "Categories"
+msgstr "Категории"
+
+#: includes/ic_commerce_ultimate_report_columns.php:378
+#: includes/ic_commerce_ultimate_report_custom_report.php:2300
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:100
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:162
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:315
+msgid "Billing First Name"
+msgstr "Име за фактуриране"
+
+#: includes/ic_commerce_ultimate_report_columns.php:379
+#: includes/ic_commerce_ultimate_report_custom_report.php:2301
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:101
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:163
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:316
+msgid "Billing Last Name"
+msgstr "Фамилно име за фактуриране"
+
+#: includes/ic_commerce_ultimate_report_columns.php:381
+#: includes/ic_commerce_ultimate_report_dashboard.php:3049
+msgid "Company Name"
+msgstr "Име на компания"
+
+#: includes/ic_commerce_ultimate_report_columns.php:382
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:102
+#: includes/ic_commerce_ultimate_report_dashboard.php:3050
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:164
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:318
+msgid "Billing Email"
+msgstr "Имейл за фактуриране"
+
+#: includes/ic_commerce_ultimate_report_columns.php:439
+#: includes/ic_commerce_ultimate_report_columns.php:630
+msgid "Coupon Count"
+msgstr "Брой на купон"
+
+#: includes/ic_commerce_ultimate_report_columns.php:440
+#: includes/ic_commerce_ultimate_report_columns.php:631
+msgid "Coupon Amount"
+msgstr "Купон сума"
+
+#: includes/ic_commerce_ultimate_report_columns.php:450
+#: includes/ic_commerce_ultimate_report_custom_report.php:2325
+#: includes/ic_commerce_ultimate_report_customization.php:1528
+#: includes/ic_commerce_ultimate_report_dashboard.php:2448
+msgid "Shipping Country"
+msgstr "Държава за доставка"
+
+#: includes/ic_commerce_ultimate_report_columns.php:459
+#: includes/ic_commerce_ultimate_report_customization.php:1485
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:68
+#: includes/ic_commerce_ultimate_report_product_analysis.php:71
+#: includes/ic_commerce_ultimate_report_product_analysis.php:258
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:72
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:258
+msgid "Quantity"
+msgstr "Количество"
+
+#: includes/ic_commerce_ultimate_report_columns.php:460
+msgid "Product Price Exc VAT"
+msgstr "Продукт цена Exc ДДС"
+
+#: includes/ic_commerce_ultimate_report_columns.php:461
+msgid "VAT per Item"
+msgstr "ДДС за артикул"
+
+#: includes/ic_commerce_ultimate_report_columns.php:462
+msgid "Shipping"
+msgstr "Доставка"
+
+#: includes/ic_commerce_ultimate_report_columns.php:463
+msgid "Total Price Exl VAT and Shipping"
+msgstr "Обща цена консумативи ДДС и доставка"
+
+#: includes/ic_commerce_ultimate_report_columns.php:464
+msgid "Total Price"
+msgstr "gesammte Summe"
+
+#: includes/ic_commerce_ultimate_report_columns.php:484
+#: includes/ic_commerce_ultimate_report_columns.php:521
+msgid "Order Date"
+msgstr "Дата на поръчка"
+
+#: includes/ic_commerce_ultimate_report_columns.php:486
+#: includes/ic_commerce_ultimate_report_columns.php:493
+#: includes/ic_commerce_ultimate_report_columns.php:505
+#: includes/ic_commerce_ultimate_report_columns.php:511
+#: includes/ic_commerce_ultimate_report_columns.php:637
+msgid "Refund Counts"
+msgstr "Възстановяване брои"
+
+#: includes/ic_commerce_ultimate_report_columns.php:487
+#: includes/ic_commerce_ultimate_report_columns.php:494
+#: includes/ic_commerce_ultimate_report_columns.php:500
+#: includes/ic_commerce_ultimate_report_columns.php:506
+#: includes/ic_commerce_ultimate_report_columns.php:512
+#: includes/ic_commerce_ultimate_report_columns.php:524
+#: includes/ic_commerce_ultimate_report_columns.php:638
+msgid "Refund Amount"
+msgstr "Сума за възстановяване"
+
+#: includes/ic_commerce_ultimate_report_columns.php:492
+msgid "Refunded By"
+msgstr "Възстановяват от"
+
+#: includes/ic_commerce_ultimate_report_columns.php:498
+#: includes/ic_commerce_ultimate_report_columns.php:517
+msgid "Refund Date"
+msgstr "Дата на възстановяване"
+
+#: includes/ic_commerce_ultimate_report_columns.php:499
+#: includes/ic_commerce_ultimate_report_columns.php:531
+#: includes/ic_commerce_ultimate_report_columns.php:642
+msgid "Order Counts"
+msgstr "Поръчка броя"
+
+#: includes/ic_commerce_ultimate_report_columns.php:504
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:330
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:354
+msgid "Month"
+msgstr "Месец"
+
+#: includes/ic_commerce_ultimate_report_columns.php:518
+msgid "Refund Status"
+msgstr "Състояние на възстановяване"
+
+#: includes/ic_commerce_ultimate_report_columns.php:519
+msgid "Refund By"
+msgstr "Възстановяване на части Amt."
+
+#: includes/ic_commerce_ultimate_report_columns.php:523
+msgid "Refund Note"
+msgstr "Показване на възстановяването Забележка:"
+
+#: includes/ic_commerce_ultimate_report_columns.php:569
+#: includes/ic_commerce_ultimate_report_columns.php:580
+#: includes/ic_commerce_ultimate_report_columns.php:587
+#: includes/ic_commerce_ultimate_report_columns.php:598
+#: includes/ic_commerce_ultimate_report_columns.php:606
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:125
+#: includes/ic_commerce_ultimate_report_customization.php:1578
+#: includes/ic_commerce_ultimate_report_customization.php:1585
+#: includes/ic_commerce_ultimate_report_customization.php:1592
+#: includes/ic_commerce_ultimate_report_customization.php:1602
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:185
+msgid "Total Amount"
+msgstr "Обща сума"
+
+#: includes/ic_commerce_ultimate_report_columns.php:578
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:123
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:183
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:368
+msgid "Customer Count"
+msgstr "Брой на клиент"
+
+#: includes/ic_commerce_ultimate_report_columns.php:585
+msgid "Country Count"
+msgstr "Брой на държавите"
+
+#: includes/ic_commerce_ultimate_report_columns.php:591
+msgid "Shipping Country Count"
+msgstr "Доставка страна граф"
+
+#: includes/ic_commerce_ultimate_report_columns.php:596
+msgid "Payment Method Count"
+msgstr "Начин на плащане"
+
+#: includes/ic_commerce_ultimate_report_columns.php:604
+msgid "Order Status Count"
+msgstr "Брой на поръчките за поръчки"
+
+#: includes/ic_commerce_ultimate_report_columns.php:629
+#: includes/ic_commerce_ultimate_report_summary_coupon_discount_type.php:85
+msgid "Result Count"
+msgstr "Брой на резултат"
+
+#: includes/ic_commerce_ultimate_report_columns.php:636
+msgid "Results Count"
+msgstr "Брой на резултатите"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:245
+msgid "Prod./Month"
+msgstr "Артикули/месец"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:246
+msgid "Variation/Month"
+msgstr "Изменение/месец"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:248
+msgid "Prod./Country"
+msgstr "Артикули/страна"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:249
+msgid "Prod./State"
+msgstr "Артикули/държава"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:251
+msgid "Country/Month"
+msgstr "Страна/месец"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:252
+msgid "Payment G/Month"
+msgstr "Плащане гр/месец"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:253
+msgid "Ord. Status/Month"
+msgstr "Ord. статус/месец"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:255
+msgid "Summary/Month"
+msgstr "Резюме/месец"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:296
+msgid "Start Month:"
+msgstr "Начален месец:"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:300
+msgid "End Month:"
+msgstr "Краен месец:"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:329
+#: includes/ic_commerce_ultimate_report_cross_tab.php:409
+#: includes/ic_commerce_ultimate_report_customization.php:75
+#: includes/ic_commerce_ultimate_report_tax_report.php:168
+msgid "Country:"
+msgstr "Държава:"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:341
+msgid "Payment Gatway:"
+msgstr "Плащане Gatway:"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:354
+msgid "Reports:"
+msgstr "Доклади:"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:358
+#: includes/ic_commerce_ultimate_report_cross_tab.php:2751
+msgid "Order Total"
+msgstr "Общо в поръчката"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:359
+#: includes/ic_commerce_ultimate_report_cross_tab.php:2752
+#: includes/ic_commerce_ultimate_report_customization.php:1503
+#: includes/ic_commerce_ultimate_report_customization.php:1563
+#: includes/ic_commerce_ultimate_report_dashboard.php:558
+#: includes/ic_commerce_ultimate_report_tax_report.php:472
+#: includes/ic_commerce_ultimate_report_tax_report.php:489
+#: includes/ic_commerce_ultimate_report_tax_report.php:507
+#: includes/ic_commerce_ultimate_report_tax_report.php:524
+#: includes/ic_commerce_ultimate_report_tax_report.php:540
+#: includes/ic_commerce_ultimate_report_tax_report.php:554
+#: includes/ic_commerce_ultimate_report_tax_report.php:569
+#: includes/ic_commerce_ultimate_report_tax_report.php:583
+#: includes/ic_commerce_ultimate_report_tax_report.php:596
+#: includes/ic_commerce_ultimate_report_tax_report.php:603
+msgid "Order Tax"
+msgstr "Поръчка данък"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:360
+#: includes/ic_commerce_ultimate_report_cross_tab.php:2753
+msgid "Order Discount"
+msgstr "Поръчайте отстъпка"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:361
+#: includes/ic_commerce_ultimate_report_cross_tab.php:2754
+#: includes/ic_commerce_ultimate_report_fuctions.php:2749
+msgid "Cart Discount"
+msgstr "Отстъпка в количката"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:362
+#: includes/ic_commerce_ultimate_report_cross_tab.php:2755
+msgid "Order Shipping"
+msgstr "Държава за доставка"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:363
+#: includes/ic_commerce_ultimate_report_cross_tab.php:2756
+#: includes/ic_commerce_ultimate_report_dashboard.php:573
+msgid "Order Shipping Tax"
+msgstr "Поръчка за корабни данък"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:364
+#: includes/ic_commerce_ultimate_report_cross_tab.php:2757
+msgid "Product Sales"
+msgstr "Продукт на продажбите"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:424
+#: includes/ic_commerce_ultimate_report_customization.php:85
+#: includes/ic_commerce_ultimate_report_tax_report.php:181
+msgid "State:"
+msgstr "Област:"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:481
+#: includes/ic_commerce_ultimate_report_customization.php:113
+#: includes/ic_commerce_ultimate_report_variation.php:229
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:206
+msgid "Variations:"
+msgstr "Вариации:"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:491
+msgid "There is no order purchased in variable product."
+msgstr "Няма ред, закупени в променлива продукт."
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:499
+msgid "limit:"
+msgstr "граница"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:629
+msgid "Export to Print"
+msgstr "Експортирате в печат"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:841
+msgid "Country Name"
+msgstr "Име на държава"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:844
+msgid "Status Name"
+msgstr "Име на състоянието"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:847
+msgid "Payment Gatway"
+msgstr "Платежен портал"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:850
+msgid "Reports"
+msgstr "Доклади"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:853
+msgid "Item SKU"
+msgstr "Елемент SKU"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:853
+msgid "varition ID"
+msgstr "varition ИД"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:1262
+#: includes/ic_commerce_ultimate_report_cross_tab.php:1476
+#: includes/ic_commerce_ultimate_report_product_analysis.php:260
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:260
+msgid "Total"
+msgstr "Обща сума"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:1542
+msgid "Order not found"
+msgstr "Поръчката не е намерен"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3421
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3741
+msgid "Total Amt."
+msgstr "Обща сума"
+
+#: includes/ic_commerce_ultimate_report_cross_tab.php:3422
+msgid "Total Qty."
+msgstr "Общо количество"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:88
+msgid "Detail Search"
+msgstr "Подробно търсене"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:176
+msgid "Today's detail reports"
+msgstr "Днешните подробни доклади"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:182
+msgid "Yesterday's detail reports"
+msgstr "Вчера на детайл доклади"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:189
+msgid "This week detail reports"
+msgstr "Тази седмица подробни доклади"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:196
+msgid "This month detail reports"
+msgstr "Този месец подробни отчети"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:202
+msgid "This year detail reports"
+msgstr "Тази година подробни отчети"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:233
+#: includes/ic_commerce_ultimate_report_custom_report.php:253
+#, php-format
+msgid "Product detail of %s"
+msgstr "Данни за продукта от% s"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:238
+#, php-format
+msgid "Product detail of %s country"
+msgstr "Данни за продукта на% s държава"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:240
+#, php-format
+msgid "Order detail of %s country"
+msgstr "Данни за поръчката на% s държава"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:245
+#, php-format
+msgid "Product detail of %s from %s country"
+msgstr "Данни за продукта от% s от% s държава"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:247
+#, php-format
+msgid "Order detail of %s from %s country"
+msgstr "Подробности за поръчката на% s от% s държава"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:255
+#, php-format
+msgid "Order detail of %s"
+msgstr "Данните за поръчката на% s"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:263
+#, php-format
+msgid "Product detail of %s order ID"
+msgstr "Данни за продукта от ID на поръчката% s"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:265
+#, php-format
+msgid "Order detail of %s order ID"
+msgstr "Подробности за поръчка на ИД на поръчката на %s"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:276
+#, php-format
+msgid "Product detail of %s payment method"
+msgstr "Подробности за продукта на метод на плащане на %s"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:278
+#, php-format
+msgid "Order detail of %s payment method"
+msgstr "Подробности за поръчка на метод на плащане на %s"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:283
+#: includes/ic_commerce_ultimate_report_custom_report.php:285
+#, php-format
+msgid "Coupon detail of %s"
+msgstr "Купон детайл от %s"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:290
+#: includes/ic_commerce_ultimate_report_custom_report.php:292
+#, php-format
+msgid "Coupons detail of %s"
+msgstr "Купони детайл от %s"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:326
+msgid "Order ID:"
+msgstr "ИД на поръчката:"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:330
+#: includes/ic_commerce_ultimate_report_custom_report.php:360
+#: includes/ic_commerce_ultimate_report_variation.php:187
+msgid "Customer:"
+msgstr "Клиент:"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:344
+msgid "Enable category selection by clicking 'Show Order Item Details'"
+msgstr ""
+"Разрешаване на избора на категория като щракнете върху \"Покажи поръчка "
+"елемент данни\""
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:354
+msgid "Enable product selection by clicking 'Show Order Item Details'"
+msgstr ""
+"Разрешаване на избора на продукт като щракнете върху \"Покажи поръчка "
+"елемент данни\""
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:397
+msgid "Email:"
+msgstr "Електронна поща:"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:424
+msgid "Show Order Item Details:"
+msgstr "Покажи подробните данни за елемента на поръчка:"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:429
+msgid "Coupon Used Only:"
+msgstr "Купон използват само:"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:473
+msgid "Customize Column"
+msgstr "Персонализиране на колона"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:482
+msgid "Normal View Column: "
+msgstr "Нормален изглед колона:"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:482
+#: includes/ic_commerce_ultimate_report_custom_report.php:487
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:185
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:195
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:210
+msgid "Select All"
+msgstr "Избери всичко"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:487
+msgid "Order Item Details Column: "
+msgstr "Поръчка за артикул подробните колони:"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:910
+#: includes/ic_commerce_ultimate_report_custom_report.php:1174
+#: includes/ic_commerce_ultimate_report_tax_report.php:704
+msgid "No orders found"
+msgstr "Няма намерени поръчки"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:1304
+msgid "Order:"
+msgstr "Подредба:"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:1304
+msgid "Amount:"
+msgstr "Сума:"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2259
+msgid "Purchased product not found in selected category"
+msgstr "Закупеният продукт не е намерен в избраната категория"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2302
+msgid "Billing Company"
+msgstr "Фактуриране компания"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2303
+msgid "Billing Address 1"
+msgstr "Данни за Доставка"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2304
+msgid "Billing Address 2"
+msgstr "Данни за Доставка"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2306
+msgid "Billing Post Code"
+msgstr "Пощенски код за фактуриране"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2309
+msgid "Billing Phone"
+msgstr "Телефон за фактуриране"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2318
+msgid "Shipping First Name"
+msgstr "Доставка собствено име"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2319
+msgid "Shipping Last Name"
+msgstr "Доставка фамилно име"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2320
+msgid "Shipping Company"
+msgstr "Фактуриране компания"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2321
+msgid "Shipping Address 1"
+msgstr "Данни за Доставка"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2322
+msgid "Shipping Address 2"
+msgstr "Адрес, ред 2"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2323
+msgid "Shipping City"
+msgstr "Град"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2324
+msgid "Shipping Post Code"
+msgstr "Пощенски код за експедиране"
+
+#: includes/ic_commerce_ultimate_report_custom_report.php:2326
+#: includes/ic_commerce_ultimate_report_customization.php:1527
+#: includes/ic_commerce_ultimate_report_dashboard.php:2575
+msgid "Shipping State"
+msgstr "Доставка, щат"
+
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:103
+msgid "Min Price"
+msgstr "Мин Цена"
+
+#: includes/ic_commerce_ultimate_report_customer_in_price_point.php:104
+msgid "Max Price"
+msgstr "Макс Цена"
+
+#: includes/ic_commerce_ultimate_report_customization.php:100
+msgid "City:"
+msgstr "Град:"
+
+#: includes/ic_commerce_ultimate_report_customization.php:134
+#: includes/ic_commerce_ultimate_report_variation.php:248
+msgid "There is no any order purchased in variable product."
+msgstr "Няма никакви ред закупени в променлива продукт."
+
+#: includes/ic_commerce_ultimate_report_customization.php:138
+msgid "Enable variations selection by clicking 'Show Order Item Details"
+msgstr ""
+"Разрешаване на избора на варианти като щракнете върху \"Покажи поръчка "
+"елемент подробности"
+
+#: includes/ic_commerce_ultimate_report_customization.php:141
+msgid "Variation Only:"
+msgstr "Вариация само:"
+
+#: includes/ic_commerce_ultimate_report_customization.php:143
+msgid "Enable variations only selection by clicking 'Show Order Item Details"
+msgstr ""
+"Разреши варианти само селекция като щракнете върху \"Покажи поръчка елемент "
+"подробности"
+
+#: includes/ic_commerce_ultimate_report_customization.php:149
+#: includes/ic_commerce_ultimate_report_variation.php:197
+msgid "Postcode(Zip):"
+msgstr "Пощенски код:"
+
+#: includes/ic_commerce_ultimate_report_customization.php:153
+msgid "Min and Max By:"
+msgstr "Мин и Макс Площ"
+
+#: includes/ic_commerce_ultimate_report_customization.php:158
+msgid "Order Net Amount"
+msgstr "Поръчка нетна сума"
+
+#: includes/ic_commerce_ultimate_report_customization.php:159
+msgid "Order Discount Amount"
+msgstr "Общо отстъпка по поръчка"
+
+#: includes/ic_commerce_ultimate_report_customization.php:160
+msgid "Order Shipping Amount"
+msgstr "Поръчка за доставка сума"
+
+#: includes/ic_commerce_ultimate_report_customization.php:161
+msgid "Order Shipping Tax Amount"
+msgstr "Поръчка за корабни данък"
+
+#: includes/ic_commerce_ultimate_report_customization.php:166
+#: includes/ic_commerce_ultimate_report_customization.php:173
+#: includes/ic_commerce_ultimate_report_customization.php:179
+msgid "Enable this selection by uncheck 'Show Order Item Details'"
+msgstr ""
+"Разреши тази селекция от махнете отметката \"Покажи поръчка елемент данни\""
+
+#: includes/ic_commerce_ultimate_report_customization.php:171
+msgid "Min Amount:"
+msgstr "Минимална сума:"
+
+#: includes/ic_commerce_ultimate_report_customization.php:177
+msgid "Max Amount:"
+msgstr "Макс. количество:"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1483
+#: includes/ic_commerce_ultimate_report_dashboard.php:3306
+msgid "Category Name"
+msgstr "Име на категориите"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1497
+#: includes/ic_commerce_ultimate_report_tax_report.php:464
+#: includes/ic_commerce_ultimate_report_tax_report.php:481
+#: includes/ic_commerce_ultimate_report_tax_report.php:499
+#: includes/ic_commerce_ultimate_report_tax_report.php:516
+#: includes/ic_commerce_ultimate_report_tax_report.php:531
+#: includes/ic_commerce_ultimate_report_tax_report.php:546
+#: includes/ic_commerce_ultimate_report_tax_report.php:601
+msgid "Tax Rate"
+msgstr "Стойност Такса"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1502
+#: includes/ic_commerce_ultimate_report_customization.php:1562
+#: includes/ic_commerce_ultimate_report_tax_report.php:471
+#: includes/ic_commerce_ultimate_report_tax_report.php:488
+#: includes/ic_commerce_ultimate_report_tax_report.php:506
+#: includes/ic_commerce_ultimate_report_tax_report.php:523
+#: includes/ic_commerce_ultimate_report_tax_report.php:539
+#: includes/ic_commerce_ultimate_report_tax_report.php:553
+#: includes/ic_commerce_ultimate_report_tax_report.php:568
+#: includes/ic_commerce_ultimate_report_tax_report.php:582
+#: includes/ic_commerce_ultimate_report_tax_report.php:595
+#: includes/ic_commerce_ultimate_report_tax_report.php:602
+msgid "Shipping Tax"
+msgstr "Доставка"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1504
+#: includes/ic_commerce_ultimate_report_customization.php:1564
+#: includes/ic_commerce_ultimate_report_dashboard.php:543
+#: includes/ic_commerce_ultimate_report_tax_report.php:473
+#: includes/ic_commerce_ultimate_report_tax_report.php:490
+#: includes/ic_commerce_ultimate_report_tax_report.php:508
+#: includes/ic_commerce_ultimate_report_tax_report.php:525
+#: includes/ic_commerce_ultimate_report_tax_report.php:541
+#: includes/ic_commerce_ultimate_report_tax_report.php:555
+#: includes/ic_commerce_ultimate_report_tax_report.php:570
+#: includes/ic_commerce_ultimate_report_tax_report.php:584
+#: includes/ic_commerce_ultimate_report_tax_report.php:597
+#: includes/ic_commerce_ultimate_report_tax_report.php:604
+msgid "Total Tax"
+msgstr "Общо Такси"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1509
+msgid "Customer Name"
+msgstr "Име на клиента"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1557
+msgid "Tax Count"
+msgstr "Данъчен отчет"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1572
+#: includes/ic_commerce_ultimate_report_customization.php:1576
+msgid "Category Count"
+msgstr "Категория:"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1590
+msgid "Billing State Count"
+msgstr "Фактуриране, щат граф"
+
+#: includes/ic_commerce_ultimate_report_customization.php:1595
+msgid "Shipping State Count"
+msgstr "Доставка, щат граф"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:314
+msgid "Notification"
+msgstr "ОБЯВЯВАНЕ"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:318
+#: includes/ic_commerce_ultimate_report_dashboard.php:1319
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:282
+msgid "Zero Level Stock Alert"
+msgstr "Нулево ниво склад предупреждение"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:319
+#: includes/ic_commerce_ultimate_report_dashboard.php:1330
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:301
+msgid "Minimum Level Stock Alert"
+msgstr "Минимално ниво склад предупреждение"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:333
+msgid "Todays Summary"
+msgstr "Днешния Резюме"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:334
+msgid "Total Summary"
+msgstr "Общо Резюме"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:347
+msgid "Todays Total Sales"
+msgstr "Днешния общите продажби"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:364
+msgid "Todays Average Sales"
+msgstr "Днешния средните продажби"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:377
+msgid "Todays Total Refund"
+msgstr "Днешните общо възстановяване"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:393
+msgid "Todays Total Coupons"
+msgstr "Днешните общо купони"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:410
+msgid "Todays Order Tax"
+msgstr "Спедиция данък Amt."
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:428
+msgid "Todays Shipping Tax"
+msgstr "Днешния доставка данък"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:446
+msgid "Todays Total Tax"
+msgstr "Обща данъчна ставка"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:463
+msgid "Todays Registered Customers"
+msgstr "Днешния регистрирани клиенти"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:475
+msgid "Todays Guest Customers"
+msgstr "Днешните гости клиенти"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:487
+msgid "Todays Profit"
+msgstr "Днешния печалба"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:507
+#: includes/ic_commerce_ultimate_report_dashboard.php:648
+#, php-format
+msgid "Summary From %1$s To %2$s"
+msgstr "Резюме от %1$s до %2$s"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:512
+msgid "Total Sales"
+msgstr "Общо продажби"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:527
+msgid "Total Refund"
+msgstr "Общо възстановяване"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:588
+msgid "Order Shipping Total"
+msgstr "Общо в поръчката"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:602
+msgid "Total Coupons"
+msgstr "Общо купони"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:617
+msgid "Total Registered Customers"
+msgstr "Общо регистрирани потребители"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:629
+msgid "Total Guest Customers"
+msgstr "Общо гости клиенти"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:653
+msgid "Average Sales Per Order"
+msgstr "Средните продажби на поръчка"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:665
+msgid "Average Sales Per Day"
+msgstr "Средните продажби на ден"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:677
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:167
+msgid "Last Order Date"
+msgstr "Дата на последна поръчка"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:693
+#, php-format
+msgid "Cur. Yr Proj. Sales (%s)"
+msgstr "Тек. Yr Proj. Продажби (%s)"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:697
+#: includes/ic_commerce_ultimate_report_dashboard.php:744
+msgid "0%"
+msgstr "0%"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:709
+#, php-format
+msgid "Current Year Sales (%s)"
+msgstr "Текущата година продажби (%s)"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:725
+#, php-format
+msgid "Cur. Month Proj. Sales (%s %s)"
+msgstr "Тек. Месец Proj. Продажби (%s %s)"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:740
+#, php-format
+msgid "Current Month Sales (%s %s)"
+msgstr "Текущия месец продажби (%s %s)"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:755
+#, php-format
+msgid "(%s %s) Average Sales/Day"
+msgstr "(%s %s) Средните продажби на ден"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:769
+#, php-format
+msgid "(%s %s) Forecasted Sales"
+msgstr "(%s %s) Прогнозираните продажби"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:806
+#: includes/ic_commerce_ultimate_report_dashboard.php:1074
+msgid "Sales Summary"
+msgstr "Резюме на поръчката"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:812
+#: includes/ic_commerce_ultimate_report_dashboard.php:1080
+msgid "Sales By Months"
+msgstr "Продажна сума"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:813
+#: includes/ic_commerce_ultimate_report_dashboard.php:1081
+msgid "Sales By Days"
+msgstr "Продажбите по дни"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:814
+#: includes/ic_commerce_ultimate_report_dashboard.php:1082
+msgid "Sales By Week"
+msgstr "Продажби по седмица"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:815
+#: includes/ic_commerce_ultimate_report_dashboard.php:1083
+msgid "Top Products"
+msgstr "Топ продукти"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:832
+#: includes/ic_commerce_ultimate_report_dashboard.php:1098
+msgid "Monthly Summary"
+msgstr "Месечно Резюме"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:845
+#: includes/ic_commerce_ultimate_report_dashboard.php:1109
+msgid "Map"
+msgstr "Карта"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:848
+#: includes/ic_commerce_ultimate_report_dashboard.php:1112
+msgid "Please Wait!"
+msgstr "Моля Изчакайте"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:874
+#: includes/ic_commerce_ultimate_report_dashboard.php:877
+#: includes/ic_commerce_ultimate_report_dashboard.php:878
+#: includes/ic_commerce_ultimate_report_dashboard.php:879
+#: includes/ic_commerce_ultimate_report_dashboard.php:1134
+#: includes/ic_commerce_ultimate_report_dashboard.php:1137
+#: includes/ic_commerce_ultimate_report_dashboard.php:1138
+#: includes/ic_commerce_ultimate_report_dashboard.php:1139
+msgid "Sales Order Status"
+msgstr "Статус на поръчка за продажба"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:898
+#: includes/ic_commerce_ultimate_report_dashboard.php:1156
+#, php-format
+msgid "Top %s Products"
+msgstr "Топ %s продукти"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:901
+#: includes/ic_commerce_ultimate_report_dashboard.php:902
+#: includes/ic_commerce_ultimate_report_dashboard.php:903
+#: includes/ic_commerce_ultimate_report_dashboard.php:1159
+#: includes/ic_commerce_ultimate_report_dashboard.php:1160
+#: includes/ic_commerce_ultimate_report_dashboard.php:1161
+msgid "Top Product Status"
+msgstr "Топ продукт статус"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:921
+#: includes/ic_commerce_ultimate_report_dashboard.php:1177
+#, php-format
+msgid "Top %s Category"
+msgstr "Топ %s печалба продукт"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:924
+#: includes/ic_commerce_ultimate_report_dashboard.php:925
+#: includes/ic_commerce_ultimate_report_dashboard.php:926
+#: includes/ic_commerce_ultimate_report_dashboard.php:1180
+#: includes/ic_commerce_ultimate_report_dashboard.php:1181
+#: includes/ic_commerce_ultimate_report_dashboard.php:1182
+msgid "Top Category Status"
+msgstr "Състояние:"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:946
+#: includes/ic_commerce_ultimate_report_dashboard.php:1202
+#, php-format
+msgid "Top %s Shipping Country"
+msgstr "Топ %s корабоплаването страна"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:946
+#: includes/ic_commerce_ultimate_report_dashboard.php:1202
+#, php-format
+msgid "Top %s Billing Country"
+msgstr "Топ %s фактуриране, страна"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:949
+#: includes/ic_commerce_ultimate_report_dashboard.php:950
+#: includes/ic_commerce_ultimate_report_dashboard.php:951
+#: includes/ic_commerce_ultimate_report_dashboard.php:1205
+#: includes/ic_commerce_ultimate_report_dashboard.php:1206
+#: includes/ic_commerce_ultimate_report_dashboard.php:1207
+msgid "Top Billing Country"
+msgstr "Държава за фактуриране"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:968
+#: includes/ic_commerce_ultimate_report_dashboard.php:1222
+#, php-format
+msgid "Top %s Shipping State"
+msgstr "Топ %s доставка, щат"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:968
+#: includes/ic_commerce_ultimate_report_dashboard.php:1222
+#, php-format
+msgid "Top %s Billing State"
+msgstr "Фактуриране, щат Топ %s"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:971
+#: includes/ic_commerce_ultimate_report_dashboard.php:972
+#: includes/ic_commerce_ultimate_report_dashboard.php:973
+#: includes/ic_commerce_ultimate_report_dashboard.php:1225
+#: includes/ic_commerce_ultimate_report_dashboard.php:1226
+#: includes/ic_commerce_ultimate_report_dashboard.php:1227
+msgid "Top Billing State"
+msgstr "Топ фактуриране, щат"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:991
+#: includes/ic_commerce_ultimate_report_dashboard.php:1243
+#, php-format
+msgid "Recent %s Orders"
+msgstr "Последните поръчки за %s"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1005
+#: includes/ic_commerce_ultimate_report_dashboard.php:1255
+#, php-format
+msgid "Top %s Customers"
+msgstr "Топ %s клиенти"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1008
+#: includes/ic_commerce_ultimate_report_dashboard.php:1009
+#: includes/ic_commerce_ultimate_report_dashboard.php:1010
+#: includes/ic_commerce_ultimate_report_dashboard.php:1259
+#: includes/ic_commerce_ultimate_report_dashboard.php:1260
+#: includes/ic_commerce_ultimate_report_dashboard.php:1261
+msgid "Top Customers"
+msgstr "Клиенти"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1027
+#: includes/ic_commerce_ultimate_report_dashboard.php:1276
+#, php-format
+msgid "Top %s Coupons"
+msgstr "Топ %s купони"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1030
+#: includes/ic_commerce_ultimate_report_dashboard.php:1031
+#: includes/ic_commerce_ultimate_report_dashboard.php:1032
+#: includes/ic_commerce_ultimate_report_dashboard.php:1279
+#: includes/ic_commerce_ultimate_report_dashboard.php:1280
+#: includes/ic_commerce_ultimate_report_dashboard.php:1281
+msgid "Top Coupons"
+msgstr "Купони детайл от %s"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1050
+#: includes/ic_commerce_ultimate_report_dashboard.php:1296
+#, php-format
+msgid "Top %s Payment Gateway"
+msgstr "Топ %s плащане шлюза"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:1053
+#: includes/ic_commerce_ultimate_report_dashboard.php:1054
+#: includes/ic_commerce_ultimate_report_dashboard.php:1055
+#: includes/ic_commerce_ultimate_report_dashboard.php:1299
+#: includes/ic_commerce_ultimate_report_dashboard.php:1300
+#: includes/ic_commerce_ultimate_report_dashboard.php:1301
+msgid "Top Payment Gateway"
+msgstr "Портал за плащане"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2082
+msgid "Sales Order"
+msgstr "Поръчка за продажба"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2106
+#: includes/ic_commerce_ultimate_report_dashboard.php:2940
+msgid "No Order found."
+msgstr "Поръчката не е намерен"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2243
+msgid "No Status found."
+msgstr "Няма намерени статус."
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2339
+msgid "Item Name"
+msgstr "Име на елемент"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2340
+#: includes/ic_commerce_ultimate_report_dashboard.php:3307
+msgid "Qty"
+msgstr "К-во"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2361
+msgid "No Product found."
+msgstr "Не е намерен продукт."
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2469
+msgid "No Country found."
+msgstr "Нито една страна не основавам."
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2598
+msgid "No State found."
+msgstr "Няма държава намерени."
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:2703
+msgid "No Payment found."
+msgstr "Никакво плащане намерени."
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:3048
+msgid "Billing Name"
+msgstr "Фактуриране"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:3092
+msgid "No Customer found."
+msgstr "Няма клиент, намерени."
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:3180
+msgid "Coupon Used Count"
+msgstr "Купон използва граф"
+
+#: includes/ic_commerce_ultimate_report_dashboard.php:3201
+#: includes/ic_commerce_ultimate_report_dashboard.php:3327
+msgid "No Coupons found."
+msgstr "Няма намерени кодове за отстъпка"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:656
+msgid "Product Image"
+msgstr "Изображение на продукта"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:678
+#, php-format
+msgid "Download %d"
+msgstr "Изтегляне %d"
+
+#: includes/ic_commerce_ultimate_report_export_invoice.php:680
+msgid "Download"
+msgstr "Изтегляне"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:2223
+msgid "Letter"
+msgstr "Буква"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:2224
+msgid "Legal"
+msgstr "Юридически"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:2225
+msgid "A0"
+msgstr "A0"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:2226
+msgid "A1"
+msgstr "A1"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:2227
+msgid "A2"
+msgstr "A2"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:2228
+msgid "A3"
+msgstr "A3"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:2229
+msgid "A4"
+msgstr "A4"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:2230
+msgid "A5"
+msgstr "A5"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:2231
+msgid "A6"
+msgstr "A6"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:2380
+msgid "previous"
+msgstr "предишна"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:2381
+msgid "next"
+msgstr "Следващa"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:2623
+#, php-format
+msgid "Total product variations: %s"
+msgstr "Общо продукт варианти: %s"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:2750
+msgid "Cart % Discount"
+msgstr "% отстъпка в количката"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:2751
+msgid "Product Discount"
+msgstr "Намалени Продукти"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:2752
+msgid "Product % Discount"
+msgstr "Продукт с % отстъпка"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:3417
+#: includes/ic_commerce_ultimate_report_variation.php:1020
+msgid "-"
+msgstr "-"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:3688
+#: includes/ic_commerce_ultimate_report_schedule_mailing.php:125
+msgid "Once Daily"
+msgstr "Веднъж дневно"
+
+#: includes/ic_commerce_ultimate_report_fuctions.php:3689
+#: includes/ic_commerce_ultimate_report_schedule_mailing.php:126
+msgid "Once Weekly"
+msgstr "Веднъж седмично"
+
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:54
+#: includes/ic_commerce_ultimate_report_product_analysis.php:48
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:45
+msgid "Start Date:"
+msgstr "Начална дата :"
+
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:58
+#: includes/ic_commerce_ultimate_report_product_analysis.php:52
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:49
+msgid "End Date:"
+msgstr "Крайна дата :"
+
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:72
+#: includes/ic_commerce_ultimate_report_product_analysis.php:75
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:76
+msgid "DESC"
+msgstr "Низх"
+
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:73
+#: includes/ic_commerce_ultimate_report_product_analysis.php:76
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:77
+msgid "ASC"
+msgstr "Възх"
+
+#: includes/ic_commerce_ultimate_report_group_variable_product_analysis.php:397
+msgid "Product Combination"
+msgstr "Комбинация от продукти"
+
+#: includes/ic_commerce_ultimate_report_init.php:348
+#: includes/ic_commerce_ultimate_report_init.php:370
+#: includes/ic_commerce_ultimate_report_init.php:386
+msgid " Dashboard"
+msgstr "ТАБЛО"
+
+#: includes/ic_commerce_ultimate_report_init.php:348
+#: includes/ic_commerce_ultimate_report_init.php:370
+#: includes/ic_commerce_ultimate_report_init.php:386
+#: includes/ic_commerce_ultimate_report_init.php:430
+msgid "Dashboard"
+msgstr "ТАБЛО"
+
+#: includes/ic_commerce_ultimate_report_init.php:350
+#: includes/ic_commerce_ultimate_report_init.php:372
+msgid " Reports"
+msgstr "Преки доклади"
+
+#: includes/ic_commerce_ultimate_report_init.php:350
+#: includes/ic_commerce_ultimate_report_init.php:372
+msgid "Detail"
+msgstr "Детайли"
+
+#: includes/ic_commerce_ultimate_report_init.php:351
+#: includes/ic_commerce_ultimate_report_init.php:373
+#: includes/ic_commerce_ultimate_report_init.php:407
+msgid " Settings"
+msgstr "Настройки"
+
+#: includes/ic_commerce_ultimate_report_init.php:351
+#: includes/ic_commerce_ultimate_report_init.php:373
+#: includes/ic_commerce_ultimate_report_init.php:407
+#: includes/ic_commerce_ultimate_report_init.php:446
+#: includes/ic_commerce_ultimate_report_init.php:514
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/ic_commerce_ultimate_report_init.php:388
+msgid " Details"
+msgstr "Детайли за обява"
+
+#: includes/ic_commerce_ultimate_report_init.php:388
+#: includes/ic_commerce_ultimate_report_init.php:438
+msgid "Details"
+msgstr "Детайли за обява"
+
+#: includes/ic_commerce_ultimate_report_init.php:389
+msgid " All Details"
+msgstr "Детайли за обява"
+
+#: includes/ic_commerce_ultimate_report_init.php:389
+msgid "All Details"
+msgstr "Детайли за обява"
+
+#: includes/ic_commerce_ultimate_report_init.php:390
+msgid " Crosstab"
+msgstr "Кръстосана заявка"
+
+#: includes/ic_commerce_ultimate_report_init.php:390
+#: includes/ic_commerce_ultimate_report_init.php:485
+msgid "Crosstab"
+msgstr "Кръстосана заявка"
+
+#: includes/ic_commerce_ultimate_report_init.php:391
+msgid " Variation"
+msgstr "Изменение"
+
+#: includes/ic_commerce_ultimate_report_init.php:393
+msgid " Stock List"
+msgstr "В наличност"
+
+#: includes/ic_commerce_ultimate_report_init.php:393
+#: includes/ic_commerce_ultimate_report_init.php:504
+#: includes/ic_commerce_ultimate_report_stock_list.php:71
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:80
+msgid "Stock List"
+msgstr "Наличност"
+
+#: includes/ic_commerce_ultimate_report_init.php:395
+msgid " Variation Stock List"
+msgstr "Списъкът за наличност на вариация"
+
+#: includes/ic_commerce_ultimate_report_init.php:395
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:226
+msgid "Variation Stock"
+msgstr "вариация"
+
+#: includes/ic_commerce_ultimate_report_init.php:396
+msgid " Projected Vs Actual Sales"
+msgstr "Очаква срещу действителни продажби"
+
+#: includes/ic_commerce_ultimate_report_init.php:396
+#: includes/ic_commerce_ultimate_report_projected_actual_sales.php:72
+msgid "Projected Vs Actual Sales"
+msgstr "Очаква срещу действителни продажби"
+
+#: includes/ic_commerce_ultimate_report_init.php:397
+msgid " Tax Report"
+msgstr "Данъчен отчет"
+
+#: includes/ic_commerce_ultimate_report_init.php:397
+#: includes/ic_commerce_ultimate_report_init.php:525
+msgid "Tax Reports"
+msgstr "Преки доклади"
+
+#: includes/ic_commerce_ultimate_report_init.php:400
+msgid " Order Qty. Analysis Simple"
+msgstr "Поръчка кол анализ проста"
+
+#: includes/ic_commerce_ultimate_report_init.php:400
+#: includes/ic_commerce_ultimate_report_init.php:535
+msgid "Order Qty. Analysis Simple"
+msgstr "Поръчка кол анализ проста"
+
+#: includes/ic_commerce_ultimate_report_init.php:401
+msgid " Order Qty. Analysis Variable"
+msgstr "Поръчка кол анализ променлива"
+
+#: includes/ic_commerce_ultimate_report_init.php:401
+#: includes/ic_commerce_ultimate_report_init.php:530
+msgid "Order Qty. Analysis Variable"
+msgstr "Поръчка кол анализ променлива"
+
+#: includes/ic_commerce_ultimate_report_init.php:402
+msgid " Product Group Sales Analysis"
+msgstr "Продуктова група анализ на продажби"
+
+#: includes/ic_commerce_ultimate_report_init.php:402
+#: includes/ic_commerce_ultimate_report_init.php:540
+msgid "Product Group Sales Analysis"
+msgstr "Продуктова група анализ на продажби"
+
+#: includes/ic_commerce_ultimate_report_init.php:469
+msgid "Ultimate WooCommerce Report Dashboard"
+msgstr "Последен WooCommerce доклад табло"
+
+#: includes/ic_commerce_ultimate_report_init.php:479
+msgid "All Page"
+msgstr "Цялата страница"
+
+#: includes/ic_commerce_ultimate_report_init.php:509
+msgid "Variation Stock List"
+msgstr "Списъкът за наличност на вариация"
+
+#: includes/ic_commerce_ultimate_report_init.php:519
+msgid "Projectd Vs Actual Sales"
+msgstr "Projectd срещу действителни продажби"
+
+#: includes/ic_commerce_ultimate_report_init.php:1061
+#, php-format
+msgid " depends on <a href=\"%s\">"
+msgstr "зависи от<a href=\"%s\"></a>"
+
+#: includes/ic_commerce_ultimate_report_init.php:1064
+#, php-format
+msgid ""
+" depends on <a href=\"%s\" target=\"_blank\" class=\"thickbox onclick\" "
+"title=\""
+msgstr ""
+"зависи < href = \"%s\" target = \"_blank\" клас = \"thickbox onclick\" "
+"заглавие = \""
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:331
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:355
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:508
+msgid "Projected Sales"
+msgstr "Планирани продажби"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:332
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:356
+msgid "Actual Sales"
+msgstr "Действителни продажби"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:333
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:357
+msgid "Difference"
+msgstr "Разлика"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:334
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:358
+msgid "%"
+msgstr "%"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:336
+msgid "Total % to Sales"
+msgstr "Общо % продажби"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:337
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:359
+msgid "Refund Amt."
+msgstr "Възстановяване сума"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:338
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:360
+msgid "Part Refund Amount"
+msgstr "Сума за възстановяване"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:339
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:361
+msgid "Total Discount Amt."
+msgstr "Обща отстъпка сума"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:340
+msgid "Tax Amt."
+msgstr "Данък сума"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:341
+msgid "Shipping Order Tax"
+msgstr "Доставка поръчка данък"
+
+#: includes/ic_commerce_ultimate_report_monthly_summary.php:342
+msgid "Total Shipping Tax"
+msgstr "Общо доставка"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "January"
+msgstr "Януари"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "February"
+msgstr "Февруари"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "March"
+msgstr "Март"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "April"
+msgstr "Април"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "May"
+msgstr "Май"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "June"
+msgstr "Юни"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "July"
+msgstr "Юли"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "August"
+msgstr "Август"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "September"
+msgstr "Септември"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "October"
+msgstr "Октомври"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "November"
+msgstr "Ноември"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:29
+msgid "December"
+msgstr "Декември"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:64
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:67
+msgid "Save Changes"
+msgstr "Запазване на промените"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:73
+msgid "Please Wait"
+msgstr "Моля Изчакайте"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:73
+msgid "Close"
+msgstr "Затвори"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:209
+msgid ""
+"<strong>Bad Authentication of Google Analytics:-</strong>Username or "
+"Password is incorrect."
+msgstr ""
+"<strong>Лош удостоверяване на Google Анализ:-</strong> Потребителско име или "
+"парола е неправилен."
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:234
+msgid "Your are successfully logged in"
+msgstr "Вашите са успешно сте влезли в"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:250
+msgid "Settings saved"
+msgstr "Настройките са записани"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:334
+msgid "Your are successfully logged out of Google Analytic account."
+msgstr "Вашите са успешно излезли от Google аналитична сметка."
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:447
+msgid "Dashboard Sections:"
+msgstr "Активиране на резюме на таблото за управление:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:449
+msgid "Enable Sections:"
+msgstr "Разрешаване на раздели:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:451
+msgid "Show Graphical Presentation:"
+msgstr "Показване на графично представяне:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:453
+msgid "Show Monthly Summary:"
+msgstr "Ежемесечно:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:455
+msgid "Show Map:"
+msgstr "Покажи карта"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:457
+msgid "Show Order Summary:"
+msgstr "Информация за поръчка:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:459
+msgid "Show Sales Order Status:"
+msgstr "Показвай състоянието на поръчката за продажба:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:461
+msgid "Show Top Products:"
+msgstr "Топ продукти"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:463
+msgid "Show Top Categories:"
+msgstr "Категории"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:465
+msgid "Show Top Countries:"
+msgstr "Показване на възстановяването Забележка:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:467
+msgid "Show Top States:"
+msgstr "Клиенти"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:469
+msgid "Show Recent Orders:"
+msgstr "Последните поръчки за %s"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:471
+msgid "Show Top Customers:"
+msgstr "Клиенти"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:473
+msgid "Show Top Coupons:"
+msgstr "Топ %s купони"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:475
+msgid "Show Top Payments:"
+msgstr "Показване на възстановяването Забележка:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:477
+msgid "Show Monthly Profit Center:"
+msgstr "Покажи месечна печалба център:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:479
+msgid "Show Top Profit Products:"
+msgstr "Топ %s продукти"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:482
+msgid "Dashboard Setting:"
+msgstr "ТАБЛО"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:483
+msgid "Recent Order:"
+msgstr "Последна поръчка"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:484
+msgid "Top Product:"
+msgstr "Топ продукт:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:485
+msgid "Top Category:"
+msgstr "Състояние:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:486
+msgid "Top Customer:"
+msgstr "Клиент:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:487
+msgid "Top Billing Country:"
+msgstr "Държава за фактуриране"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:488
+msgid "Top State Country:"
+msgstr "Топ фактуриране, щат"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:489
+msgid "Top Payment Gateway:"
+msgstr "Портал за плащане"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:490
+msgid "Top Coupon:"
+msgstr "Купон"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:491
+msgid "Show Selected Order Status only:"
+msgstr "Показване само на избрани статус на поръчка:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:491
+msgid "Setting for Dashboard \"<strong>Sales Order Status</strong>\" box."
+msgstr ""
+"Настройка за таблото \"<strong>Статус на поръчка за продажби</strong>\" "
+"кутия."
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:505
+msgid "Current Projected Year"
+msgstr "Текущата планирана година"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:506
+msgid "Current Projected Sales Year:"
+msgstr "Текущи прогнозираните продажби година:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:509
+msgid "Projected Sales Year:"
+msgstr "Прогнозираните продажби година:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:511
+#, php-format
+msgid "Sales Month %s:"
+msgstr "Продажби месец %s:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:514
+msgid "Per Page:"
+msgstr "На страница"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:515
+msgid "Detail Page Orders:"
+msgstr "Детайл страница поръчки:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:516
+msgid "Detail Stock Orders:"
+msgstr "Подробно наличност поръчки:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:517
+msgid "Detail Variation Stock Orders:"
+msgstr "Подробно вариация наличност поръчки:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:518
+msgid "Detail View All Report:"
+msgstr "Детайли преглед всички отчет:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:519
+msgid "Detail Variation Report:"
+msgstr "Доклад за подробни вариация:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:520
+msgid "Customer Page Report:"
+msgstr "Клиент страница доклад:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:524
+msgid "Default Settings:"
+msgstr "Настройки по подразбиране:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:525
+msgid "Shop Order Status:"
+msgstr "Статус на поръчка:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:525
+msgid ""
+"Ctrl + click to multiselect. <br /> Selected status will be used for "
+"calculating salse amount."
+msgstr ""
+"Ctrl + щракване за множествен избор.<br>Избрания статут ще се използва за "
+"изчисляване на salse сума."
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:526
+msgid "Hide Trash Order:"
+msgstr "Скриване на кошчето ред:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:530
+msgid "Cross Tab Reports:"
+msgstr "Кръст в раздела отчети:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:531
+msgid "Cross Tab Start Month:"
+msgstr "Кръст в раздела Начален месец:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:532
+msgid "Cross Tab End Month:"
+msgstr "Краен месец:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:535
+msgid "Export Report:"
+msgstr "Експортиране в PDF:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:537
+msgid "(Pdf/Print) Report Title:"
+msgstr "Заглавие на отчета:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:545
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:625
+msgid "Logo Image:"
+msgstr "Лого Изображение"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:549
+msgid "Email Reports:"
+msgstr "Отчети по имейл:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:551
+msgid "Email Today Report:"
+msgstr "Имейл днес доклад:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:553
+msgid "Email Yesterday Report:"
+msgstr "Имейл вчера доклад:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:555
+msgid "Email Current Week Report:"
+msgstr "Email текущата седмица доклад:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:557
+msgid "Email Last Week Report:"
+msgstr "Имейл доклад миналата седмица:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:559
+msgid "Email Current Month Report:"
+msgstr "Доклад за текущия месец на имейл:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:561
+msgid "Email Last Month Report:"
+msgstr "Имейл миналия месец доклад:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:563
+msgid "Email Current Year Report:"
+msgstr "Email текущата година отчет:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:565
+msgid "Email Last Year Report:"
+msgstr "Имейл миналата година доклад:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:567
+msgid "Email Till Today Report:"
+msgstr "Имейл до днес доклад:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:571
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:97
+msgid "Email Send To:"
+msgstr "Изпращане на имейл до:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:572
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:98
+msgid "From Name:"
+msgstr "Име на формата"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:573
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:99
+msgid "From Email:"
+msgstr "От Е-поща"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:574
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:100
+msgid "Subject:"
+msgstr "Тема:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:576
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:102
+msgid "Email Schedule:"
+msgstr "Електронна поща:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:576
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:102
+msgid "Unschedule Event"
+msgstr "Unschedule събитие"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:578
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:103
+msgid "Activate Email Reporting:"
+msgstr "Активирайте отчитане на имейл:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:586
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:112
+msgid "Active"
+msgstr "Активна"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:587
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:591
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:113
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:117
+msgid "Schedule Status:"
+msgstr "Състояние на график:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:590
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:116
+msgid ""
+"Schedule mailing stoped or not activated or unschedule event or try again"
+msgstr ""
+"График пощенски спирам или не е активирана или unschedule събитие или "
+"опитайте отново"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:599
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:123
+msgid ""
+"Automatic Schedule mailing can not work, because \"DISABLE_WP_CRON\" is "
+"defined as \"TRUE\" on this plug-ins setting page in \"Cron URL Settings\" "
+"section."
+msgstr ""
+"Автоматично изпращане на справки може да не работят, защото \"DISABLE_WP_CRON"
+"\" се дефинира като \"Истинска\" на този plug-ins настройка страница в "
+"секцията \"Cron URL настройки\"."
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:601
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:125
+msgid ""
+"Schedule mailing can not work, because \"DISABLE_WP_CRON\" is defined as "
+"\"TRUE\" in wp-config.php file or somewhere else. To define this to \"FALSE"
+"\" open wp-config.php file in WordPress root folder and set it to \"FALSE\" "
+"or comment."
+msgstr ""
+"Пощенски списък може да не работят, защото \"DISABLE_WP_CRON\" се дефинира "
+"като \"Истинска\" в wp-config.php файл или някъде другаде. За да дефинирате "
+"това \"ФАЛШИВИ\" отворен wp-config.php файл в главната папка на WordPress и "
+"поставям то към \"FALSE\" или коментар."
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:604
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:128
+msgid "WP CRON Status:"
+msgstr "WP CRON статус:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:607
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:131
+msgid "Action:"
+msgstr "Добавяне на операция"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:607
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:131
+msgid "Test Mail"
+msgstr "Тест за поща"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:617
+msgid "PDF Invoice:"
+msgstr "PDF фактура:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:621
+msgid "Company Address1:"
+msgstr "Компанията ИКТ1:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:623
+msgid "Company Address2:"
+msgstr "Компанията Адрес2:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:626
+msgid "Comapany Name and Logo Align:"
+msgstr "Comapany име и лого подравняване:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:628
+msgid "Comapany Name Left and Logo Left"
+msgstr "Ляво Comapany име и лого отляво"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:633
+msgid "Show Signature:"
+msgstr "Подпис:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:634
+msgid "Signature Align:"
+msgstr "Подравняване на подпис:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:634
+msgid "Left"
+msgstr "Наляво"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:634
+msgid "Center"
+msgstr "Центрирано"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:634
+msgid "Right"
+msgstr "Добре."
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:635
+msgid "Signature Image:"
+msgstr "Изображение на подпис:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:639
+msgid "Show Footer Note:"
+msgstr "Покажи долен бележка:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:640
+msgid "Footer Note(after signature):"
+msgstr "Долен бележка (след подпис):"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:644
+msgid "Show Invoice Creation Date:"
+msgstr "Показва дата на създаване на фактура:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:648
+msgid "Graph Setting:"
+msgstr "Настройка на графиката:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:649
+msgid "Graph Height:"
+msgstr "Височина на графика:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:650
+msgid "Tick Angle:"
+msgstr "Кърлежи ъгъл:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:651
+msgid "Tick Font Size:"
+msgstr "Отбележете размер на шрифта:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:652
+msgid "Tick Character Length:"
+msgstr "Кърлежи характер дължина:"
+
+#: includes/ic_commerce_ultimate_report_plugin_settings.php:653
+msgid "Tick Character Suffix:"
+msgstr "Кърлежи символи суфикс:"
+
+#: includes/ic_commerce_ultimate_report_product_analysis.php:257
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:257
+msgid "No of Order"
+msgstr "Подреждане по:"
+
+#: includes/ic_commerce_ultimate_report_product_analysis.php:259
+#: includes/ic_commerce_ultimate_report_variable_product_analysis.php:259
+msgid "Price"
+msgstr "Цена"
+
+#: includes/ic_commerce_ultimate_report_product_analysis.php:283
+msgid "No record found"
+msgstr "Няма запис намерени"
+
+#: includes/ic_commerce_ultimate_report_projected_actual_sales.php:101
+msgid "Select Year:"
+msgstr "Изберете година:"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing.php:120
+msgid "Once Minute"
+msgstr "Веднъж минута"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing.php:121
+msgid "Once 5 Minutes"
+msgstr "След 5 минути"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing.php:122
+msgid "Once 10 Minutes"
+msgstr "След 10 минути"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing.php:124
+msgid "Once Hourly"
+msgstr "Веднъж всеки час"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing.php:128
+msgid "Twice Hourly"
+msgstr "На всеки час"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing.php:129
+msgid "Twice Daily"
+msgstr "приложение"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing.php:130
+msgid "Twice Weekly"
+msgstr "Веднъж седмично"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:85
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:211
+msgid "Please select Email Schedule."
+msgstr "Моля изберете имейл график."
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:90
+msgid "Please select Activate Email Reporting."
+msgstr "Моля изберете активиране мейл отчитане."
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:96
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:222
+msgid ""
+"Somehow next schedule is not set, please try re-activating schedule settting."
+msgstr ""
+"Някак следващия график не е зададен, опитайте повторно активиране график "
+"settting."
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:105
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:231
+msgid "Email has been sent successfully."
+msgstr "Имейл е изпратен успешно."
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:107
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:129
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:233
+msgid "Getting problem while sending mail."
+msgstr "Първи проблем при изпращане на поща."
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:112
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:238
+msgid "Click on \"Save Changes\" button for saving changes and try again."
+msgstr ""
+"Кликнете върху \"Запазване на промените\" бутона за записване на промените и "
+"опитайте отново."
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:126
+msgid "Email sent successfully."
+msgstr "Email е изпратено успешно"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:260
+msgid "Today's"
+msgstr "Днешните"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:271
+msgid "Yesterday"
+msgstr "Вчера"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:280
+msgid "Current Week"
+msgstr "Текущ"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:290
+msgid "Last Week"
+msgstr "Миналата седмица"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:299
+msgid "Current Month"
+msgstr "Този месец"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:308
+msgid "Last Month"
+msgstr "Последен Месец"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:317
+msgid "Current Year"
+msgstr "Текущата година"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:326
+msgid "Last Year"
+msgstr "Миналата година"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:336
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:120
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:129
+msgid "Till Date"
+msgstr "Към днешна дата:"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:444
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:445
+msgid "Created Date/Time: "
+msgstr "Създаден дата/час:"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:444
+msgid "(Wordpress Set Time Zone)"
+msgstr "(Wordpress определени часова зона)"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:445
+msgid "(Default Server Time Zone)"
+msgstr "(По подразбиране сървър часова зона)"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:446
+msgid "Site URL:"
+msgstr "URL на сайта"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:822
+msgid "Summary -"
+msgstr "Резюме"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:829
+msgid "Total Sales:"
+msgstr "Общо продажби"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:836
+msgid "Total Sales Amount:"
+msgstr "Обща сума на продажбите:"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:843
+msgid "Discount Amount:"
+msgstr "Намаление"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:851
+msgid "Coupon Amount:"
+msgstr "Купон сума:"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:858
+msgid "Refund Amount:"
+msgstr "Сума за възстановяване"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:866
+msgid "Shipping Tax Amount:"
+msgstr "Сума от таксата за доставка"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:874
+msgid "Order Tax Amount:"
+msgstr "Поръчка данък сума:"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:884
+msgid "Total Tax Amount:"
+msgstr "Общ данък сума:"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:894
+msgid "Shipping Amount:"
+msgstr "Сума от доставка"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:904
+msgid "Average Sales:"
+msgstr "Средните продажби:"
+
+#: includes/ic_commerce_ultimate_report_schedule_mailing_sales_status.php:915
+msgid "New Customer:"
+msgstr "Нов потребител"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:82
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:94
+msgid "SKU No:"
+msgstr "SKU №:"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:86
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:98
+msgid "Product Name:"
+msgstr "Име на продукта"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:94
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:106
+msgid "Min Stock:"
+msgstr "Мин състав:"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:98
+msgid "Max Stock:"
+msgstr "Макс склад:"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:107
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:119
+msgid "Product Stock:"
+msgstr "Продукт състав:"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:111
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:123
+msgid "Show all sub-types:"
+msgstr "Покажи всички подтипове:"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:122
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:134
+msgid "Stock Status:"
+msgstr "Статус на наличностите:"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:125
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:137
+msgid "In stock"
+msgstr "Наличен"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:125
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:137
+msgid "Out of stock"
+msgstr "Изчерпано"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:131
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:143
+msgid "Manage Stock:"
+msgstr "Управлява ли наличностите?"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:134
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:146
+msgid "Include items whose stock is mannaged"
+msgstr "Включвай елементи, чийто състав е mannaged"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:134
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:146
+msgid "Include items whose stock is not mannaged"
+msgstr "Включвай елементи, чийто състав не е mannaged"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:180
+#: includes/ic_commerce_ultimate_report_variation.php:297
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:192
+msgid "Product SKU:"
+msgstr "Продукт SKU:"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:209
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:239
+msgid "Basic Column:"
+msgstr "Основни колони:"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:213
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:243
+msgid "Zero Stock:"
+msgstr "Нулева наличност:"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:237
+msgid "Search Product"
+msgstr "Търсене на продукт"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:312
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:351
+msgid "Product variation"
+msgstr "Продукт вариация"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:313
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:352
+msgid "List of products variation"
+msgstr "Списък на продуктите вариация"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:339
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:985
+msgid "Show all sub-types"
+msgstr "Показва всички типове"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:343
+#: includes/ic_commerce_ultimate_report_stock_list.php:1424
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:989
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1422
+msgid "Downloadable"
+msgstr "Продукти за изтегляне"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:347
+#: includes/ic_commerce_ultimate_report_stock_list.php:1425
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:993
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1423
+msgid "Virtual"
+msgstr "Виртуален"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:376
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1005
+msgid "Show all product types"
+msgstr "Показва всички продуктови типове"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:384
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1013
+msgid "Grouped product"
+msgstr "Групирани продукти"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:386
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1015
+msgid "External/Affiliate product"
+msgstr "Външен/Афилиейт продукт"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:388
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1017
+msgid "Simple product"
+msgstr "Обикновен продукт"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:390
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1019
+msgid "Variable"
+msgstr "Вариация"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:582
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:800
+msgid "No order found."
+msgstr "Поръчката не е намерен"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:1417
+msgid "Product Type"
+msgstr "Типове продукти"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:1419
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1420
+msgid "Created Date"
+msgstr "Datum der  Schopfung."
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:1420
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1421
+msgid "Modified Date"
+msgstr "Променено на"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:1422
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1426
+msgid "Regular Price"
+msgstr "Стандартна цена"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:1423
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1427
+msgid "Sale Price"
+msgstr "Продажна цена"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:1426
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1424
+msgid "Manage Stock"
+msgstr "Управление на наличностите"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:1427
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1425
+msgid "Backorders"
+msgstr "Просрочените"
+
+#: includes/ic_commerce_ultimate_report_stock_list.php:1428
+msgid "Stock Status"
+msgstr "Наличност"
+
+#: includes/ic_commerce_ultimate_report_summary_coupon_discount_type.php:68
+msgid "Discount Type"
+msgstr "Вид намаление"
+
+#: includes/ic_commerce_ultimate_report_summary_coupon_discount_type.php:70
+#: includes/ic_commerce_ultimate_report_summary_coupon_discount_type.php:87
+msgid "Discount Amount"
+msgstr "Намаление"
+
+#: includes/ic_commerce_ultimate_report_summary_coupon_discount_type.php:86
+msgid "Product Qty."
+msgstr "Продукт количество"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:134
+msgid "New Customer/Repeat Customer Analysis"
+msgstr "Нов клиент/повторение клиент анализ"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:146
+msgid "Months"
+msgstr "Месеца"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:147
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:167
+msgid "Total Sales Amt."
+msgstr "Общо продажби"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:148
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:168
+msgid "Total Order Count"
+msgstr "Общ ред брой"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:149
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:169
+msgid "New Customer Count"
+msgstr "Нов брой на клиент"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:150
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:170
+msgid "Repeat Customer Count"
+msgstr "Клиент брой повторения"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:151
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:171
+msgid "New Customer Sales Amt."
+msgstr "Нов / повторен анализ на клиентите"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:152
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:172
+msgid "Repeat Customer Sales Amt."
+msgstr "Нов / повторен анализ на клиентите"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_analysis.php:166
+msgid "Months Count"
+msgstr "Продажна сума"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:48
+msgid "Customer Who Has Not Purchased"
+msgstr "Клиент, който не е закупил"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:100
+msgid "Avg. Calc From Date:"
+msgstr "Средна Calc от дата:"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:104
+msgid "Avg. Calc To Date:"
+msgstr "Ср. Зъби"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:111
+msgid "Billing Name:"
+msgstr "Фактуриране"
+
+#: includes/ic_commerce_ultimate_report_summary_customer_not_purchased.php:115
+msgid "Billing Email:"
+msgstr "Имейл адрес при поръчка *задължително"
+
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:112
+msgid "Min Order Count:"
+msgstr "Мин ред брой:"
+
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:182
+msgid "Top n Customer Report Who Orders Frequently"
+msgstr "Топ n клиент доклад, който поръчва често"
+
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:322
+msgid "Report Item"
+msgstr "Елемент на отчет"
+
+#: includes/ic_commerce_ultimate_report_summary_frequently_order_customers.php:373
+msgid "Avg. Customer Count"
+msgstr "Средна клиента брой"
+
+#: includes/ic_commerce_ultimate_report_summary_sales_reports.php:84
+msgid "Order Year"
+msgstr "Поръчка"
+
+#: includes/ic_commerce_ultimate_report_summary_sales_reports.php:103
+msgid "Month Count"
+msgstr "Месец"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:53
+msgid "Stock Greater Than:"
+msgstr "Статус на наличностите:"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:70
+msgid "Stock Less Than:"
+msgstr "Запасите по-малко от:"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:119
+msgid "Last Sales Date"
+msgstr "Последна дата на продажба"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:120
+msgid "Stock Qty"
+msgstr "Налично К-во"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:137
+msgid "Total Stock"
+msgstr "Общия запас"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:152
+msgid "Actions"
+msgstr "Операции"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:165
+msgid "Edit Product"
+msgstr "Редактиране на продукт"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:166
+msgid "View Product"
+msgstr "Преглед продукт"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:400
+msgid "Any"
+msgstr "Всички"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:706
+#: includes/ic_commerce_ultimate_report_summary_stock_alert.php:720
+msgid "View More"
+msgstr "Виж още &rarr;"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:93
+msgid "Stock Email Alert:"
+msgstr "Фондова имейл предупреждение:"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:94
+msgid "Zero Level:"
+msgstr "Нулево ниво:"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:95
+msgid "Minimum Level:"
+msgstr "Склад за минимални нива:"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_alert_email.php:216
+msgid "Please select, Activate Email Reporting."
+msgstr "Моля изберете, активизирам Email съобщаване."
+
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:91
+msgid "Summary Stock Planner Based On Average Sales"
+msgstr "Резюме състав Планер на база средно продажби"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:116
+msgid "Product Variation"
+msgstr "вариация на продукта"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:117
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:126
+msgid "Avg. Sales Qty."
+msgstr "Средна продажби кол"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:118
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:127
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:151
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:175
+msgid "Current Stock Qty"
+msgstr "Текущ запас"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:119
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:128
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:176
+msgid "Stock Valid Days"
+msgstr "Фондова валидни дни"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:174
+msgid "Avg. Quantity Sold"
+msgstr "Продаденото количество"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:197
+#: includes/ic_commerce_ultimate_report_variation.php:268
+msgid "Simple Products"
+msgstr "Обикновенни продукти"
+
+#: includes/ic_commerce_ultimate_report_summary_stock_planner.php:197
+#: includes/ic_commerce_ultimate_report_variation.php:126
+#: includes/ic_commerce_ultimate_report_variation.php:268
+msgid "Variation Products"
+msgstr "Вариация продукти"
+
+#: includes/ic_commerce_ultimate_report_summary_tag_based.php:95
+msgid "Tag Name"
+msgstr "Име на нов етикет"
+
+#: includes/ic_commerce_ultimate_report_summary_tag_based.php:115
+msgid "Tag Count"
+msgstr "Броя"
+
+#: includes/ic_commerce_ultimate_report_summary_tag_based.php:160
+msgid "Tags:"
+msgstr "Етикети:"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:204
+msgid "Tax Group By:"
+msgstr "Данъчна група от:"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:211
+msgid "State"
+msgstr "Област"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:212
+msgid "Country"
+msgstr "Държава"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:213
+msgid "Zip Code"
+msgstr "Пощенски код"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:215
+msgid "Tax Summary"
+msgstr "Данъчни Резюме"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:216
+msgid "City Summary"
+msgstr "Сити Резюме"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:217
+msgid "State Summary"
+msgstr "Държавен Резюме"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:218
+msgid "Country Summary"
+msgstr "Страната Резюме"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:459
+#: includes/ic_commerce_ultimate_report_tax_report.php:477
+#: includes/ic_commerce_ultimate_report_tax_report.php:496
+#: includes/ic_commerce_ultimate_report_tax_report.php:512
+#: includes/ic_commerce_ultimate_report_tax_report.php:559
+#: includes/ic_commerce_ultimate_report_tax_report.php:574
+#: includes/ic_commerce_ultimate_report_tax_report.php:588
+msgid "Tax Country"
+msgstr "Данъчни страна"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:460
+#: includes/ic_commerce_ultimate_report_tax_report.php:478
+#: includes/ic_commerce_ultimate_report_tax_report.php:560
+#: includes/ic_commerce_ultimate_report_tax_report.php:575
+msgid "Tax State"
+msgstr "Данъчно състояние"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:461
+#: includes/ic_commerce_ultimate_report_tax_report.php:561
+msgid "Tax City"
+msgstr "Данъчни Сити"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:463
+#: includes/ic_commerce_ultimate_report_tax_report.php:480
+#: includes/ic_commerce_ultimate_report_tax_report.php:498
+#: includes/ic_commerce_ultimate_report_tax_report.php:515
+#: includes/ic_commerce_ultimate_report_tax_report.php:530
+msgid "Tax Rate Code"
+msgstr "Код на ставката"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:469
+#: includes/ic_commerce_ultimate_report_tax_report.php:486
+#: includes/ic_commerce_ultimate_report_tax_report.php:504
+#: includes/ic_commerce_ultimate_report_tax_report.php:521
+#: includes/ic_commerce_ultimate_report_tax_report.php:537
+#: includes/ic_commerce_ultimate_report_tax_report.php:551
+#: includes/ic_commerce_ultimate_report_tax_report.php:566
+#: includes/ic_commerce_ultimate_report_tax_report.php:580
+#: includes/ic_commerce_ultimate_report_tax_report.php:593
+msgid "Part Refund."
+msgstr "Част възстановяване."
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:470
+#: includes/ic_commerce_ultimate_report_tax_report.php:487
+#: includes/ic_commerce_ultimate_report_tax_report.php:505
+#: includes/ic_commerce_ultimate_report_tax_report.php:522
+#: includes/ic_commerce_ultimate_report_tax_report.php:538
+#: includes/ic_commerce_ultimate_report_tax_report.php:552
+#: includes/ic_commerce_ultimate_report_tax_report.php:567
+#: includes/ic_commerce_ultimate_report_tax_report.php:581
+#: includes/ic_commerce_ultimate_report_tax_report.php:594
+msgid "(Net- Refund) Amt."
+msgstr "(Нет - възстановяване) Сума"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:513
+msgid "Tax Zip"
+msgstr "Данъчни Zip"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:608
+msgid "Refund Tax"
+msgstr "Възстановяване"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:609
+msgid "Refund Shipping Tax"
+msgstr "Доставка данък за възстановяване"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:610
+msgid "Total Tax Refund"
+msgstr "Общо данъчно възстановяване"
+
+#: includes/ic_commerce_ultimate_report_tax_report.php:612
+msgid "Net Total Tax"
+msgstr "Общо данък"
+
+#: includes/ic_commerce_ultimate_report_variation.php:252
+msgid "Enable variations selection by clicking show variable products"
+msgstr ""
+"Разрешаване на избора на варианти като щракнете върху Покажи променлива "
+"продукти"
+
+#: includes/ic_commerce_ultimate_report_variation.php:264
+msgid "Show:"
+msgstr "Покажи:"
+
+#: includes/ic_commerce_ultimate_report_variation.php:268
+msgid "All Products"
+msgstr "Всички продукти"
+
+#: includes/ic_commerce_ultimate_report_variation.php:278
+msgid "Style:"
+msgstr "Стил:"
+
+#: includes/ic_commerce_ultimate_report_variation.php:281
+msgid "Columner"
+msgstr "Columner"
+
+#: includes/ic_commerce_ultimate_report_variation.php:281
+msgid "Comma Separated"
+msgstr "разделение със запетая"
+
+#: includes/ic_commerce_ultimate_report_variation.php:285
+msgid "Enable style selection by clicking show variable products"
+msgstr ""
+"Разрешаване на избора на стил като щракнете върху Покажи променлива продукти"
+
+#: includes/ic_commerce_ultimate_report_variation.php:305
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:183
+msgid "Variation SKU:"
+msgstr "Вариация SKU:"
+
+#: includes/ic_commerce_ultimate_report_variation.php:561
+msgid "Product List"
+msgstr "Списък продукти"
+
+#: includes/ic_commerce_ultimate_report_variation.php:1146
+msgid "No order found"
+msgstr "Поръчката не е намерен"
+
+#: includes/ic_commerce_ultimate_report_variation.php:1577
+msgid "Total Result: "
+msgstr "Общ резултат:"
+
+#: includes/ic_commerce_ultimate_report_variation.php:1577
+msgid ", Amount: "
+msgstr "Сума:"
+
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:110
+msgid "MaxStock"
+msgstr "макс наличност"
+
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:155
+msgid ">Product:"
+msgstr "Продукт:"
+
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:159
+msgid "All Product"
+msgstr "Всички продукти"
+
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:168
+msgid "All Category"
+msgstr "Всички категории"
+
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:244
+msgid "Include items having 0 stock"
+msgstr "Включва елементи като 0 наличност"
+
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:913
+msgid "Edit this item"
+msgstr "Промяна на артикул"
+
+#: includes/ic_commerce_ultimate_report_variation_stock_list.php:1107
+#, php-format
+msgid "Results: <strong>%1$s/%2$s</strong>"
+msgstr "Резултати: <strong>%1$s/%2$s</strong>"
+
+#: woocommerce-ultimate-report.php:50
+msgid "Ultimate Woocommerce Report"
+msgstr "Последен Woocommerce доклад"
+
+#: woocommerce-ultimate-report.php:51
+msgid "Ultimate Report"
+msgstr "Последен доклад"
+
+#. Plugin Name of the plugin/theme
+msgid "Woocommerce Ultimate Reports"
+msgstr "Последен WooCommerce доклад табло"
+
+#. Description of the plugin/theme
+msgid ""
+"The latest release of our WooCommerce Report Plug-in has all features of "
+"Gold version plus new features like Projected Vs Actual Sales, Comprehensive "
+"Tax based Reporting, Improvised Dashboard, Filters by Variation Attributes, "
+"Sales summary by Map View, Graphs and much more."
+msgstr ""
+"Последната версия на нашия WooCommerce доклад Plug-in има всички функции на "
+"злато версия, плюс нови функции, като очаква срещу действителни продажби, "
+"пълна данъчна основа отчитане, импровизирани таблото, филтри от вариация "
+"атрибути, продажби Резюме от карта изглед, графики и много повече."
+
+#. Author of the plugin/theme
+msgid "Deepak Shah"
+msgstr "Дийпак шах"

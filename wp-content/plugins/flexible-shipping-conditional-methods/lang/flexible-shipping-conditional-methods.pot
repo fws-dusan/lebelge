@@ -1,0 +1,884 @@
+# Copyright (C) 2021 Flexible Shipping
+# This file is distributed under the same license as the Conditional Shipping Methods plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Conditional Shipping Methods 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/flexible-shipping-conditional-methods\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-27T14:52:01+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: flexible-shipping-conditional-methods\n"
+
+#. Plugin Name of the plugin
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:76
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:176
+msgid "Conditional Shipping Methods"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://flexibleshipping.com/products/conditional-shipping-methods-woocommerce/?utm_source=cm&utm_medium=link&utm_campaign=plugin-list-page"
+msgstr ""
+
+#. Description of the plugin
+msgid "Conditionally display and hide the shipping methods in your shop. Define the rules when the specific shipping methods should be available to pick and when not to."
+msgstr ""
+
+#. Author of the plugin
+msgid "Flexible Shipping"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://flexibleshipping.com/?utm_source=cm&utm_medium=link&utm_campaign=plugin-list-author"
+msgstr ""
+
+#. Translators: shipping method.
+#: src/Actions/ActionsFactory.php:23
+#: src/Actions/EnableShippingMethods.php:38
+msgid "All &quot;%1$s&quot; methods"
+msgstr ""
+
+#: src/Actions/DisableShippingMethods.php:32
+msgid "Disable only selected shipping methods"
+msgstr ""
+
+#: src/Actions/DisableShippingMethods.php:33
+msgid "Hide only selected shipping methods once the previously defined Condition is met."
+msgstr ""
+
+#: src/Actions/DisableShippingMethods.php:34
+#: src/Actions/EnableShippingMethods.php:28
+#: src/Actions/HidePaidShippingMethods.php:23
+msgid "Shipping methods"
+msgstr ""
+
+#: src/Actions/DisableShippingMethods.php:52
+#: src/Actions/EnableShippingMethods.php:46
+#: src/Conditions/ShippingMethod.php:49
+msgid "search shipping method"
+msgstr ""
+
+#: src/Actions/EnableShippingMethods.php:26
+msgid "Enable only selected shipping methods"
+msgstr ""
+
+#: src/Actions/EnableShippingMethods.php:27
+msgid "Display only selected shipping methods once the previously defined Condition is met."
+msgstr ""
+
+#. Translators: %1$s action_id.
+#: src/Actions/Exception/UnknownActionException.php:24
+msgid "Unknown action: %1$s"
+msgstr ""
+
+#: src/Actions/HidePaidShippingMethods.php:21
+msgid "Hide all paid shipping methods"
+msgstr ""
+
+#: src/Actions/HidePaidShippingMethods.php:22
+msgid "Hide every paid shipping method once the previously defined Condition is met."
+msgstr ""
+
+#: src/ConditionalForm/AbstractOptionField.php:58
+msgctxt "Default Condition Group"
+msgid "General"
+msgstr ""
+
+#: src/ConditionalForm/WooCommerce/views/conditional-form.php:48
+msgid "Missing settings table - settings cannot be saved!"
+msgstr ""
+
+#: src/ConditionalForm/WooCommerce/views/conditional-form.php:61
+msgid "This is where the settings table should be displayed. If it's not, it is usually caused by the conflict with the other plugins you are currently using, JavaScript error or the caching issue. Clear your browser's cache or deactivate the plugins which may be interfering."
+msgstr ""
+
+#: src/Conditions/DayOfTheWeek.php:27
+msgid "Day of the week"
+msgstr ""
+
+#: src/Conditions/DayOfTheWeek.php:28
+msgid "The Actions defined further will be taken for the selected shipping methods if the Condition based on Day of the week is met."
+msgstr ""
+
+#: src/Conditions/DayOfTheWeek.php:29
+#: src/Conditions/Location.php:35
+#: src/Conditions/TimeOfTheDay.php:36
+msgid "Destination & Time"
+msgstr ""
+
+#: src/Conditions/DayOfTheWeek.php:44
+msgid "Select the days"
+msgstr ""
+
+#: src/Conditions/DayOfTheWeek.php:45
+msgid "one of"
+msgstr ""
+
+#: src/Conditions/DayOfTheWeek.php:61
+msgctxt "day of the week"
+msgid "is"
+msgstr ""
+
+#: src/Conditions/DayOfTheWeek.php:65
+msgctxt "day of the week"
+msgid "is not"
+msgstr ""
+
+#: src/Conditions/DayOfTheWeek.php:111
+msgid "Monday"
+msgstr ""
+
+#: src/Conditions/DayOfTheWeek.php:112
+msgid "Tuesday"
+msgstr ""
+
+#: src/Conditions/DayOfTheWeek.php:113
+msgid "Wednesday"
+msgstr ""
+
+#: src/Conditions/DayOfTheWeek.php:114
+msgid "Thursday"
+msgstr ""
+
+#: src/Conditions/DayOfTheWeek.php:115
+msgid "Friday"
+msgstr ""
+
+#: src/Conditions/DayOfTheWeek.php:116
+msgid "Saturday"
+msgstr ""
+
+#: src/Conditions/DayOfTheWeek.php:117
+msgid "Sunday"
+msgstr ""
+
+#. Translators: %1$s condition id.
+#: src/Conditions/Exception/UnknownConditionException.php:22
+msgid "Unknown condition: %1$s"
+msgstr ""
+
+#: src/Conditions/FreeShipping.php:25
+msgid "Zero-cost shipping method"
+msgstr ""
+
+#: src/Conditions/FreeShipping.php:26
+msgid "The Actions defined further will be taken for the selected shipping methods if any zero-cost shipping method is available to choose in the cart or for the package."
+msgstr ""
+
+#: src/Conditions/FreeShipping.php:27
+#: src/Conditions/ShippingMethod.php:28
+#: src/Conditions/ShippingMethod.php:30
+msgid "Shipping method"
+msgstr ""
+
+#: src/Conditions/FreeShipping.php:53
+msgctxt "free shipping"
+msgid "cart"
+msgstr ""
+
+#: src/Conditions/FreeShipping.php:57
+msgctxt "free shipping"
+msgid "package"
+msgstr ""
+
+#: src/Conditions/FreeShipping.php:61
+msgctxt "shipping method"
+msgid "is in the"
+msgstr ""
+
+#: src/Conditions/Location.php:33
+msgid "Location"
+msgstr ""
+
+#: src/Conditions/Location.php:34
+msgid "The Actions defined further will be taken for the selected shipping methods if the Condition based on Location is met."
+msgstr ""
+
+#: src/Conditions/Location.php:51
+msgid "Select the country"
+msgstr ""
+
+#: src/Conditions/Location.php:52
+msgctxt "location"
+msgid "one of"
+msgstr ""
+
+#: src/Conditions/Location.php:68
+msgctxt "location"
+msgid "is"
+msgstr ""
+
+#: src/Conditions/Location.php:72
+msgctxt "location"
+msgid "is not"
+msgstr ""
+
+#: src/Conditions/Price.php:30
+msgid "Price"
+msgstr ""
+
+#: src/Conditions/Price.php:31
+msgid "The Actions defined further will be taken for the selected shipping methods if the Condition based on Price is met for the cart or package."
+msgstr ""
+
+#: src/Conditions/Price.php:32
+#: src/Conditions/Weight.php:32
+msgid "General"
+msgstr ""
+
+#: src/Conditions/Price.php:48
+#: src/Conditions/Weight.php:48
+msgid "is from"
+msgstr ""
+
+#: src/Conditions/Price.php:49
+#: src/Conditions/Weight.php:49
+msgid "from"
+msgstr ""
+
+#: src/Conditions/Price.php:55
+#: src/Conditions/Price.php:56
+#: src/Conditions/Weight.php:55
+#: src/Conditions/Weight.php:56
+msgid "to"
+msgstr ""
+
+#: src/Conditions/Price.php:74
+msgctxt "price"
+msgid "cart"
+msgstr ""
+
+#: src/Conditions/Price.php:78
+msgctxt "price"
+msgid "package"
+msgstr ""
+
+#: src/Conditions/Price.php:82
+msgctxt "price"
+msgid "of the"
+msgstr ""
+
+#: src/Conditions/Price.php:102
+msgctxt "price"
+msgid "is"
+msgstr ""
+
+#: src/Conditions/Price.php:106
+msgctxt "price"
+msgid "is not"
+msgstr ""
+
+#: src/Conditions/Product.php:29
+#: src/Conditions/Product.php:31
+#: src/Conditions/ProductCategory.php:38
+#: src/Conditions/ProductTag.php:34
+#: src/Conditions/ShippingClass.php:34
+msgid "Product"
+msgstr ""
+
+#: src/Conditions/Product.php:30
+msgid "The Actions defined further will be taken for the selected shipping methods if the Condition based on Product is met for the cart or package."
+msgstr ""
+
+#: src/Conditions/Product.php:47
+msgid "search product"
+msgstr ""
+
+#: src/Conditions/Product.php:67
+msgctxt "product"
+msgid "cart"
+msgstr ""
+
+#: src/Conditions/Product.php:71
+msgctxt "product"
+msgid "package"
+msgstr ""
+
+#: src/Conditions/Product.php:75
+msgctxt "product"
+msgid "in the"
+msgstr ""
+
+#: src/Conditions/Product.php:88
+msgctxt "product"
+msgid "any of"
+msgstr ""
+
+#: src/Conditions/Product.php:92
+msgctxt "product"
+msgid "all of"
+msgstr ""
+
+#: src/Conditions/Product.php:96
+msgctxt "product"
+msgid "none of"
+msgstr ""
+
+#: src/Conditions/Product.php:100
+msgctxt "product"
+msgid "matches"
+msgstr ""
+
+#: src/Conditions/ProductCategory.php:36
+msgid "Product category"
+msgstr ""
+
+#: src/Conditions/ProductCategory.php:37
+msgid "The Actions defined further will be taken for the selected shipping methods if the Condition based on Product category is met for the cart or package."
+msgstr ""
+
+#: src/Conditions/ProductCategory.php:54
+msgid "search product category"
+msgstr ""
+
+#: src/Conditions/ProductCategory.php:74
+msgctxt "product category"
+msgid "cart"
+msgstr ""
+
+#: src/Conditions/ProductCategory.php:78
+msgctxt "product category"
+msgid "package"
+msgstr ""
+
+#: src/Conditions/ProductCategory.php:82
+msgctxt "product category"
+msgid "in the"
+msgstr ""
+
+#: src/Conditions/ProductCategory.php:95
+msgctxt "product category"
+msgid "any of"
+msgstr ""
+
+#: src/Conditions/ProductCategory.php:99
+msgctxt "product category"
+msgid "all of"
+msgstr ""
+
+#: src/Conditions/ProductCategory.php:103
+msgctxt "product category"
+msgid "none of"
+msgstr ""
+
+#: src/Conditions/ProductCategory.php:107
+msgctxt "product category"
+msgid "matches"
+msgstr ""
+
+#: src/Conditions/ProductTag.php:32
+msgid "Product tag"
+msgstr ""
+
+#: src/Conditions/ProductTag.php:33
+msgid "The Actions defined further will be taken for the selected shipping methods if the Condition based on Product tag is met for the cart or package."
+msgstr ""
+
+#: src/Conditions/ProductTag.php:50
+msgid "search product tag"
+msgstr ""
+
+#: src/Conditions/ProductTag.php:72
+msgctxt "product tag"
+msgid "cart"
+msgstr ""
+
+#: src/Conditions/ProductTag.php:76
+msgctxt "product tag"
+msgid "package"
+msgstr ""
+
+#: src/Conditions/ProductTag.php:80
+msgctxt "product tag"
+msgid "in the"
+msgstr ""
+
+#: src/Conditions/ProductTag.php:100
+msgctxt "product tag"
+msgid "any of"
+msgstr ""
+
+#: src/Conditions/ProductTag.php:104
+msgctxt "product tag"
+msgid "all of"
+msgstr ""
+
+#: src/Conditions/ProductTag.php:108
+msgctxt "product tag"
+msgid "none of"
+msgstr ""
+
+#: src/Conditions/ProductTag.php:112
+msgctxt "product tag"
+msgid "matches"
+msgstr ""
+
+#: src/Conditions/ShippingClass.php:32
+msgid "Shipping class"
+msgstr ""
+
+#: src/Conditions/ShippingClass.php:33
+msgid "The Actions defined further will be taken for the selected shipping methods if the Condition based on Shipping Class is met for the cart or package."
+msgstr ""
+
+#: src/Conditions/ShippingClass.php:50
+msgid "search shipping class"
+msgstr ""
+
+#: src/Conditions/ShippingClass.php:72
+msgctxt "shipping class"
+msgid "cart"
+msgstr ""
+
+#: src/Conditions/ShippingClass.php:76
+msgctxt "shipping class"
+msgid "package"
+msgstr ""
+
+#: src/Conditions/ShippingClass.php:80
+msgctxt "shipping class"
+msgid "in the"
+msgstr ""
+
+#: src/Conditions/ShippingClass.php:100
+msgctxt "shipping class"
+msgid "any of"
+msgstr ""
+
+#: src/Conditions/ShippingClass.php:104
+msgctxt "shipping class"
+msgid "all of"
+msgstr ""
+
+#: src/Conditions/ShippingClass.php:108
+msgctxt "shipping class"
+msgid "none of"
+msgstr ""
+
+#: src/Conditions/ShippingClass.php:112
+msgctxt "shipping class"
+msgid "matches"
+msgstr ""
+
+#: src/Conditions/ShippingMethod.php:29
+msgid "The Actions defined further will be taken for the selected shipping methods if the previously chosen Shipping methods are available to pick in the cart or for the package."
+msgstr ""
+
+#: src/Conditions/ShippingMethod.php:66
+msgctxt "shipping method"
+msgid "cart"
+msgstr ""
+
+#: src/Conditions/ShippingMethod.php:70
+msgctxt "shipping method"
+msgid "package"
+msgstr ""
+
+#: src/Conditions/ShippingMethod.php:74
+msgctxt "shipping method"
+msgid "in the"
+msgstr ""
+
+#: src/Conditions/ShippingMethod.php:94
+msgctxt "shipping method"
+msgid "any"
+msgstr ""
+
+#: src/Conditions/ShippingMethod.php:98
+msgctxt "shipping method"
+msgid "all"
+msgstr ""
+
+#: src/Conditions/ShippingMethod.php:102
+msgctxt "shipping method"
+msgid "none"
+msgstr ""
+
+#: src/Conditions/ShippingMethod.php:106
+msgctxt "shipping method"
+msgid "matches"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:34
+msgid "Time of the day"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:35
+msgid "The Actions defined further will be taken for the selected shipping methods if the Condition based on Time of the day is met."
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:53
+msgid "between"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:60
+msgctxt "time of the day"
+msgid "and"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:76
+msgctxt "time of the day"
+msgid "is"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:80
+msgctxt "time of the day"
+msgid "is not"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:155
+msgid "12:00 AM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:159
+msgid "1:00 AM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:163
+msgid "2:00 AM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:167
+msgid "3:00 AM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:171
+msgid "4:00 AM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:175
+msgid "5:00 AM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:179
+msgid "6:00 AM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:183
+msgid "7:00 AM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:187
+msgid "8:00 AM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:191
+msgid "9:00 AM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:195
+msgid "10:00 AM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:199
+msgid "11:00 AM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:203
+msgid "12:00 PM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:207
+msgid "1:00 PM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:211
+msgid "2:00 PM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:215
+msgid "3:00 PM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:219
+msgid "4:00 PM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:223
+msgid "5:00 PM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:227
+msgid "6:00 PM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:231
+msgid "7:00 PM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:235
+msgid "8:00 PM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:239
+msgid "9:00 PM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:243
+msgid "10:00 PM"
+msgstr ""
+
+#: src/Conditions/TimeOfTheDay.php:247
+msgid "11:00 PM"
+msgstr ""
+
+#: src/Conditions/Weight.php:30
+msgid "Weight"
+msgstr ""
+
+#: src/Conditions/Weight.php:31
+msgid "The Actions defined further will be taken for the selected shipping methods if the Condition based on Weight is met for the cart or package."
+msgstr ""
+
+#: src/Conditions/Weight.php:74
+msgctxt "weight"
+msgid "cart"
+msgstr ""
+
+#: src/Conditions/Weight.php:78
+msgctxt "weight"
+msgid "package"
+msgstr ""
+
+#: src/Conditions/Weight.php:82
+msgctxt "weight"
+msgid "of the"
+msgstr ""
+
+#: src/Conditions/Weight.php:102
+msgctxt "weight"
+msgid "is"
+msgstr ""
+
+#: src/Conditions/Weight.php:106
+msgctxt "weight"
+msgid "is not"
+msgstr ""
+
+#: src/CustomPostType.php:36
+msgid "Conditional Methods"
+msgstr ""
+
+#: src/Plugin.php:138
+msgid "Flexible Shipping Conditional Methods"
+msgstr ""
+
+#: src/Plugin.php:163
+msgid "Settings"
+msgstr ""
+
+#: src/Plugin.php:164
+msgid "Docs"
+msgstr ""
+
+#: src/Plugin.php:165
+msgid "Support"
+msgstr ""
+
+#: src/Settings/SingleRulesetSettings.php:59
+msgid "New Ruleset"
+msgstr ""
+
+#. Translators: username.
+#: src/Tracker/TrackerNotices.php:59
+msgid "Hey %s,"
+msgstr ""
+
+#: src/Tracker/TrackerNotices.php:62
+msgid "We need your help to improve <strong>Flexible Shipping Conditional Methods</strong>, so it's more useful for you and the rest of our <strong>100,000+ users</strong>. By collecting data on how you use our plugins, you will help us a lot. We will not collect any sensitive data, so you can feel safe."
+msgstr ""
+
+#: src/Tracker/TrackerNotices.php:63
+msgid "Find out more &raquo;"
+msgstr ""
+
+#: src/Tracker/TrackerNotices.php:65
+msgid "Thank you! ~ Piotr @ Flexible Shipping Team"
+msgstr ""
+
+#: src/WooCommerceSettings/AddRulesetHandler.php:81
+msgid "Ruleset created."
+msgstr ""
+
+#: src/WooCommerceSettings/DeleteRulesetHandler.php:86
+msgid "Ruleset deleted."
+msgstr ""
+
+#: src/WooCommerceSettings/views/html-rulesets-field.php:31
+msgid "Name"
+msgstr ""
+
+#: src/WooCommerceSettings/views/html-rulesets-field.php:32
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:164
+msgid "Enabled"
+msgstr ""
+
+#: src/WooCommerceSettings/views/html-rulesets-field.php:46
+msgid "Edit ruleset"
+msgstr ""
+
+#: src/WooCommerceSettings/views/html-rulesets-field.php:47
+msgid "Edit"
+msgstr ""
+
+#: src/WooCommerceSettings/views/html-rulesets-field.php:52
+msgid "Delete ruleset"
+msgstr ""
+
+#: src/WooCommerceSettings/views/html-rulesets-field.php:53
+msgid "Delete"
+msgstr ""
+
+#: src/WooCommerceSettings/views/html-rulesets-field.php:60
+msgid "Yes"
+msgstr ""
+
+#: src/WooCommerceSettings/views/html-rulesets-field.php:62
+msgid "No"
+msgstr ""
+
+#: src/WooCommerceSettings/views/html-rulesets-field.php:70
+msgid "Add first ruleset"
+msgstr ""
+
+#: src/WooCommerceSettings/views/html-rulesets-field.php:78
+msgid "Add ruleset"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:114
+msgid "General settings"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:121
+msgid "Enable/Disable"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:122
+msgid "Turn on/off conditional displaying or hiding the shipping methods."
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:127
+msgid "Rulesets"
+msgstr ""
+
+#. Translators: open strong tag, close strong tag.
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:130
+msgid "Please mind that all the Rulesets you define, including their %1$sConditions%2$s and %1$sActions%2$s are triggered %1$safter the shipping cost calculation in the cart%2$s."
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:134
+msgid "Define the rules when the specific shipping methods will be displayed and when hidden once the condition is met."
+msgstr ""
+
+#. Translators: ruleset name.
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:155
+msgid "Conditional Shipping Methods > %1$s"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:166
+msgid "Activate this set of rules."
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:171
+msgid "Ruleset name"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:172
+msgid "New ruleset"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:178
+msgid "Enter the unique Ruleset name for easy identification."
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:183
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:196
+msgid "Conditions"
+msgstr ""
+
+#. Translators: open strong tag, close strong tag, open link tag, close ling tag.
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:186
+msgid "Determine the %1$sConditions%2$s to trigger the further %1$sActions%2$s defined in the table below. Learn more about the %3$sConditions →%4$s"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:197
+msgid "Add condition"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:198
+msgid "Duplicate selected conditions"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:199
+msgid "Delete selected conditions"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:200
+msgid "Add first condition"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:202
+msgid "Add OR condition"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:203
+msgid "OR"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:204
+msgid "When"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:205
+msgid "and"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:211
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:224
+msgid "Actions"
+msgstr ""
+
+#. Translators: open strong tag, close strong tag, open link tag, close ling tag.
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:214
+msgid "Define the %1$sActions%2$s regarding the shipping methods to be run once the %1$sConditions%2$s from the table above have been met. Learn more about the %3$sActions →%4$s"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:225
+msgid "Add action"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:226
+msgid "Duplicate selected actions"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:227
+msgid "Delete selected actions"
+msgstr ""
+
+#: src/WooCommerceSettings/WooCommerceConditionalMethodsSettings.php:228
+msgid "Add first action"
+msgstr ""
+
+#. Translators: %1$s shipping method name.
+#: src/WooCommerceShippingMethods.php:29
+msgid "Any &quot;%1$s&quot; method"
+msgstr ""
+
+#. Translators: %1$s shipping method title, %2$s shipping method id.
+#: src/WooCommerceShippingMethods.php:90
+msgid "%1$s (#%2$s)"
+msgstr ""
+
+#. Translators: %1$s zone name, %2$s shipping method instance name.
+#: src/WooCommerceShippingMethods.php:92
+msgid "%1$s &ndash; %2$s"
+msgstr ""
+
+#. Translators: %1$s zone name, %2$s shipping method instance name.
+#: src/WooCommerceShippingMethods.php:92
+msgid "Other locations"
+msgstr ""

@@ -1,0 +1,501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flexible Shipping Import Export\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-19 19:00+0100\n"
+"PO-Revision-Date: 2021-03-19 19:01+0100\n"
+"Last-Translator: Sebastian Pisula <sebastian.pisula@gmail.com>\n"
+"Language-Team: Maciej Swoboda <maciej.swoboda@gmail.com>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: flexible-shipping-import-export.php\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: vendor_prefixed\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+"X-Poedit-SearchPathExcluded-3: assets\n"
+
+#: assets-src/import-export/js/components/ExportModal.js:176
+msgid "Export all the methods"
+msgstr "Wyeksportuj wszystkie metody"
+
+#: assets-src/import-export/js/components/ExportModal.js:186
+msgid "Export selected methods"
+msgstr "Wyeksportuj wybrane metody"
+
+#: assets-src/import-export/js/components/ExportModal.js:192
+msgid "Collapse all"
+msgstr "Zwiń listę"
+
+#: assets-src/import-export/js/components/ExportModal.js:196
+msgid "Expand all"
+msgstr "Rozwiń listę"
+
+#: assets-src/import-export/js/components/ExportModal.js:241
+#: assets-src/import-export/js/components/ImportModal.js:574
+msgid "Back to menu"
+msgstr "Powróć do menu"
+
+#: assets-src/import-export/js/components/ExportModal.js:248
+msgid "Proceed & export"
+msgstr "Eksportuj metody"
+
+#: assets-src/import-export/js/components/ExportModal.js:258
+msgid "Add your first Flexible Shipping method"
+msgstr "Dodaj pierwszą metodę wysyłki FS"
+
+#: assets-src/import-export/js/components/ExportModal.js:291
+#, javascript-format
+msgid ""
+"The selected shipping zone doesn't contain any exportable shipping methods. "
+"Please make sure you've selected the correct %1$sshipping zone%2$s or add a "
+"shipping method within before starting the export procedure."
+msgstr ""
+"Wybrana strefa wysyłki nie zawiera żadnych metod wysyłki możliwych do "
+"eksportu. Upewnij się, że została wybrana właściwa %1$sstrefa wysyłki%2$s "
+"lub dodaj w niej metodę wysyłki przed rozpoczęciem procedury eksportu."
+
+#: assets-src/import-export/js/components/ExportModal.js:308
+#: assets-src/import-export/js/components/ExportModal.js:357
+#, javascript-format
+msgid "%1$sError%2$s: "
+msgstr "%1$sBłąd%2$s: "
+
+#: assets-src/import-export/js/components/ExportModal.js:460
+msgid "Exporting the Flexible Shipping methods"
+msgstr "Eksport metod wysyłki FS"
+
+#: assets-src/import-export/js/components/ImportActionDescription.js:69
+msgid "The shipping method will be added within this shipping zone."
+msgstr "Metoda wysyłki zostanie dodana w tej strefie wysyłki."
+
+#: assets-src/import-export/js/components/ImportActionDescription.js:72
+msgid "The shipping method will not be imported"
+msgstr "Metoda wysyłki nie będzie zaimportowana"
+
+#: assets-src/import-export/js/components/ImportActionSelect.js:70
+msgid "Create new shipping method"
+msgstr "Utwórz nową metodę wysyłki"
+
+#: assets-src/import-export/js/components/ImportActionSelect.js:71
+msgid "Don't import (ignore)"
+msgstr "Nie importuj (zignoruj)"
+
+#: assets-src/import-export/js/components/ImportActionSelect.js:74
+msgid "Update: "
+msgstr "Zaktualizuj: "
+
+#: assets-src/import-export/js/components/ImportActionSelect.js:81
+msgid "Enable shipping method"
+msgstr "Włącz metodę po utworzeniu"
+
+#: assets-src/import-export/js/components/ImportExportModal.js:98
+#: src/views/import-export-button-in-shipping-zone.php:8
+msgid "Flexible Shipping Import/Export"
+msgstr ""
+
+#: assets-src/import-export/js/components/ImportExportModal.js:103
+msgid ""
+"Export and import freely your Flexible Shipping methods within the shipping "
+"zones in your WooCommerce store."
+msgstr ""
+"Eksportuj i importuj dowolne metody wysyłki Flexible Shipping wewnątrz stref "
+"wysyłkowych."
+
+#: assets-src/import-export/js/components/ImportExportModal.js:111
+msgid "Export"
+msgstr "Eksportuj"
+
+#: assets-src/import-export/js/components/ImportExportModal.js:113
+msgid "Export the already configured Flexible Shipping methods to .csv file."
+msgstr ""
+"Wyeksportuj już skonfigurowane metody wysyłki Flexible Shipping do pliku ."
+"csv."
+
+#: assets-src/import-export/js/components/ImportExportModal.js:121
+msgid "Import"
+msgstr "Importuj"
+
+#: assets-src/import-export/js/components/ImportExportModal.js:123
+msgid ""
+"Import the ready Flexible Shipping methods configuration from the .csv file "
+"to your shop."
+msgstr ""
+"Zaimportuj gotową konfigurację metod wysyłki Flexible Shipping z pliku .csv "
+"do swojego sklepu."
+
+#: assets-src/import-export/js/components/ImportModal.js:138
+#: assets-src/import-export/js/components/ImportModal.js:343
+#, javascript-format
+msgid ""
+"%1$sError!%2$s The selected file doesn't contain the proper data structure. "
+"Please make sure you've selected the correct file or export your shipping "
+"methods once again.%3$sDetails: "
+msgstr ""
+"%1$sBłąd%2$s: Wybrany plik nie zawiera prawidłowej struktury danych metod "
+"wysyłki. Upewnij się, czy został wybrany właściwy plik lub wyeksportuj "
+"metody wysyłki ponownie.%3$sSzczegóły: "
+
+#: assets-src/import-export/js/components/ImportModal.js:233
+msgid ""
+"Click to select the .csv file you want to upload or simply drag & drop it "
+"here."
+msgstr ""
+"Kliknij i wskaż lub przeciągnij do poniższego pola plik .csv, który chcesz "
+"zuploadować."
+
+#: assets-src/import-export/js/components/ImportModal.js:299
+#: assets-src/import-export/js/components/ImportModal.js:385
+#: assets-src/import-export/js/components/ImportModal.js:418
+msgid "Importing file: "
+msgstr "Importowany plik: "
+
+#: assets-src/import-export/js/components/ImportModal.js:315
+msgid ""
+" I confirm I've been warned about the risk associated with overwriting the "
+"current settings during the shipping methods import procedure, I'm fully "
+"aware of its further possible consequences and I wish to continue."
+msgstr ""
+" Jestem w pełni świadomy ryzyka i dalszych konsekwencji wynikających z "
+"nadpisania aktualnej konfiguracji metod wysyłki w związku z importem i chcę "
+"kontynuować procedurę importu."
+
+#: assets-src/import-export/js/components/ImportModal.js:450
+msgid "Import final report:"
+msgstr "Podsumowanie:"
+
+#: assets-src/import-export/js/components/ImportModal.js:506
+msgid ""
+"Import the previously configured Flexible Shipping methods including all "
+"their shipping cost calculation rules from the saved .csv file."
+msgstr ""
+"Zaimportuj z pliku .csv skonfigurowane wcześniej metody wysyłki Flexible "
+"Shipping wraz z ich regułami obliczania kosztów."
+
+#: assets-src/import-export/js/components/ImportModal.js:512
+msgid ""
+"We've noticed that you decided to update some of the mapped shipping "
+"methods. Please mind that once their current configuration is overwritten it "
+"cannot be restored later."
+msgstr ""
+"Zauważyliśmy, że dla niektórych zmapowanych metod została wybrana opcja "
+"aktualizacji ustawień. Spowoduje to, że ich aktualna konfiguracja zostanie "
+"nadpisana i nie będzie możliwości jej późniejszego przywrócenia."
+
+#: assets-src/import-export/js/components/ImportModal.js:515
+msgid "The FS shipping methods have been successfully imported."
+msgstr "Import zakończony powodzeniem."
+
+#: assets-src/import-export/js/components/ImportModal.js:545
+msgid "Importing the Flexible Shipping methods"
+msgstr "Import metod wysyłki FS"
+
+#: assets-src/import-export/js/components/ImportModal.js:564
+msgid "Go back and change the settings →"
+msgstr "Wróć i zmień ustawienia →"
+
+#: assets-src/import-export/js/components/ImportModal.js:568
+msgid "Upload the .csv file again"
+msgstr "Zuploaduj .csv ponownie"
+
+#: assets-src/import-export/js/components/ImportModal.js:578
+#: assets-src/import-export/js/components/ImportModal.js:582
+msgid "Proceed and import"
+msgstr "Zaimportuj metody"
+
+#: assets-src/import-export/js/components/ImportModal.js:586
+msgid "Refresh and go to the shipping zone"
+msgstr "Przejdź do strefy wysyłki i odśwież"
+
+#: assets-src/import-export/js/components/ImportShippingMethodsConfirmation.js:49
+#: assets-src/import-export/js/components/ImportShippingMethodsConfirmation.js:58
+#: assets-src/import-export/js/components/ImportShippingMethodsMapping.js:143
+msgid "Method title not set"
+msgstr "Tytuł metody wysyłki nie jest ustawiony"
+
+#: assets-src/import-export/js/components/ImportShippingMethodsMapping.js:133
+msgid "Shipping method from file"
+msgstr "Metoda wysyłki z pliku"
+
+#: assets-src/import-export/js/components/ImportShippingMethodsMapping.js:134
+msgid "Action"
+msgstr "Akcja"
+
+#: assets-src/import-export/js/components/ImportShippingMethodsMapping.js:204
+msgid "Enable all new shipping methods"
+msgstr "Włącz wszystkie nowotworzone metody wysyłki"
+
+#: assets-src/import-export/js/index.js:32
+msgid "Please save Shipping Zone settings first!"
+msgstr "Proszę zapisać ustawienia Strefy Wysyłki!"
+
+#: src/CSVDataParser.php:116
+#, php-format
+msgid "Row %1$s: %2$s"
+msgstr "Wiersz %1$s: %2$s"
+
+#: src/CSVDataParser.php:123
+#, php-format
+msgid "Method ID: %1$s, contains %2$s rule."
+msgid_plural "Method ID: %1$s, contains %2$s rules."
+msgstr[0] "ID Metody: %1$s, zawiera %2$s regułę."
+msgstr[1] "ID Metody: %1$s, zawiera %2$s reguły."
+msgstr[2] "ID Metody: %1$s, zawiera %2$s reguł."
+
+#: src/CSVDataParser.php:189 src/CSVDataParser.php:295
+#, php-format
+msgid "missing %1$s"
+msgstr "brakuje %1$s"
+
+#: src/CSVDataParser.php:291 src/CSVDataParser.php:410
+#: src/CSVDataParser.php:456
+#, php-format
+msgid "invalid %1$s"
+msgstr "błędny %1$s"
+
+#: src/CSVDataParser.php:364 src/CSVDataParser.php:394
+#, php-format
+msgid "duplicated %1$s"
+msgstr "zduplikowany: %1$s"
+
+#: src/CSVDataParser.php:406
+#, php-format
+msgid "invalid %1$s: %2$s"
+msgstr "błędny %1$s: %2$s"
+
+#: src/DataParserFactory.php:49
+#, php-format
+msgid "Not supported data format: %1$s"
+msgstr "Niewspierany format danych: %1$s"
+
+#: src/ExportFactory.php:90
+#, php-format
+msgid "Unsupported data format: %1$s"
+msgstr "Niewspierany format danych: %1$s"
+
+#: src/ExportFactory.php:114
+msgid "Not found shipping methods to export"
+msgstr "Nie znaleziono metod wysyłki do wyeksportowania"
+
+#: src/ImportAjaxHandler.php:61
+msgid "Missing or invalid \"stage\" parameter!"
+msgstr "Brakujący lub błędny parametr „stage”!"
+
+#: src/ImportAjaxHandler.php:115
+#, php-format
+msgid "Invalid zone id: %1$s"
+msgstr "Błędny identyfikator strefy: %1$s"
+
+#: src/ImportAjaxHandler.php:133
+#, php-format
+msgid "%1$s method skipped"
+msgid_plural "%1$s methods skipped"
+msgstr[0] "%1$s metoda została pominięta"
+msgstr[1] "%1$s metody zostały pominięte"
+msgstr[2] "%1$s metod zostało pominiętych"
+
+#: src/ImportAjaxHandler.php:136
+#, php-format
+msgid "%1$s method in import file"
+msgid_plural "%1$s methods in import file"
+msgstr[0] "%1$s metoda w pliku importu"
+msgstr[1] "%1$s metody w pliku importu"
+msgstr[2] "%1$s metod w pliku importu"
+
+#: src/ImportAjaxHandler.php:139
+#, php-format
+msgid "%1$s method added"
+msgid_plural "%1$s methods added"
+msgstr[0] "%1$s metoda została dodana"
+msgstr[1] "%1$s metody zostały dodane"
+msgstr[2] "%1$s metod zostało dodanych"
+
+#: src/ImportAjaxHandler.php:145
+#, php-format
+msgid "%1$s method updated"
+msgid_plural "%1$s methods updated"
+msgstr[0] "%1$s metoda została zaktualizowana"
+msgstr[1] "%1$s metody zostały zaktualizowane"
+msgstr[2] "%1$s metod zostało zaktualizowanych"
+
+#: src/ImportAjaxHandler.php:241
+#, php-format
+msgid "Shipping method %1$s not found!"
+msgstr "Metoda wysyłki %1$s nie została znaleziona!"
+
+#: src/ImportAjaxHandler.php:246
+#, php-format
+msgid "Invalid shipping method type: %1$s"
+msgstr "Niewłaściwy typ metody wysyłki: %1$s"
+
+#: src/ImportAjaxHandler.php:279
+msgid "The import file does not contain shipping methods"
+msgstr "Plik importu nie zawiera metod wysyłki"
+
+#: src/ImportAjaxHandler.php:318
+#, php-format
+msgid ""
+"%1$s shipping method (ID: %2$s) will be overwritten. Shipping method "
+"contains %3$s rule."
+msgid_plural ""
+"%1$s shipping method (ID: %2$s) will be overwritten. Shipping method "
+"contains %3$s rules."
+msgstr[0] ""
+"Metoda wysyłki %1$s (ID: %2$s) zostanie nadpisana. Metoda zawiera %3$s "
+"regułę."
+msgstr[1] ""
+"Metoda wysyłki %1$s (ID: %2$s) zostanie nadpisana. Metoda zawiera %3$s "
+"reguły."
+msgstr[2] ""
+"Metoda wysyłki %1$s (ID: %2$s) zostanie nadpisana. Metoda zawiera %3$s reguł."
+
+#. Plugin Name of the plugin/theme
+#: src/Plugin.php:122
+msgid "Flexible Shipping Import/Export for WooCommerce"
+msgstr "Flexible Shipping Import/Export WooCommerce"
+
+#: src/Plugin.php:141
+msgid "Docs"
+msgstr "Docs"
+
+#: src/Plugin.php:142
+msgid "Support"
+msgstr "Wsparcie"
+
+#: src/ShippingMethodData.php:173
+#, php-format
+msgid "%1$sRow %2$s: %3$s"
+msgstr "%1$sWiersz %2$s: %3$s"
+
+#: src/ShippingMethodData.php:178
+#, php-format
+msgid "The shipping methods contains invalid data: %1$s"
+msgstr "Metoda wysyłki zawiera błędne dane: %1$s"
+
+#: src/ShippingMethodData.php:193
+#, php-format
+msgid ""
+"The shipping methods from the selected CSV file contain the rules configured "
+"with %1$sFlexible Shipping PRO%2$s, %3$sFlexible Shipping Locations%4$s, in "
+"a different way or the CSV file is invalid. In order to import it, please "
+"install and/or activate the plugins you used to configure it originally. If "
+"the uploaded CSV file was modified manually, please ensure it doesn't "
+"contain any typos or syntax errors (%5$sline: %6$s%7$s) and try again."
+msgstr ""
+"Metody wysyłki, które chcesz zaimportować ze wskazanego pliku CSV zostały "
+"skonfigurowane za pomocą %1$sFlexible Shipping PRO%2$s, %3$sFlexible "
+"Shipping Locations%4$s, w inny sposób lub sam plik importu zawiera błędy. "
+"Aby zaimportować tą metodę wysyłki zainstaluj i/lub aktywuj wtyczkę, z "
+"użyciem której została ona wcześniej skonfigurowana. Jeżeli plik CSV był "
+"przed importem edytowany ręcznie upewnij się, że nie zawiera on literówek "
+"lub błędów składniowych (%5$swiersz: %6$s%7$s) i spróbuj ponownie."
+
+#: src/ShippingMethodsAjaxHandler.php:39
+msgid "Invalid zone"
+msgstr "Niepoprawna strefa wysyłki"
+
+#: src/ShippingMethodsAjaxHandler.php:51
+#, php-format
+msgid ""
+"We've detected %1$s Flexible Shipping method configured in this shipping "
+"zone."
+msgid_plural ""
+"We've detected %1$s Flexible Shipping methods configured in this shipping "
+"zone."
+msgstr[0] ""
+"Jedna metoda wysyłki Flexible Shipping została wykryta w tej strefie "
+"wysyłkowej."
+msgstr[1] ""
+"%1$s metody wysyłki Flexible Shipping zostały wykryte w tej strefie "
+"wysyłkowej."
+msgstr[2] ""
+"%1$s metod wysyłki Flexible Shipping zostało wykrytych w tej strefie "
+"wysyłkowej."
+
+#: src/ShippingMethodsAjaxHandler.php:90
+#, php-format
+msgid "Method ID: %1$s, %2$s rule configured"
+msgid_plural "Method ID: %1$s, %2$s rules configured"
+msgstr[0] "ID metody: %1$s, %2$s skonfigurowana reguła"
+msgstr[1] "ID metody: %1$s, %2$s skonfigurowane reguły"
+msgstr[2] "ID metody: %1$s, %2$s skonfigurowanych reguł"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://flexibleshipping.com/products/flexible-import-export-shipping-"
+"methods-woocommerce/?utm_source=fsie&utm_medium=link&utm_campaign=plugin-"
+"list-page"
+msgstr ""
+"https://www.wpdesk.pl/flexible-shipping-import-export-woocommerce?"
+"utm_source=fsie&utm_medium=link&utm_campaign=plugin-list-page"
+
+#. Description of the plugin/theme
+msgid ""
+"Use the CSV files to import or export your shipping methods. Edit, update, "
+"move or backup the ready configurations and shipping scenarios."
+msgstr ""
+"Importuj i eksportuj metody wysyłki z lub do plików CSV. Edytuj gotowe "
+"konfiguracje, przenoś je między strefami lub sklepami i zapisuj kopie "
+"bezpieczeństwa."
+
+#. Author of the plugin/theme
+msgid "Flexible Shipping"
+msgstr "WP Desk"
+
+#. Author URI of the plugin/theme
+msgid ""
+"https://flexibleshipping.com/?"
+"utm_source=fsie&utm_medium=link&utm_campaign=plugin-list-author"
+msgstr ""
+"https://www.wpdesk.pl/?utm_source=fsie&utm_medium=link&utm_campaign=plugin-"
+"list-author"
+
+#~ msgid ""
+#~ "Import and Export your shipping methods with Flexible Shipping Import/"
+#~ "Export plugin"
+#~ msgstr ""
+#~ "Importuj i eksportuj metody wysyłki z Flexible Shipping Import/Export"
+
+#~ msgid ""
+#~ "https://flexibleshipping.com/support/?"
+#~ "utm_source=fsie&utm_medium=link&utm_campaign=plugin-list-support"
+#~ msgstr ""
+#~ "https://www.wpdesk.pl/support/?"
+#~ "utm_source=fsie&utm_medium=link&utm_campaign=plugin-list-support"
+
+#, php-format
+#~ msgid ""
+#~ "This shipping method contains the rules (%1$s) configured with "
+#~ "%2$sFlexible Shipping PRO%3$s or %4$sFlexible Shipping Locations%5$s. To "
+#~ "import this method required plugin must be installed."
+#~ msgstr ""
+#~ "Metoda zawiera reguły (%1$s) skonfigurowane za pomocą %2$sFlexible "
+#~ "Shipping PRO%3$s lub %4$sFlexible Shipping Locations%5$s. Aby "
+#~ "zaimportować tą metodę wysyłki należy zainstalować wymaganą wtyczkę."
+
+#~ msgid "Shipping method %shipping_method_title% will be overwritten."
+#~ msgstr "Metoda wysyłki %shipping_method_title% zostanie nadpisana."
+
+#~ msgid "Import processed."
+#~ msgstr "Import został wykonany."
+
+#~ msgid "Back"
+#~ msgstr "Powrót"
+
+#~ msgid "New shipping method"
+#~ msgstr "Nowa metoda wysyłki"
+
+#, fuzzy
+#~| msgid "New Shipping Method"
+#~ msgid "Newly created shipping method"
+#~ msgstr "Nowa metoda wysyłki"

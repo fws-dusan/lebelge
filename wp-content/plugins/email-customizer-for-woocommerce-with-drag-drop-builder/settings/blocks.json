@@ -1,0 +1,67 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Header"
+    },
+    {
+      "id": 2,
+      "name": "Follow"
+    }
+    ,
+    {
+      "id": 3,
+      "name": "Features"
+    }
+    ,
+    {
+      "id": 4,
+      "name": "Product"
+    }
+    ,
+    {
+      "id": 5,
+      "name": "Footer"
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "category": 3,
+      "name": "Features Section",
+      "data": "/library/blocks/features/data.json",
+      "preview": "/library/blocks/features/template.html",
+      "thumbnail": "/library/blocks/features/image.png"
+    },
+    {
+      "id": 4,
+      "category": 1,
+      "name": "Header Section",
+      "data": "/library/blocks/header/data.json",
+      "preview": "/library/blocks/header/template.html",
+      "thumbnail": "/library/blocks/header/image.png"
+    },
+    {
+      "id": 2,
+      "category": 2,
+      "name": "Follow Section",
+      "data": "/library/blocks/follow/data.json",
+      "preview": "/library/blocks/follow/template.html",
+      "thumbnail": "/library/blocks/follow/image.png"
+    },{
+      "id": 3,
+      "category": 5,
+      "name": "Footer Section",
+      "data": "/library/blocks/footer/data.json",
+      "preview": "/library/blocks/footer/template.html",
+      "thumbnail": "/library/blocks/footer/image.png"
+    },{
+      "id": 5,
+      "category": 4,
+      "name": "Product Section",
+      "data": "/library/blocks/product/data.json",
+      "preview": "/library/blocks/product/template.html",
+      "thumbnail": "/library/blocks/product/image.png"
+    }
+  ]
+}
