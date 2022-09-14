@@ -1,0 +1,41 @@
+# 1. Change name to 'dev-deployment', 'stage-deployment' or 'prod-deployment'
+name: dev-deployment
+
+# 2. Adjust these variables if needed
+env:
+    # 2. WP Engine environment slug: https://i.imgur.com/jVccu8Z.png
+    wpengineEnvironment: astorlebelgdev
+
+on:
+    push:
+        # 3. Set the git branch for which to trigger this workflow
+        branches: [develop]
+
+jobs:
+    build-and-deploy:
+        runs-on: ubuntu-latest
+
+        steps:
+            -
+                name: Set additional env variables
+                run: |
+                    echo "branch=$(echo ${GITHUB_REF#refs/heads/})" >> $GITHUB_ENV
+                    echo "workspace=$GITHUB_WORKSPACE" >> $GITHUB_ENV
+            -
+                name: Git checkout
+                uses: actions/checkout@v2
+                with:
+                    fetch-depth: 0
+                    
+            -
+                name: Delete uploads folder
+                run: rm -rf wp-content/uploads
+
+            -
+                name: WP Engine deployment
+                uses: fws-solutions/wpengine-deploy-action@1.3.0
+                env:
+                    WPENGINE_ENVIRONMENT_NAME: ${{ env.wpengineEnvironment }}
+                    LOCAL_BRANCH: ${{ env.branch }}
+                    WPENGINE_SSH_KEY_PRIVATE: ${{ secrets.WPENGINE_SSH_KEY_PRIVATE }}
+                    WPENGINE_SSH_KEY_PUBLIC: ${{ secrets.WPENGINE_SSH_KEY_PUBLIC }}
