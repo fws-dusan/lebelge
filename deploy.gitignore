@@ -1,0 +1,70 @@
+# ignore everything in the "wp-content" directory, except:
+# "mu-plugins" directory
+# "plugins" directory
+# "themes" directory
+wp-config.php
+*.htaccess
+wp-content/*
+!wp-content/mu-plugins/
+!wp-content/plugins/
+!wp-content/themes/
+
+
+# ignore log files
+*.log
+
+
+# ignore Editor files
+.idea
+.vscode
+wp-content/themes/*/index.sublime-workspace
+wp-content/themes/*/.sublime-gulp.cache
+
+
+# ignore node_modules
+wp-content/themes/*/node_modules
+
+# ignore 'WPEngine large files'
+_wpeprivate
+wp-content/uploads
+wp-content/blogs.dir
+wp-content/upgrade
+wp-content/object-cache.php
+wp-content/mysql.sql
+wp-content/mu-plugins/mu-plugin.php
+wp-content/mu-plugins/slt-force-strong-passwords.php
+wp-content/mu-plugins/wpengine-common
+wp-content/mu-plugins/limit-login-attempts
+*.hqx
+*.bin
+*.exe
+*.dll
+*.deb
+*.dmg
+*.iso
+*.img
+*.msi
+*.msp
+*.msm
+*.mid
+*.midi
+*.kar
+*.mp3
+*.ogg
+*.m4a
+*.ra
+*.3gpp
+*.3gp
+*.mp4
+*.mpeg
+*.mpg
+*.mov
+*.webm
+*.flv
+*.m4v
+*.mng
+*.asx
+*.asf
+*.wmv
+*.avi
+*.sql
