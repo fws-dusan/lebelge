@@ -131,6 +131,7 @@ add_action('wp_head', function () { ?>
                 email: $(".js-newsletter-email").val(),
                 action: 'newsletter_emails',
             };
+            $('.js-newsletter-loader').addClass('active');
 
             $.ajax({
                 url: window.ajaxurl,
@@ -140,7 +141,8 @@ add_action('wp_head', function () { ?>
                 success: function(response) {
                     if (response.data.success === true) {
                         $('.js-newsletter-message').removeClass('fail').addClass('success');
-                        $('.js-newsletter-message').html(response.data.message)
+                        $('.js-newsletter-message').html(response.data.message);
+                        $('.js-newsletter-loader').removeClass('active');
 
                         document.cookie = `hiddenNewsletter=true; expires=Fri, 31 Dec 9999 23:59:59 GMT`;
 
@@ -150,7 +152,8 @@ add_action('wp_head', function () { ?>
                         }, 1500);
                     } else {
                         $('.js-newsletter-message').addClass('fail');
-                        $('.js-newsletter-message').html(response.data.message)
+                        $('.js-newsletter-message').html(response.data.message);
+                        $('.js-newsletter-loader').removeClass('active');
                     }
 
                 }

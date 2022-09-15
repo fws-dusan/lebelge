@@ -1,6 +1,6 @@
 <div class="js-popup-newsletter popup-news">
     <div class="js-popup-newsletter newsletter__popup-container">
-        <img class="newsletter__image" src="https://lebelge.lndo.site/wp-content/uploads/2022/08/image.png" alt="image">
+        <img class="newsletter__image" src="<?php echo get_stylesheet_directory_uri(); ?>/image.jpg" alt="image">
         <a class="js-popup-close newsletter__popup-container-close" href="javascript:;" title="Close popup">X</a>
         <div id="newsletter__popup-content">
             <div class="newsletter__popup-contentWrapper">
@@ -13,6 +13,7 @@
                         <div class="newsletter__popup-form-input__wrap">
                             <input class="newsletter__email js-newsletter-email" type="email" name="email" placeholder="Join our mailing list" required>
                             <input class="newsletter__submit js-newsletter-submit" type="submit" value="Join">
+                            <img class="newsletter__loader js-newsletter-loader" src="<?php echo get_stylesheet_directory_uri(); ?>/loader-circle.gif" alt="image">
                         </div>
                     </form>
                 </div>
