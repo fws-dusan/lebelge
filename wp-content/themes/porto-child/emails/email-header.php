@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 // prepare variables
 $BlogName = get_bloginfo('name', 'display');
-$AssetsURL = get_template_directory_uri() . '/src/assets/';
+$AssetsURL = get_stylesheet_directory_uri();
 
 // prepare variables
 $data = get_query_var('Data');
@@ -95,6 +95,19 @@ $headerCaption = $data['headerCaption'] ?? 'Someone reached out!';
             td.mj-full-width-mobile {
                 width: auto !important;
             }
+
+            .table-code-th {
+                padding-left: 16px !important;
+            }
+
+            .table-code-th span {
+                font-size: 27px !important;
+            }
+
+            .table-code-th strong {
+                margin-top: 16px !important;
+                padding: 10px !important;
+            }
         }
     </style>
     <style type="text/css">
@@ -123,12 +136,12 @@ $headerCaption = $data['headerCaption'] ?? 'Someone reached out!';
                     <v:fill  origin="0, -0.5" position="0, -0.5" src="<?= esc_url($AssetsURL) ?>images/header-email-background.png" type="frame" size="1,1" aspect="atleast" />
                     <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
         <![endif]-->
-        <div style="background:url(<?= esc_url($AssetsURL) ?>images/mail-img-bckg-2.jpg) center top / cover no-repeat;background-position:center top;background-repeat:no-repeat;background-size:cover;margin:0px auto;max-width:600px;">
+        <div style="margin:0px auto;max-width:600px;">
             <div style="line-height:0;font-size:0;">
-                <table align="center" background="<?= esc_url($AssetsURL) ?>images/header-email-background.png" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:url(<?= esc_url($AssetsURL) ?>images/mail-img-bckg-2.jpg) center top / cover no-repeat;background-position:center top;background-repeat:no-repeat;background-size:cover;width:100%;">
+                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
                     <tbody>
                         <tr>
-                            <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:70px;padding-left:0px;padding-right:0px;padding-top:30px;text-align:center;">
+                            <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:40px;padding-left:0px;padding-right:0px;padding-top:30px;text-align:center;">
                                 <!--[if mso | IE]>
                             <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                             <tr>
@@ -145,7 +158,7 @@ $headerCaption = $data['headerCaption'] ?? 'Someone reached out!';
                                                         <tr>
                                                             <td style="width:200px;">
                                                                 <a href="<?= esc_url(home_url()) ?>" target="_blank" rel="noopener">
-                                                                    <img height="auto" src="https://astorlebelgdev.wpengine.com/wp-content/uploads/2021/01/logo.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="200" />
+                                                                    <img height="auto" src="<?= esc_url($AssetsURL) ?>/logo.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="200" />
                                                                 </a>
                                                             </td>
                                                         </tr>
