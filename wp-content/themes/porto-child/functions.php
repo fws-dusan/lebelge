@@ -149,7 +149,7 @@ add_action('wp_head', function () { ?>
                         setTimeout(() => {
                             // $('#subscribe-popup-form').submit();
                             $('.popup-news').removeClass('popup-news--active');
-                        }, 1500);
+                        }, 3500);
                     } else {
                         $('.js-newsletter-message').addClass('fail');
                         $('.js-newsletter-message').html(response.data.message);

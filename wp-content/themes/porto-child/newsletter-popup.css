@@ -182,7 +182,7 @@
     display: block;
     position: absolute;
     bottom: 16px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     width: 100%;
     text-align: center;
     opacity: 0;

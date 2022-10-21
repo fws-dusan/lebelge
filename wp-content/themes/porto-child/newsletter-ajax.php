@@ -18,7 +18,7 @@ function newsletter_emails()
     if (get_page_by_title($_POST['email'], OBJECT, 'email_signup')) {
         wp_send_json_success([
             'success' => false,
-            'message' => 'Email is already used.',
+            'message' => 'Email is already in use.',
         ]);
     } else {
         $id = wp_insert_post([
@@ -36,7 +36,7 @@ function newsletter_emails()
 
         wp_send_json_success([
             'success' => true,
-            'message' => 'Thank you for subscribing!',
+            'message' => "Thank you for subscribing! Please check your email where you'll receive your one time discount code",
         ]);
     }
 }
