@@ -180,15 +180,16 @@
 
 .newsletter__popup-message {
     display: block;
-    position: absolute;
+    position: relative;
     bottom: 16px;
-    /* text-transform: uppercase; */
     width: 100%;
     text-align: center;
     opacity: 0;
     pointer-events: none;
     transition: opacity 0.3s;
     /* display: none; */
+    max-width: 80%;
+    margin: 0 auto;
 }
 
 .newsletter__popup-message.success {
