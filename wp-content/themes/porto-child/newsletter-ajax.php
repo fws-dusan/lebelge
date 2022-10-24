@@ -36,7 +36,7 @@ function newsletter_emails()
 
         wp_send_json_success([
             'success' => true,
-            'message' => "Thank you for subscribing! Please check your email where you'll receive your one time discount code",
+            'message' => "Thank you for subscribing! Please check your email where you'll receive your one time discount code.",
         ]);
     }
 }
