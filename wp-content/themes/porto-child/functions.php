@@ -113,13 +113,6 @@ add_action('wp_head', function () { ?>
                 const forgetBtn = document.querySelector('.js-newsletter__popup-content-link');
 
                 if (popup) {
-                    
-                    /* if (sessionStorage.getItem('popupState') === 'shown') {
-                        popup.classList.remove(activeClass);
-                    } else {
-                        popup.classList.add(activeClass);
-                        sessionStorage.setItem('popupState', 'shown');
-                    } */
 
                     //Close popup
                     closeBtn.addEventListener('click', function() {
