@@ -92,21 +92,34 @@ add_action('wp_head', function () { ?>
         }
 
         (function() {
+            const popup = document.querySelector('.js-popup-newsletter');
+            const activeClass = 'popup-news--active';
+            const cookie = getCookie("hiddenNewsletter");
+
+            setTimeout(() => {
+                if(popup) {
+                    if(localStorage.getItem('popupState') === 'shown' || cookie) {
+                        popup.classList.remove(activeClass);
+                    }else {
+                        localStorage.setItem('popupState', 'shown');
+                        popup.classList.add(activeClass);
+                    }
+                }
+            }, 2000);
 
             //Open popup
             setTimeout(function() {
-                const popup = document.querySelector('.js-popup-newsletter');
-                const activeClass = 'popup-news--active';
                 const closeBtn = document.querySelector('.js-popup-close');
                 const forgetBtn = document.querySelector('.js-newsletter__popup-content-link');
-                const cookie = getCookie("hiddenNewsletter");
 
                 if (popup) {
                     
-                    if (sessionStorage.getItem('popupState') !== 'shown' || !cookie) {
+                    /* if (sessionStorage.getItem('popupState') === 'shown') {
+                        popup.classList.remove(activeClass);
+                    } else {
                         popup.classList.add(activeClass);
                         sessionStorage.setItem('popupState', 'shown');
-                    }
+                    } */
 
                     //Close popup
                     closeBtn.addEventListener('click', function() {
