@@ -11,17 +11,7 @@ function insert_html_in_header()
 /* Front End */
 add_action('wp_head', 'insert_html_in_header');
 
-/* wp_enqueue_style("newsletter-popup", get_stylesheet_directory_uri() . '/' . 'newsletter-popup.css'); */
-
-
-
-add_action( 'wp_footer', 'bbloomer_add_jscript_checkout', 9999 );
-function bbloomer_add_jscript_checkout() {
-    global $wp;
-    if ( is_checkout() && empty( $wp->query_vars['order-pay'] ) && ! isset( $wp->query_vars['order-received'] ) ) {
-        wp_enqueue_style("newsletter-popup", get_stylesheet_directory_uri() . '/' . 'newsletter-popup.css');
-    }
-}
+wp_enqueue_style("newsletter-popup", get_stylesheet_directory_uri() . '/' . 'newsletter-popup.css');
 
 
 // Auto uncheck "Ship to a different address"
@@ -236,21 +226,3 @@ add_action(
     'woocommerce_template_single_add_to_cart',
     15
 );
-
-//Add pardot script to footer
-add_action( 'wp_footer', function() { ?>
-    <script type="text/javascript">
-     piAId = '1008492';
-     piCId = '78812';
-     piHostname = 'pi.pardot.com';
-     (function() {
-                   function async_load(){
-                                var s = document.createElement('script'); s.type = 'text/javascript';
-                                s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-                                var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-                   }
-                   if(window.attachEvent) { window.attachEvent('onload', async_load); }
-                   else { window.addEventListener('load', async_load, false); }
-     })();
-     </script>
- <?php } );
