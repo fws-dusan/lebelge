@@ -11,7 +11,17 @@ function insert_html_in_header()
 /* Front End */
 add_action('wp_head', 'insert_html_in_header');
 
-wp_enqueue_style("newsletter-popup", get_stylesheet_directory_uri() . '/' . 'newsletter-popup.css');
+/* wp_enqueue_style("newsletter-popup", get_stylesheet_directory_uri() . '/' . 'newsletter-popup.css'); */
+
+
+
+add_action( 'wp_footer', 'bbloomer_add_jscript_checkout', 9999 );
+function bbloomer_add_jscript_checkout() {
+    global $wp;
+    if ( is_checkout() && empty( $wp->query_vars['order-pay'] ) && ! isset( $wp->query_vars['order-received'] ) ) {
+        wp_enqueue_style("newsletter-popup", get_stylesheet_directory_uri() . '/' . 'newsletter-popup.css');
+    }
+}
 
 
 // Auto uncheck "Ship to a different address"
